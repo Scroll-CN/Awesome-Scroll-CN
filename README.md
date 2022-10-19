@@ -25,6 +25,7 @@
 * [Twitter](https://twitter.com/Scroll_ZKP)
 * [Discord](https://discord.com/invite/CNzNVt4Feu)
 * [Github](https://github.com/scroll-tech)
+* [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
 
 # 文章
 
