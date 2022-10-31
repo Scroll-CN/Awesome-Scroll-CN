@@ -31,6 +31,27 @@
 
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
+* **官方博客**
+	1. [以太坊原生zkEVM Rollup介绍](https://mp.weixin.qq.com/s/hFmpwcGnaptLnn7CKCfsJw)
+	2. [Scroll的愿景与价值观](https://mp.weixin.qq.com/s/qj8nwkthiR6y-DiT2ytu0w)
+	3. [发布Pre-Alpha测试网](https://mp.weixin.qq.com/s/hhJnUKwA-nsnTXHXC1B9zQ)
+	4. [Scroll的技术原则](https://mp.weixin.qq.com/s/EmUWjmZ-LdTU3SgIdiu-Pw)
+	5. [Scroll的架构概览](https://mp.weixin.qq.com/s/h3WwBFGJoYCGWeCGa8IDtQ)
+	6. [升级Pre-Alpha测试网](https://mp.weixin.qq.com/s/DT3akZrIGczNc6A2mXKLmw)
+	7. KZG实践
+
+# 视频
+
+- **SBC zkEVM Workshop**
+	1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
+	2. [基础设施和测试网](https://mp.weixin.qq.com/s/4QTuDwDhBvD_sP8YHEf4vA)
+	3. [测试网现场演示](https://mp.weixin.qq.com/s/W9TfpWaHxx_LQHNLZ0CUeA)
+	4. [zkEVM架构介绍](https://mp.weixin.qq.com/s/Mnt3vDrXqxguLAptTPKwUA)
+	5. [zkEVM性能优化](https://mp.weixin.qq.com/s/-szybJZAb4AfBuDiFgtScQ)
+	6. [Halo2示例](https://mp.weixin.qq.com/s/2xvIdKBU2-oKJyatBO52rQ)
+- **Devcon Bogota**
+	1. [zk-Rollups的证明系统选择](https://mp.weixin.qq.com/s/YJ2jGX2ESyWbmG28LFKKdQ)
 
 # 书籍
+
 * [精通 zkEVM](https://zkevmbook.github.io/)
