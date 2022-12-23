@@ -42,6 +42,7 @@
 	5. [Scroll的架构概览](https://mp.weixin.qq.com/s/h3WwBFGJoYCGWeCGa8IDtQ)
 	6. [升级Pre-Alpha测试网](https://mp.weixin.qq.com/s/DT3akZrIGczNc6A2mXKLmw)
 	7. [KZG实践](https://mp.weixin.qq.com/s/MfTM8mXdbPgvu0XnDSObhg)
+	8. [解析证明生成](translation/Blogs/8.解析证明生成.md)
 
 # 视频
 
