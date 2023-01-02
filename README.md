@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="starknet logo" src="https://scroll.io/img/logo_with_text.ff8e8db3.png" width="200" >
+  <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
   <h1 align="center">Awesome Scroll 中文</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -35,13 +35,13 @@
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
 * **官方博客**
-	1. [以太坊原生zkEVM Rollup介绍](https://mp.weixin.qq.com/s/hFmpwcGnaptLnn7CKCfsJw)
-	2. [Scroll的愿景与价值观](https://mp.weixin.qq.com/s/qj8nwkthiR6y-DiT2ytu0w)
-	3. [发布Pre-Alpha测试网](https://mp.weixin.qq.com/s/hhJnUKwA-nsnTXHXC1B9zQ)
-	4. [Scroll的技术原则](https://mp.weixin.qq.com/s/EmUWjmZ-LdTU3SgIdiu-Pw)
-	5. [Scroll的架构概览](https://mp.weixin.qq.com/s/h3WwBFGJoYCGWeCGa8IDtQ)
-	6. [升级Pre-Alpha测试网](https://mp.weixin.qq.com/s/DT3akZrIGczNc6A2mXKLmw)
-	7. [KZG实践](https://mp.weixin.qq.com/s/MfTM8mXdbPgvu0XnDSObhg)
+	1. [以太坊原生zkEVM Rollup介绍](translation/Scroll Blogs/1.zkEVM介绍.md)
+	2. [Scroll的愿景与价值观](translation/Scroll Blogs/2.愿景与价值观.md)
+	3. [发布Pre-Alpha测试网](translation/Scroll Blogs/3.Pre-Alpha测试网.md)
+	4. [Scroll的技术原则](translation/Scroll Blogs/4.技术原则.md)
+	5. [Scroll的架构概览](translation/Scroll Blogs/5.架构概览.md)
+	6. [升级Pre-Alpha测试网](translation/Scroll Blogs/6.升级Pre-Alpha测试网.md)
+	7. [KZG实践](translation/Scroll Blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
 	8. [解析证明生成](translation/Blogs/8.解析证明生成.md)
 
 # 视频
@@ -100,3 +100,6 @@
 - GetBlockWallet	Extension Wallet	Infra	Wallet
 - Multichain	Cross-Chain 	Infra	Bridge
 - Covalant	API Services	Infra	Dev Tool
+- BlockPI	RPC Services	Infra	Dev Tool
+- UniPass	Multi-chain  identity and wallet	Infra	Wallet
+- OpenBlockWallet	MPC Wallet	Infra	Wallet
