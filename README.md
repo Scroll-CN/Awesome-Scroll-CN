@@ -22,12 +22,12 @@
 
 
 # `fas:Scroll`官方资源
-
 * `rir:Global`[官网](https://scroll.io/)
 - `ris:Twitter`[Twitter](https://twitter.com/Scroll_ZKP)
 * `ris:Discord`[Discord](https://discord.com/invite/CNzNVt4Feu)
 * `ris:Github`[Github](https://github.com/scroll-tech)
 * `fas:Scroll`[品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
+
 
 # `ris:Article`文章
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
