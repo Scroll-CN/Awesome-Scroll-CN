@@ -3,9 +3,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
 </head>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
-
 <div align="center">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
   <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
   <h1 align="center">Awesome Scroll 中文</h1>
   <p align="center">
@@ -32,7 +30,7 @@
 # 官方资源
 
 * [官网](https://scroll.io/)
-- *<i class="fa-brands fa-twitter"></i>[Twitter](https://twitter.com/Scroll_ZKP)
+- <i class="fa-brands fa-twitter"></i>[Twitter](https://twitter.com/Scroll_ZKP)
 * [Discord](https://discord.com/invite/CNzNVt4Feu)
 * [Github](https://github.com/scroll-tech)
 * [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
