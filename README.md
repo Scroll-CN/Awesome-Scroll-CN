@@ -1,7 +1,4 @@
-<head> <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> </head>
-
 <div align="center">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
   <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
   <h1 align="center">Awesome Scroll 中文</h1>
   <p align="center">
@@ -23,17 +20,16 @@
 
 # 目录
 
-[toc]
 
-# 官方资源
+# `fas:Scroll`官方资源
 
-* [官网](https://scroll.io/)
-- *<i class="fa-brands fa-twitter"></i>[Twitter](https://twitter.com/Scroll_ZKP)
-* [Discord](https://discord.com/invite/CNzNVt4Feu)
-* [Github](https://github.com/scroll-tech)
-* [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
+* `rir:Global`[官网](https://scroll.io/)
+- `ris:Twitter`[Twitter](https://twitter.com/Scroll_ZKP)
+* `ris:Discord`[Discord](https://discord.com/invite/CNzNVt4Feu)
+* `ris:Github`[Github](https://github.com/scroll-tech)
+* `fas:Scroll`[品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
 
-# 文章
+# `ris:Article`文章
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
 * **官方博客**
@@ -47,7 +43,7 @@
 	8. [解析证明生成](./translation/Scroll%20Blogs/8.解析证明生成.md)
 	9. [Pre-Alpha测试网版本升级说明](transaltion/Scroll%20Blogs/9.Pre-Alpha测试网版本升级说明.md)
 
-# 视频
+# `ris:VideoDownload`视频
 
 - **SBC zkEVM Workshop**
   1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
@@ -56,14 +52,15 @@
   4. [zkEVM架构介绍](https://mp.weixin.qq.com/s/Mnt3vDrXqxguLAptTPKwUA)
   5. [zkEVM性能优化](https://mp.weixin.qq.com/s/-szybJZAb4AfBuDiFgtScQ)
   6. [Halo2示例](https://mp.weixin.qq.com/s/2xvIdKBU2-oKJyatBO52rQ)
-- **Scroll Rollup Day**
 
+- **Scroll Rollup Day**
   1. [Vitalik介绍用多重证明强化Rollup安全性](https://mp.weixin.qq.com/s/91qA1VvnuS59F5q5e-pV8A)
   2. [Infura介绍可验证资产桥的扩容方案](https://mp.weixin.qq.com/s/Bv0TRQqHlEJU9wnlXkWb9A)
   3. [Optimism介绍EIP-4844和Danksharding](https://mp.weixin.qq.com/s/r0Ub95Wuk5hxBxoAzniOxg)
   4. [圆桌讨论“用Rollup构建创新应用”](https://mp.weixin.qq.com/s/UEo-dDeLMkdrXOdh8z732w)
   5. [圆桌讨论“我们需要多少EVM”](https://mp.weixin.qq.com/s/d8q_EFzImgpKlxPbJp-H1Q)
   6. [圆桌讨论“L2协议的MEV”](https://mp.weixin.qq.com/s/P_XDG4o2ZIQbLmaTt2wXFg)
+
 - **Devcon Bogota**
 
   1. [zk-Rollups的证明系统选择](https://mp.weixin.qq.com/s/YJ2jGX2ESyWbmG28LFKKdQ)
@@ -81,7 +78,7 @@
 	- [Scroll x Austin Griffith：开发zkEVM应用](https://mp.weixin.qq.com/s/dpqqOg-B9pI1RlUMwfqMfA)
 
 
-# 书籍
+# `fas:Book`书籍
 
 * [精通 zkEVM](https://zkevmbook.github.io/)
 
@@ -89,7 +86,7 @@
 
 
 
-# 生态项目
+# `ris:Home`生态项目
 
 - [Safe](https://www.notion.so/Safe-199eca4db7fd40b5abba3f8dcd7c4218)
 - [The Graph](https://www.notion.so/The-Graph-b9474cebd6114b1cbe72178cd4811975)
