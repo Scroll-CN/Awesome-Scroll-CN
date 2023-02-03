@@ -18,7 +18,7 @@
   Scroll以太坊的原生的zkEVM Layer 2 解决方案
 </div>
 
-<div><p><font size=100 ><b><center>目录</center></b></font></p></div>
+<div><p style = "font-size: 100px" ><b><center>目录</center></b></p></div>
 
 <!--ts-->
 * [官方资源](#官方资源)
