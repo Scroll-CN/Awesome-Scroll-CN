@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
-  <p style="font-size: 40px" align="center">Awesome Scroll 中文</p>
+  <p align="center"><font size = 7 >Awesome Scroll 中文</font></p>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -18,7 +18,7 @@
   Scroll以太坊的原生的zkEVM Layer 2 解决方案
 </div>
 
-<div><p><font size=6 ><b><center>目录</center></b></font></p></div>
+<div><p><font size=7 ><b><center>目录</center></b></font></p></div>
 
 <!--ts-->
 * [官方资源](#官方资源)
