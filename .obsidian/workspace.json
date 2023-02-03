@@ -128,14 +128,21 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "a78e6d58463a795e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d6ffc0ec96009e4",
+  "active": "a78e6d58463a795e",
   "lastOpenFiles": [
     "translation/Scroll Blogs/9.Pre-Alpha测试网版本升级说明.md",
     "README.md",

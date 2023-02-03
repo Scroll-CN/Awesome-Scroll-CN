@@ -18,12 +18,16 @@
   Scroll以太坊的原生的zkEVM Layer 2 解决方案
 </div>
 
-# 目录
-
+<h1><center>目录</center></h1>
+```toc
+style: number 
+min_depth: 1 
+max_depth: 6 
+```
 
 
 # 官方资源
-*  [官网](https://scroll.io/)
+* [官网](https://scroll.io/)
 - [Twitter](https://twitter.com/Scroll_ZKP)
 * [Discord](https://discord.com/invite/CNzNVt4Feu)
 * [Github](https://github.com/scroll-tech)
@@ -33,21 +37,21 @@
 # 文章
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
-* **官方博客**
-	1. [zkEVM介绍](translation/Scroll%20Blogs/1.zkEVM介绍.md)
-	2. [Scroll的愿景与价值观](translation/Scroll%20Blogs/2.愿景与价值观.md)
-	3. [发布Pre-Alpha测试网](translation/Scroll%20Blogs/3.Pre-Alpha测试网.md)
-	4. [Scroll的技术原则](./translation/Scroll%20Blogs/4.技术原则.md)
-	5. [Scroll的架构概览](./translation/Scroll%20Blogs/5.架构概览.md)
-	6. [升级Pre-Alpha测试网](./translation/Scroll%20Blogs/6.升级Pre-Alpha测试网.md)
-	7. [KZG实践](./translation/Scroll%20Blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
-	8. [解析证明生成](./translation/Scroll%20Blogs/8.解析证明生成.md)
-	9. [Pre-Alpha测试网版本升级说明](translation/Scroll%20Blogs/9.Pre-Alpha测试网版本升级说明.md)
+## 官方博客
+1. [zkEVM介绍](translation/Scroll%20Blogs/1.zkEVM介绍.md)
+1. [Scroll的愿景与价值观](translation/Scroll%20Blogs/2.愿景与价值观.md)
+2. [发布Pre-Alpha测试网](translation/Scroll%20Blogs/3.Pre-Alpha测试网.md)
+3. [Scroll的技术原则](./translation/Scroll%20Blogs/4.技术原则.md)
+4. [Scroll的架构概览](./translation/Scroll%20Blogs/5.架构概览.md)
+5. [升级Pre-Alpha测试网](./translation/Scroll%20Blogs/6.升级Pre-Alpha测试网.md)
+6. [KZG实践](./translation/Scroll%20Blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
+7. [解析证明生成](./translation/Scroll%20Blogs/8.解析证明生成.md)
+8. [Pre-Alpha测试网版本升级说明](translation/Scroll%20Blogs/9.Pre-Alpha测试网版本升级说明.md)
 
 
 # 视频
 
-## **SBC zkEVM Workshop**
+## SBC zkEVM Workshop
   1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
   2. [基础设施和测试网](https://mp.weixin.qq.com/s/4QTuDwDhBvD_sP8YHEf4vA)
   3. [测试网现场演示](https://mp.weixin.qq.com/s/W9TfpWaHxx_LQHNLZ0CUeA)
@@ -55,7 +59,7 @@
   5. [zkEVM性能优化](https://mp.weixin.qq.com/s/-szybJZAb4AfBuDiFgtScQ)
   6. [Halo2示例](https://mp.weixin.qq.com/s/2xvIdKBU2-oKJyatBO52rQ)
 
-## **Scroll Rollup Day**
+## Scroll Rollup Day
   1. [Vitalik介绍用多重证明强化Rollup安全性](https://mp.weixin.qq.com/s/91qA1VvnuS59F5q5e-pV8A)
   2. [Infura介绍可验证资产桥的扩容方案](https://mp.weixin.qq.com/s/Bv0TRQqHlEJU9wnlXkWb9A)
   3. [Optimism介绍EIP-4844和Danksharding](https://mp.weixin.qq.com/s/r0Ub95Wuk5hxBxoAzniOxg)
@@ -63,15 +67,14 @@
   5. [圆桌讨论“我们需要多少EVM”](https://mp.weixin.qq.com/s/d8q_EFzImgpKlxPbJp-H1Q)
   6. [圆桌讨论“L2协议的MEV”](https://mp.weixin.qq.com/s/P_XDG4o2ZIQbLmaTt2wXFg)
 
-## **Devcon Bogota**
-
+## Devcon Bogota
   1. [zk-Rollups的证明系统选择](https://mp.weixin.qq.com/s/YJ2jGX2ESyWbmG28LFKKdQ)
   1. [架构介绍和Pre-Alpha测试网更新](https://mp.weixin.qq.com/s/SLsXldOJfY_YKoiIul6tCw)
   1. [智能合约部署和Scroll架构](https://mp.weixin.qq.com/s/oAkl8zDBFiu6CQNYoa51eg)
   1. [以太坊执行层并行化的挑战](https://mp.weixin.qq.com/s/-7jTgUxJ9t3CGftrudg2hw)
   1. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
-## **Workshop**
 
+## Workshop
 - [zkEVM Rollups扩容以太坊之争](https://mp.weixin.qq.com/s/nVZxxEGRWxAbM_b5mSCnkA)
 - **Others**
 	- Scroll x Dapp Learning
