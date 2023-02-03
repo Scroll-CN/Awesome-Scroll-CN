@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +150,9 @@
   },
   "active": "edd8e28e7df2ca0a",
   "lastOpenFiles": [
-    "translation/Scroll Blogs/1.zkEVM介绍.md",
-    "README.md",
     "translation/Scroll Blogs/9.Pre-Alpha测试网版本升级说明.md",
+    "README.md",
+    "translation/Scroll Blogs/1.zkEVM介绍.md",
     "translation/Scroll Blogs/8.解析证明生成.md",
     "translation/Scroll-Blogs/1.zkEVM介绍.md",
     "translation/Scroll Blogs/2.愿景与价值观.md"

@@ -1,4 +1,7 @@
+<head> <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> </head>
+
 <div align="center">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
   <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
   <h1 align="center">Awesome Scroll 中文</h1>
   <p align="center">
@@ -25,13 +28,12 @@
 # 官方资源
 
 * [官网](https://scroll.io/)
-* [Twitter](https://twitter.com/Scroll_ZKP)
+- *<i class="fa-brands fa-twitter"></i>[Twitter](https://twitter.com/Scroll_ZKP)
 * [Discord](https://discord.com/invite/CNzNVt4Feu)
 * [Github](https://github.com/scroll-tech)
 * [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
 
 # 文章
-
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
 * **官方博客**
@@ -88,22 +90,24 @@
 
 
 # 生态项目
-| Protocol | Intro | Category | Sub-Category |
-| -------- | ----- | -------- | ------------ |
-| Ante Protocol |   Smart Tests for Smart Contracts    |    Infra   | Dev Tool    |
 
-- Ante Protocol	Smart Tests for Smart Contracts	Infra	Dev Tool
-- Unifra Network	Development infrastructure	Infra	Dev Tool
-- RedStone	EVM compatible Oracles	Infra	Oracles
-- Orbiter	Best Bridge in L2s	Defi	Bridge
-- Uniswap V3	Largest AMM Dex	Defi	Dex
-- BigBang	Social protcol for projects	Infra	Promotion
-- zCloak	Privacy DID	Infra	DID
-- Atem	Decentralized content creation protocol	Social	Creation
-- Keystone	Hardware Wallet	Infra	Wallet
-- GetBlockWallet	Extension Wallet	Infra	Wallet
-- Multichain	Cross-Chain 	Infra	Bridge
-- Covalant	API Services	Infra	Dev Tool
-- BlockPI	RPC Services	Infra	Dev Tool
-- UniPass	Multi-chain  identity and wallet	Infra	Wallet
-- OpenBlockWallet	MPC Wallet	Infra	Wallet
+- [Safe](https://www.notion.so/Safe-199eca4db7fd40b5abba3f8dcd7c4218)
+- [The Graph](https://www.notion.so/The-Graph-b9474cebd6114b1cbe72178cd4811975)
+- [Hop Protocol](https://www.notion.so/Hop-Protocol-cb3a4c2371704bef85741dc4d5749194)
+- [Multichain](https://www.notion.so/Multichain-96b8c3697d154b4f88506523930748ca)
+- [Transpose](https://www.notion.so/Transpose-9d68c67366ab4c77abda59042e5e331f)
+- [OpenBlockWallet](https://www.notion.so/OpenBlockWallet-cf2b9e192b054e2a83712ad33311b60a)
+- [UniPass](https://www.notion.so/UniPass-68433287eeb0455c8199011c6e7166d0)
+- [BlockPI](https://www.notion.so/BlockPI-072ef054929c49b8b6f31a1be91e022b)
+- [Covalant](https://www.notion.so/Covalant-ccc2004d4923437488e8c16415a8a7a2)
+- [Multichain](https://www.notion.so/Multichain-e4a370fb55e3424aadbc4e833883f098)
+- [Block Wallet](https://www.notion.so/Block-Wallet-aed176aa92dd480a958351db7dc1c6c7)
+- [Keystone](https://www.notion.so/Keystone-7f4503e54e0f4c5e979fa9734235733a)
+- [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
+- [Unifra Network](https://www.notion.so/Unifra-Network-f07f90591de746a5ad84f8927baca6c6)
+- [zCloak](https://www.notion.so/zCloak-8a83f3f1689e4535a3922e055f4c1572)
+- [BigBang](https://www.notion.so/BigBang-c258209428c64d6dabd1bd5bcc5079e5)
+- [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
+- [Orbiter](https://www.notion.so/Orbiter-0ac99d2eb1124d9f877e351362fe7038)
+- [**Ante Protocol**](https://www.notion.so/Ante-Protocol-4376d23d3c244b578a452033136a08c6)
+- [RedStone](https://www.notion.so/RedStone-56a1241d81724877b0fcadf2d010af8f)
