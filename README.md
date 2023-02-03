@@ -1,4 +1,8 @@
-<head> <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> </head>
+<head>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
+</head>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
 <div align="center">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
