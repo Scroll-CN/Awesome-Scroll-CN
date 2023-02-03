@@ -18,17 +18,23 @@
   Scroll以太坊的原生的zkEVM Layer 2 解决方案
 </div>
 
-<h1><center>目录</center></h1>
-```toc
-style: number 
-min_depth: 1 
-max_depth: 6 
-```
+<div><h1><center>目录</center></h1></div>
+- [官方资源](#官方资源)
+- [文章](#文章)
+  - [官方博客](#官方博客)
+- [视频](#视频)
+  - [SBC zkEVM Workshop](#sbc-zkevm-workshop)
+  - [Scroll Rollup Day](#scroll-rollup-day)
+  - [Devcon Bogota](#devcon-bogota)
+  - [Workshop](#workshop)
+- [书籍](#书籍)
+- [生态项目](#生态项目)
+
 
 
 # 官方资源
 * [官网](https://scroll.io/)
-- [Twitter](https://twitter.com/Scroll_ZKP)
+* [Twitter](https://twitter.com/Scroll_ZKP)
 * [Discord](https://discord.com/invite/CNzNVt4Feu)
 * [Github](https://github.com/scroll-tech)
 * [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
