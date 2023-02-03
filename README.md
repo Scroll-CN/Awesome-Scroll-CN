@@ -20,17 +20,8 @@
 
 <div><h1><center>目录</center></h1></div>
 
-- [官方资源](#官方资源)
-- [文章](#文章)
-  - [官方博客](#官方博客)
-- [视频](#视频)
-  - [SBC zkEVM Workshop](#sbc-zkevm-workshop)
-  - [Scroll Rollup Day](#scroll-rollup-day)
-  - [Devcon Bogota](#devcon-bogota)
-  - [Workshop](#workshop)
-- [书籍](#书籍)
-- [生态项目](#生态项目)
-
+<!--ts-->
+<!--te-->
 
 
 # 官方资源
