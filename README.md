@@ -21,8 +21,6 @@
 <div><p><font size=6 ><b><center>目录</center></b></font></p></div>
 
 <!--ts-->
-* [Awesome Scroll 中文](#awesome-scroll-中文)
-* [目录](#目录)
 * [官方资源](#官方资源)
 * [文章](#文章)
    * [官方博客](#官方博客)
@@ -35,7 +33,7 @@
 * [生态项目](#生态项目)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Feb  3 07:07:02 UTC 2023 -->
+<!-- Added by: runner, at: Fri Feb  3 07:20:06 UTC 2023 -->
 
 <!--te-->
 
