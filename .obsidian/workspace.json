@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translation/Scroll Blogs/1.zkEVM介绍.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/Scroll Blogs/1.zkEVM介绍.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/Scroll Blogs/1.zkEVM介绍.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/Scroll Blogs/1.zkEVM介绍.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,5 +147,10 @@
     }
   },
   "active": "edd8e28e7df2ca0a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "translation/Scroll Blogs/9.Pre-Alpha测试网版本升级说明.md",
+    "README.md",
+    "translation/Scroll Blogs/1.zkEVM介绍.md",
+    "translation/Scroll Blogs/2.愿景与价值观.md"
+  ]
 }

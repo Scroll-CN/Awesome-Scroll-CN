@@ -35,7 +35,7 @@
 * [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
 * [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
 * **官方博客**
-	1. [以太坊原生zkEVM Rollup介绍](./translation/Scroll Blogs/1.zkEVM介绍.md)
+	1. [[1.zkEVM介绍]]
 	2. [Scroll的愿景与价值观](./translation/Scroll Blogs/2.愿景与价值观.md)
 	3. [发布Pre-Alpha测试网](./translation/Scroll Blogs/3.Pre-Alpha测试网.md)
 	4. [Scroll的技术原则](./translation/Scroll Blogs/4.技术原则.md)
@@ -43,6 +43,7 @@
 	6. [升级Pre-Alpha测试网](./translation/Scroll Blogs/6.升级Pre-Alpha测试网.md)
 	7. [KZG实践](./translation/Scroll Blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
 	8. [解析证明生成](./translation/Blogs/8.解析证明生成.md)
+	9. [[9.Pre-Alpha测试网版本升级说明]]
 
 # 视频
 
