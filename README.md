@@ -1,8 +1,3 @@
-<head>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>
-</head>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 <div align="center">
   <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
   <h1 align="center">Awesome Scroll 中文</h1>
