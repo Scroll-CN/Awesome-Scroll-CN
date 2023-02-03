@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd2072489e2cd4c",
+        "id": "75dc1cddf7874e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "edd8e28e7df2ca0a",
+            "id": "8d6ffc0ec96009e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cff3bc76ad2b3b6",
+  "active": "8d6ffc0ec96009e4",
   "lastOpenFiles": [
     "translation/Scroll Blogs/9.Pre-Alpha测试网版本升级说明.md",
     "README.md",
+    "transaltion/Scroll Blogs/9.Pre-Alpha测试网版本升级说明.md",
     "translation/Scroll Blogs/1.zkEVM介绍.md",
     "translation/Scroll Blogs/8.解析证明生成.md",
     "translation/Scroll-Blogs/1.zkEVM介绍.md",
