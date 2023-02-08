@@ -5,21 +5,14 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "FarFolder-open"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": "folder",
-        "icon": "FarFolder-open",
-        "for": "folders"
-      },
-      {
         "rule": "md",
         "icon": "FabMarkdown",
-        "for": "everything",
-        "color": "#ffffff"
+        "for": "files",
+        "color": "#1150e4"
       }
     ],
     "extraMargin": {
@@ -28,7 +21,5 @@
       "bottom": 0,
       "left": 0
     }
-  },
-  "Scroll Updates": "FarFolder-open",
-  "translation": "FarFolder-open"
+  }
 }

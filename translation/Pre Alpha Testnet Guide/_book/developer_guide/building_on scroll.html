@@ -1,0 +1,596 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>在Scroll上开发 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../(developer_guide/quickstart.html" />
+    
+    
+    <link rel="prev" href="./" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Pre-Alpha测试网用户指南
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../user_guide/">
+            
+                <a href="../user_guide/">
+            
+                    
+                    用户指南
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../user_guide/setup.html">
+            
+                <a href="../user_guide/setup.html">
+            
+                    
+                    设置
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../user_guide/faucet.html">
+            
+                <a href="../user_guide/faucet.html">
+            
+                    
+                    水龙头
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../user_guide/bridge/">
+            
+                <a href="../user_guide/bridge/">
+            
+                    
+                    跨链桥
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.3.1" data-path="../user_guide/bridge/deposit.html">
+            
+                <a href="../user_guide/bridge/deposit.html">
+            
+                    
+                    从Scroll L1 存款至 Scroll L2
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.2" data-path="../user_guide/bridge/withdraw.html">
+            
+                <a href="../user_guide/bridge/withdraw.html">
+            
+                    
+                    从Scroll L2 提款至 Scroll L1
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="../user_guide/transfer_token.html">
+            
+                <a href="../user_guide/transfer_token.html">
+            
+                    
+                    代币转账
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="../user_guide/swap/">
+            
+                <a href="../user_guide/swap/">
+            
+                    
+                    交易（Swap）
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.5.1" data-path="../user_guide/swap/swap_tokens.html">
+            
+                <a href="../user_guide/swap/swap_tokens.html">
+            
+                    
+                    交易代币
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5.2" data-path="../user_guide/swap/provide_liquidity.html">
+            
+                <a href="../user_guide/swap/provide_liquidity.html">
+            
+                    
+                    提供流动性
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5.3" data-path="../user_guide/swap/check_liquidity_pool.html">
+            
+                <a href="../user_guide/swap/check_liquidity_pool.html">
+            
+                    
+                    检查流动性池
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="../user_guide/rollup_explorer.html">
+            
+                <a href="../user_guide/rollup_explorer.html">
+            
+                    
+                    Rollup 浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="../user_guide/L1&L2_explorer.html">
+            
+                <a href="../user_guide/L1&L2_explorer.html">
+            
+                    
+                    L1 & L2 区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.8" data-path="../user_guide/common_errors.html">
+            
+                <a href="../user_guide/common_errors.html">
+            
+                    
+                    常见错误
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.9" data-path="../user_guide/questions&feedback.html">
+            
+                <a href="../user_guide/questions&feedback.html">
+            
+                    
+                    问题和反馈
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    开发者指南
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.3.1" data-path="building_on scroll.html">
+            
+                <a href="building_on scroll.html">
+            
+                    
+                    在Scroll上开发
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../(developer_guide/quickstart.html">
+            
+                <a href="../(developer_guide/quickstart.html">
+            
+                    
+                    开发者快速上手
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="contract_deployment.html">
+            
+                <a href="contract_deployment.html">
+            
+                    
+                    合约部署教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="tesenet_contract.html">
+            
+                <a href="tesenet_contract.html">
+            
+                    
+                    Pre-Alpha测试网合约
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="integrations.html">
+            
+                <a href="integrations.html">
+            
+                    
+                    生态集成
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="eth_pre_alpha_differences.html">
+            
+                <a href="eth_pre_alpha_differences.html">
+            
+                    
+                    以太坊和Pre-Alpha测试网区别
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" >
+            
+                <a target="_blank" href="https://scroll.io/prealpha">
+            
+                    
+                    Pre-Alpha测试网
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" >
+            
+                <a target="_blank" href="https://l1scan.scroll.io/">
+            
+                    
+                    L1区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" >
+            
+                <a target="_blank" href="https://l2scan.scroll.io/">
+            
+                    
+                    L2区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" >
+            
+                <a target="_blank" href="https://scroll.io/prealpha/rollupscan">
+            
+                    
+                    Rollup浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >在Scroll上开发</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x5728;scroll&#x4E0A;&#x5F00;&#x53D1;">&#x5728;Scroll&#x4E0A;&#x5F00;&#x53D1;</h1>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="./" class="navigation navigation-prev " aria-label="Previous page: 开发者指南">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../(developer_guide/quickstart.html" class="navigation navigation-next " aria-label="Next page: 开发者快速上手">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"在Scroll上开发","level":"1.3.1","depth":2,"next":{"title":"开发者快速上手","level":"1.3.2","depth":2,"path":"(developer_guide/quickstart.md","ref":"(developer_guide/quickstart.md","articles":[]},"previous":{"title":"开发者指南","level":"1.3","depth":1,"path":"developer_guide/README.md","ref":"developer_guide/README.md","articles":[{"title":"在Scroll上开发","level":"1.3.1","depth":2,"path":"developer_guide/building_on scroll.md","ref":"developer_guide/building_on scroll.md","articles":[]},{"title":"开发者快速上手","level":"1.3.2","depth":2,"path":"(developer_guide/quickstart.md","ref":"(developer_guide/quickstart.md","articles":[]},{"title":"合约部署教程","level":"1.3.3","depth":2,"path":"developer_guide/contract_deployment.md","ref":"developer_guide/contract_deployment.md","articles":[]},{"title":"Pre-Alpha测试网合约","level":"1.3.4","depth":2,"path":"developer_guide/tesenet_contract.md","ref":"developer_guide/tesenet_contract.md","articles":[]},{"title":"生态集成","level":"1.3.5","depth":2,"path":"developer_guide/integrations.md","ref":"developer_guide/integrations.md","articles":[]},{"title":"以太坊和Pre-Alpha测试网区别","level":"1.3.6","depth":2,"path":"developer_guide/eth_pre_alpha_differences.md","ref":"developer_guide/eth_pre_alpha_differences.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"developer_guide/building_on scroll.md","mtime":"2023-02-07T15:59:42.833Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-02-08T11:57:49.846Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

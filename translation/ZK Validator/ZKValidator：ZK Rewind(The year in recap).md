@@ -22,7 +22,7 @@
 10. 研究很重要
 11. 结论
 
-#  公众兴趣![📣](https://s.w.org/images/core/emoji/14.0.0/svg/1f4e3.svg)
+#  公众兴趣!📣
 
 根据谷歌趋势数据，2022 年人们对搜索“零知识证明”的兴趣激增，即使在今年下半年严酷的熊市中，兴趣也一直保持上升趋势。
 
@@ -60,12 +60,11 @@ https://youtu.be/mrf9HjjL_38
 
 也出现更多的玩家。最值得注意的公告之一是 RiscZero 构建了一个“通用零知识虚拟机”。此外，正在以太坊上构建基于 zkEVM 的 zkRollup 的 Scroll，推出了带演示功能的[Pre-Alpha 测试网](https://scroll.io/blog/preAlphaTestnet)（也在 EthCC 期间宣布！）。
 
-#  测试网变得越来越快![⏩](https://s.w.org/images/core/emoji/14.0.0/svg/23e9.svg)
+#  测试网变得越来越快! ⏩
 
 随着零知识技术在区块链行业的传播，三个有前景的参与者向主网迈出了重要的一步。
 
 在今年的最后一个季度，Aleo 进行了重大改进并推出了他们的 Testnet 3，该测试网分为三个阶段。该版本允许开发者在网络上开始编写、部署和执行 Aleo 程序。此外，它还引入了一种新的共识算法 AleoBFT，它将PoS共识算法（基于 DiemBFT）与PoW的证明者激励方案相结合。
-
 <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" title="推特推文" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19zaG93X2J1c2luZXNzX3ZlcmlmaWVkX2JhZGdlIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19jaGluX3BpbGxzXzE0NzQxIjp7ImJ1Y2tldCI6ImNvbG9yX2ljb25zIiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9yZXN1bHRfbWlncmF0aW9uXzEzOTc5Ijp7ImJ1Y2tldCI6InR3ZWV0X3Jlc3VsdCIsInZlcnNpb24iOm51bGx9LCJ0ZndfbWl4ZWRfbWVkaWFfMTU4OTciOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd19zZW5zaXRpdmVfbWVkaWFfaW50ZXJzdGl0aWFsXzEzOTYzIjp7ImJ1Y2tldCI6ImludGVyc3RpdGlhbCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2R1cGxpY2F0ZV9zY3JpYmVzX3RvX3NldHRpbmdzIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd192aWRlb19obHNfZHluYW1pY19tYW5pZmVzdHNfMTUwODIiOnsiYnVja2V0IjoidHJ1ZV9iaXRyYXRlIiwidmVyc2lvbiI6bnVsbH0sInRmd19zaG93X2JsdWVfdmVyaWZpZWRfYmFkZ2UiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfZ292X3ZlcmlmaWVkX2JhZGdlIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19zaG93X2J1c2luZXNzX2FmZmlsaWF0ZV9iYWRnZSI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1599524202767425536&amp;lang=en&amp;origin=https%3A%2F%2Fzkvalidator.com%2Fzk-tech-in-2022%2F&amp;sessionId=2190aee250bff195dcf53c11d2504e03bbfebd8e&amp;theme=light&amp;widgetsVersion=a3525f077c700%3A1667415560940&amp;width=550px" data-tweet-id="1599524202767425536" style="box-sizing: border-box; max-width: 100%; width: 550px; margin: 0px; line-height: 1; border: none; position: static; visibility: visible; height: 370px; display: block; flex-grow: 1;"></iframe>
 
 另一个在他们的测试网上取得进步的参与者是 Namada，它是 Anoma 的一个分支实例，将隐私资产带入了 Cosmos 生态系统。他们运行了一个隐私测试网，其中 ZKV 是验证者的一部分，并于 12 月 20 日启动了他们的第一个公共测试网。
