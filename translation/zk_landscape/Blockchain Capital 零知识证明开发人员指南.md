@@ -2,10 +2,10 @@
 
 去年夏天，Vitalik 写了[一篇博客，概述了不同类型的 zkEVM](https://vitalik.ca/general/2022/08/04/zkevm.html)  （零知识以太坊虚拟机）。他根据性能和兼容性的权衡来定义它们。
 
-[![](https://blockchain.capital/wp-content/uploads/2023/02/vitalikzk.png)](https://blockchain.capital/wp-content/uploads/2023/02/vitalikzk.png)
+![zkEVMs](img/developer_guide_to_the_zkGalaxy_1.png)
 Vitalik 在性能和兼容性之间对 zkEVM的分类
 
-这是一种非常有用的启发式方法，可以区分支持 zkEVM 的方法。但是，zkEVM 是构建零知识应用程序的所有可能方法的一个子集。对于想要利用 zk 计算的独特属性（即 **简洁性、零知识和正确性**）的程序员来说，zkEVM 可能不是最佳选择。通过布置整套开发人员工具，我希望提供一个指南，帮助您围绕适合您的应用程序的正确 zk 堆栈做出决策。
+这是一种非常有启发性且有用的分类方法，可以区分支持 zkEVM 的方法。但是，zkEVM 是构建零知识应用程序的所有可能方法的一个子集。对于想要利用 zk 计算的独特属性（即 **简洁性、零知识和正确性**）的程序员来说，zkEVM 可能不是最佳选择。通过布置整套开发人员工具，我希望提供一个指南，帮助您围绕适合您的应用程序的正确 zk 堆栈做出决策。
 
 在过去的一两年中，zk 工具取得了巨大的进步。他们正在接近普通软件开发人员可以利用 zk 的强大属性而无需深入了解令人生畏的底层数学和工程的地步。另一方面，为高级用户提供的工具激增，使 zk 专家能够极其精细地控制 zk 堆栈。
 

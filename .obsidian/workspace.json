@@ -8,35 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3b880e56600768f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b161af35094b976d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "51ef9b0eadab5ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translation/zk_landscape/Blockchain Capital 零知识证明开发人员指南.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e14169a67d17c363",
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/zk_landscape/Blockchain Capital 零知识证明开发人员指南.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/zk_landscape/Blockchain Capital 零知识证明开发人员指南.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/zk_landscape/Blockchain Capital 零知识证明开发人员指南.md"
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md"
               }
             }
           }
@@ -168,15 +150,15 @@
   },
   "active": "51ef9b0eadab5ffd",
   "lastOpenFiles": [
-    "translation/Pre Alpha Testnet Guide/developer_guide/building_on scroll.md",
-    "translation/Pre Alpha Testnet Guide/developer_guide/integrations.md",
-    "translation/Pre Alpha Testnet Guide/developer_guide/README.md",
-    "translation/Pre Alpha Testnet Guide/user_guide/faucet.md",
-    "translation/Pre Alpha Testnet Guide/book.json.md",
-    "translation/Pre Alpha Testnet Guide/user_guide/common_errors.md",
-    "translation/Pre Alpha Testnet Guide/user_guide/transfer_token.md",
-    "translation/Pre Alpha Testnet Guide/user_guide/setup.md",
-    "translation/Pre Alpha Testnet Guide/user_guide/rollup_explorer.md",
-    "translation/Pre Alpha Testnet Guide/user_guide/README.md"
+    "translation/pre_alpha_testnet_guide/SUMMARY.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/contract_deployment.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/quickstart.md",
+    "translation/pre_alpha_testnet_guide/README.md",
+    "translation/zk_landscape/Blockchain Capital 零知识证明开发人员指南.md",
+    "README.md",
+    "translation/zk_landscape/img/developer_guide_to_the_zkGalaxy_1.png",
+    "translation/zk_landscape/img/developer_guide_to_the_zkGalaxy_2.png",
+    "translation/Pre Alpha Testnet Guide/developer_guide/building_on scroll.md"
   ]
 }
