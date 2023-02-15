@@ -5,20 +5,17 @@
 对于开源贡献者和基础设施建设者，请联系我们的团队以获得更多支持。
 
 {% hint style="info" %}
-
 对于一般的 Solidity 开发者来说，这些细节不会影响你的开发体验。
-
 {% endhint %}
 
 ## EVM 操作码
 
-| Opcode                      | Solidity Equivalent | Ethereum                                                                                                                       | Scroll                                                   |
-| --------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| `BLOCKHASH`                 | `block.blockhash`   | **输入：** 从栈顶开始的`blocknumber`，有效范围[`NUMBER -256`, `NUMBER-1`] **输出：** 给定区块的哈希，如果不在有效范围内，返回0 | 匹配以太坊,但限制输入范围的`blocknumber`为`NUMBER -1 ` |
-| `COINBASE`                  | `block.coinbase`    | 在以太坊 Clique 中，是签名者的以太坊地址                                                                                                                               |      目前匹配以太坊，将变更为指向一个预部署的费用池合约                                                    |
-| `DIFFICULTY` / `PREVRANDAO` | `block.difficulty`  | PoS后，为前一个区块的 `random` 值                                                                                              | 返回0                                                    |
-| `SELFDESTRUCT`              | `selfdestruct`      | 计划作废，并用 `SENDALL` 替换                                                                                                                 |    在排序器中禁用，未来会采用以太坊的方案                                                      |
-
+| Opcode                      | Solidity Equivalent | Ethereum                                                                                   | Scroll                                  |
+| --------------------------- | ------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------- |
+| `BLOCKHASH`                 | `block.blockhash`   | **输入：** 从栈顶开始的`blocknumber`，有效范围\[`NUMBER -256`, `NUMBER-1`] **输出：** 给定区块的哈希，如果不在有效范围内，返回0 | 匹配以太坊,但限制输入范围的`blocknumber`为`NUMBER -1` |
+| `COINBASE`                  | `block.coinbase`    | 在以太坊 Clique 中，是签名者的以太坊地址                                                                   | 目前匹配以太坊，将变更为指向一个预部署的费用池合约               |
+| `DIFFICULTY` / `PREVRANDAO` | `block.difficulty`  | PoS后，为前一个区块的 `random` 值                                                                    | 返回0                                     |
+| `SELFDESTRUCT`              | `selfdestruct`      | 计划作废，并用 `SENDALL` 替换                                                                       | 在排序器中禁用，未来会采用以太坊的方案                     |
 
 ## State Account
 
@@ -26,7 +23,7 @@
 
 我们将在当前`StateAccount`对象中添加两个字段：`PoseidonCodehash`和`CodeSize`。
 
-```
+```typescript
 type StateAccount struct {
 	Nonce    uint64
 	Balance  *big.Int
@@ -54,9 +51,8 @@ Pre-Alpha 测试网的目标是恒定的 3 秒出块时间。这比理想情况�
 
 选择 3 秒的出块时间有两个原因：
 
--   更快、更稳定的出块时间可以带来更快的反馈和更好的用户体验
--   当我们优化测试网中的 zkEVM 电路时，即使我们保持每个区块或batch的较小的Gas上限时，我们仍然可以达到比以太坊更高的吞吐量。
-
+* 更快、更稳定的出块时间可以带来更快的反馈和更好的用户体验
+* 当我们优化测试网中的 zkEVM 电路时，即使我们保持每个区块或batch的较小的Gas上限时，我们仍然可以达到比以太坊更高的吞吐量。
 
 ## 未来的 EIPs
 

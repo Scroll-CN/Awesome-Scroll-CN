@@ -10,27 +10,26 @@
 
 要获得 TSETH，请访问我们的水龙头。然后，使用我们的跨链桥将 TSETH 桥接到 Scroll Pre-Alpha 测试网（第Layer 2）。
 
-如需详细指引，可以从用​​户指南的[设置](/user-guide/setup)页面开始。
+如需详细指引，可以从用​​户指南的[设置](../../../user-guide/setup/)页面开始。
 
 ## 网络配置
 
 使用下表将您的以太坊工具配置到 Scroll Pre-Alpha 测试网。
 
-| 网络名称 | Scroll L1测试网                                                        | Scroll L2测试网                   |
-| -------- | ---------------------------------------------------------------------- | --------------------------------- |
-| RPC URL  | [https://prealpha-rpc.scroll.io/l1](https://prealpha-rpc.scroll.io/l1) | https://prealpha-rpc.scroll.io/l2 |
-| Chain ID | 534351                                                                 | 534354                            |
-| 代币符号 | TSETH                                                                  | TSETH                             |
-| Block Explorer URL   |   [https://l1scan.scroll.io/](https://l1scan.scroll.io/)                                                                     |          [https://l2scan.scroll.io/](https://l2scan.scroll.io/)                         |
-
-
+| 网络名称               | Scroll L1测试网                                                           | Scroll L2测试网                                           |
+| ------------------ | ---------------------------------------------------------------------- | ------------------------------------------------------ |
+| RPC URL            | [https://prealpha-rpc.scroll.io/l1](https://prealpha-rpc.scroll.io/l1) | https://prealpha-rpc.scroll.io/l2                      |
+| Chain ID           | 534351                                                                 | 534354                                                 |
+| 代币符号               | TSETH                                                                  | TSETH                                                  |
+| Block Explorer URL | [https://l1scan.scroll.io/](https://l1scan.scroll.io/)                 | [https://l2scan.scroll.io/](https://l2scan.scroll.io/) |
 
 ## 配置工具
 
 ### Hardhat
 
 修改你的 Hardhat 配置文件`hardhat.config.ts`以指向 Scroll Pre-Alpha 测试网公开 RPC。
-```
+
+```typescript
 ...
 
 const config: HardhatUserConfig = {
@@ -57,15 +56,13 @@ forge create ... --rpc-url=https://prealpha-rpc.scroll.io/l2
 
 ### Remix Web IDE
 
-编译合约后，使用 Remix 进行部署的最简单方法是[设置 Metamask](/user-guide/setup)，然后选择“Scroll L2 Testnet”网络。
+编译合约后，使用 Remix 进行部署的最简单方法是[设置 Metamask](../../../user-guide/setup/)，然后选择“Scroll L2 Testnet”网络。
 
-![metamask](img/quickstart_1.png "Metamask")
-<center>在MetaMask中选择 Scroll L2 Testnet 作为网络</center>
+![在MetaMask中选择 Scroll L2 Testnet 作为网络](img/quickstart\_1.png)
 
 现在，在“Deploy and Run Transactions”选项卡中，点击“Environment”下拉菜单并选择“Injected Provider - MetaMask”。
 
-![metamask](img/quickstart_2.png "Metamask")
-<center> 在Remix中，使用 MetaMask 作为Network Provider以访问 Scroll Pre-Alpha 测试网</center>
+![在Remix中，使用 MetaMask 作为Network Provider以访问 Scroll Pre-Alpha 测试网](img/quickstart\_2.png)
 
 连接你的钱包并选择 Scroll Pre-Alpha Testnet L2。在 Remix 中应该会自动选择帐户，然后你单击“部署”即可。
 
@@ -73,7 +70,7 @@ forge create ... --rpc-url=https://prealpha-rpc.scroll.io/l2
 
 假设你已经设置了 truffle 环境，请到 Truffle[配置文件](https://trufflesuite.com/docs/truffle/reference/configuration/) `truffle.js`，并确保已经安装了 HDWalletProvider：`npm install @truffle/hdwallet-provider@1.4.0`
 
-```
+```typescript
 const HDWalletProvider = require("@truffle/hdwallet-provider")
 ...
 module.exports = {
@@ -106,7 +103,7 @@ networks:
 
 在`ethers`脚本中设置 Scroll Pre-Alpha Testnet Provider。
 
-```
+```javascript
 import { ethers } from 'ethers';
 
 const provider = new ethers.providers.JsonRpcProvider(
@@ -122,7 +119,7 @@ const provider = new ethers.providers.JsonRpcProvider(
 
 在`packages/hardhat/hardhat.config.js`文件中，你需要添加网络并选择其为默认网络。
 
-```
+```javascript
 ...
 //
 // Select the network you want to deploy to here:
@@ -152,7 +149,7 @@ module.exports = {
 
 添加网络，请修改`packages/react-app/src/constants.js`.
 
-```
+```javascript
 ...
 export const NETWORKS = {
 ...
@@ -169,7 +166,7 @@ export const NETWORKS = {
 
 接下来，修改`packages/react-app/src/App.jsx`
 
-```
+```javascript
 ...
 /// 📡 What chain are your contracts deployed to?
 const initialNetwork = NETWORKS.scrollPrealpha;
