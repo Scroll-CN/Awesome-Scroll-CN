@@ -1,7 +1,5 @@
 {
     "plugins": [
-        "chapter-fold",
-        "expandable-chapters",
         "code",
         "accordion",
         "alerts"

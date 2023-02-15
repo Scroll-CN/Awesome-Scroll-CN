@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "updates/weekly updates/Weekly Updates 2.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e14169a67d17c363",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "updates/weekly updates/Weekly Updates 2.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "updates/weekly updates/Weekly Updates 2.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "updates/weekly updates/Weekly Updates 2.md"
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md"
               }
             }
           }
@@ -151,15 +150,15 @@
   },
   "active": "51ef9b0eadab5ffd",
   "lastOpenFiles": [
-    "updates/weekly updates/Weekly Updates 1.md",
-    "updates/weekly updates/img/2-1.png",
-    "updates/weekly updates/img/2-2.png",
-    "updates/weekly updates/img/2-3.png",
-    "updates/weekly updates/img/2-4.png",
-    "updates/weekly updates/img/2-5.png",
-    "updates/weekly updates/Weekly Updates 2.md",
-    "updates/2022年度回顾.md",
-    "translation/Scroll Blogs/img/5-0.png",
-    "translation/Scroll Blogs/img/4-0.png"
+    "translation/pre_alpha_testnet_guide/developer_guide/integrations.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/contract_deployment.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/tesenet_contract.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/README.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/quickstart.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
+    "developers/pre-alpha-testnet-contracts.md",
+    "translation/pre_alpha_testnet_guide/SUMMARY.md",
+    "translation/pre_alpha_testnet_guide/README.md"
   ]
 }
