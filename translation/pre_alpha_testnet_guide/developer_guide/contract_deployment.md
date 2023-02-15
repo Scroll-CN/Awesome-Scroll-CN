@@ -2,7 +2,11 @@
 
 我们的 Pre-Alpha 测试网允许社区在 Scroll 上部署智能合约。在本教程中，我们将说明如何在 Scroll 测试网上部署合约。这个[演示程序仓库](https://github.com/scroll-tech/scroll-contract-deploy-demo)说明了如何使用[Hardhat](https://hardhat.org/)和[Foundry](https://github.com/foundry-rs/foundry)进行合约部署。
 
->注意：在开始部署合约之前，你需要从[水龙头](https://scroll.io/prealpha/faucet)请求测试代币，并使用[跨链桥](https://scroll.io/prealpha/bridge)将一些 `TSETH` 从 Scroll L1 充值到 Scroll L2 。
+{% hint style="info" %}
+
+注意：在开始部署合约之前，你需要从[水龙头](https://scroll.io/prealpha/faucet)请求测试代币，并使用[跨链桥](https://scroll.io/prealpha/bridge)将一些 `TSETH` 从 Scroll L1 充值到 Scroll L2 。
+
+{% endhint %}
 
 ### 使用 Hardhat 部署合约
 

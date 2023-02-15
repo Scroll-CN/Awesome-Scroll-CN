@@ -13,6 +13,14 @@ Scroll 是建立在以太坊上的Layer 2网络（更准确地说是“zkRollup�
 >	Scroll 通过链下执行交易获得安全性和速度，并生成交易正确执行的加密证明。此加密证明在 Layer 1 的智能合约中得到验证，确保在 Scroll Layer 2 上执行的所有代码同在以太坊 Layer 1 上执行的一样。
 >	[更多关于 Scroll 架构的信息](https://scroll.io/blog/architecture)
 
+{% hint style="info" %}
+
+### 刚接触 zkRollup
+
+Scroll 通过链下执行交易获得安全性和速度，并生成交易正确执行的加密证明。此加密证明在 Layer 1 的智能合约中得到验证，确保在 Scroll Layer 2 上执行的所有代码同在以太坊 Layer 1 上执行的一样。
+[更多关于 Scroll 架构的信息](https://scroll.io/blog/architecture)
+
+{% endhint %}
 
 目前，Scroll 维护着自己的 L1 测试网，但将在 2023 年第一季度上线 Goerli 测试网。
 

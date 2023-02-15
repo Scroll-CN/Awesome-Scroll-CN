@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translation/pre_alpha_testnet_guide/user_guide/swap/README.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/pre_alpha_testnet_guide/user_guide/swap/README.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/pre_alpha_testnet_guide/user_guide/swap/README.md",
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/pre_alpha_testnet_guide/user_guide/swap/README.md"
+                "file": "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md"
               }
             }
           }
@@ -150,15 +150,15 @@
   },
   "active": "51ef9b0eadab5ffd",
   "lastOpenFiles": [
-    "translation/pre_alpha_testnet_guide/user_guide/bridge/withdraw.md",
-    "translation/pre_alpha_testnet_guide/user_guide/faucet.md",
-    "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
     "translation/pre_alpha_testnet_guide/developer_guide/contract_deployment.md",
-    "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
-    "translation/pre_alpha_testnet_guide/developer_guide/integrations.md",
-    "translation/pre_alpha_testnet_guide/developer_guide/quickstart.md",
-    "translation/pre_alpha_testnet_guide/developer_guide/README.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/building_on_scroll.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/img/quickstart_2.png",
+    "translation/pre_alpha_testnet_guide/developer_guide/img/quickstart_1.png",
     "translation/pre_alpha_testnet_guide/user_guide/swap/README.md",
-    "translation/pre_alpha_testnet_guide/user_guide/bridge/README.md"
+    "translation/pre_alpha_testnet_guide/user_guide/bridge/withdraw.md",
+    "translation/pre_alpha_testnet_guide/user_guide/bridge/deposit.md",
+    "translation/pre_alpha_testnet_guide/user_guide/faucet.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
+    "translation/pre_alpha_testnet_guide/developer_guide/integrations.md"
   ]
 }
