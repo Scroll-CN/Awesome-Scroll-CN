@@ -51,7 +51,9 @@ const config: HardhatUserConfig = {
 
 要使用 Scroll Pre-Alpha 测试网公共 RPC 进行部署，请运行：
 
-`forge create ... --rpc-url=https://prealpha-rpc.scroll.io/l2`
+```
+forge create ... --rpc-url=https://prealpha-rpc.scroll.io/l2
+```
 
 ### Remix Web IDE
 

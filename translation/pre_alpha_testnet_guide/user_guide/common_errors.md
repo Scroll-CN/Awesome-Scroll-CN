@@ -25,4 +25,4 @@ _注意：删除并重新添加网络不足以解决此问题 - 您必须在两�
 
 ## 区块链浏览器（L1 或 L2）显示“内部服务器错误
 
-使用隐身窗口，或打开浏览器开发人员控制台并删除`_explorer_key` cookie（或所有 cookie：[https ://www.contentstack.com/docs/developers/how-to-guides/clear-caches-and-cookies-in-不同的浏览器/](https://www.contentstack.com/docs/developers/how-to-guides/clear-caches-and-cookies-in-different-browsers/)）。
+使用隐身窗口，或打开浏览器开发人员控制台并删除`_explorer_key` cookie（或所有 cookie：https://www.contentstack.com/docs/developers/how-to-guides/clear-caches-and-cookies-in-different-browsers/）。

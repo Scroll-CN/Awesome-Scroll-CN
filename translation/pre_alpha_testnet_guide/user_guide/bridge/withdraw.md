@@ -14,7 +14,7 @@
 
 包含此提现交易的 Scroll L2 区块被`最终确认(Fianlized)`后，转出的代币将到达您的 Scroll L1 钱包。在我们的 Pre-Alpha 测试网上，一个 Scroll L2 区块的最终确定需要几十分钟到几个小时，但我们预计这个时间在主网上会大大缩短。
 
-> rollup状态为`Finalized`表示，在 Scroll L1 链上的有效性证明验证通过，证明了该区块中交易的正确执行。有关rollup状态的更多信息，请参阅[Scroll 的架构概述](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)。
+> **[info]** rollup状态为`Finalized`表示，在 Scroll L1 链上的有效性证明验证通过，证明了该区块中交易的正确执行。有关rollup状态的更多信息，请参阅[Scroll 的架构概述](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)。
 
 您可以通过以下方式查看提现交易的进度：
 
