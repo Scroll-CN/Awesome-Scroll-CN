@@ -8,10 +8,18 @@ Scroll 是建立在以太坊上的Layer 2网络（更准确地说是“zkRollup�
 
 如果你有以太坊上开发的经验，那么你的代码、依赖项和工具，可以在Scroll上开箱即用。这是因为我们的网络与 EVM 在字节码层面兼容，设计初衷就是让开发者拥有以太坊一样的开发体验。
 
-{% hint style="info" %}
-#### 刚接触 zkRollup
+>**[info] 刚接触 zkRollup**？
+>
+>	Scroll 通过链下执行交易获得安全性和速度，并生成交易正确执行的加密证明。此加密证明在 Layer 1 的智能合约中得到验证，确保在 Scroll Layer 2 上执行的所有代码同在以太坊 Layer 1 上执行的一样。
+>	[更多关于 Scroll 架构的信息](https://scroll.io/blog/architecture)
 
-Scroll 通过链下执行交易获得安全性和速度，并生成交易正确执行的加密证明。此加密证明在 Layer 1 的智能合约中得到验证，确保在 Scroll Layer 2 上执行的所有代码同在以太坊 Layer 1 上执行的一样。 [更多关于 Scroll 架构的信息](https://scroll.io/blog/architecture)
+{% hint style="info" %}
+
+### 刚接触 zkRollup
+
+Scroll 通过链下执行交易获得安全性和速度，并生成交易正确执行的加密证明。此加密证明在 Layer 1 的智能合约中得到验证，确保在 Scroll Layer 2 上执行的所有代码同在以太坊 Layer 1 上执行的一样。
+[更多关于 Scroll 架构的信息](https://scroll.io/blog/architecture)
+
 {% endhint %}
 
 目前，Scroll 维护着自己的 L1 测试网，但将在 2023 年第一季度上线 Goerli 测试网。
@@ -20,9 +28,10 @@ Scroll 通过链下执行交易获得安全性和速度，并生成交易正确�
 
 **希望在 Scroll 的 Pre-Alpha 测试网上开发？**
 
-* 关于要点：查看[**开发者快速上手**](quickstart.md)
-* 在 Scroll 上部署你的第一个智能合约，请阅读我们的[**合约部署教程**](contract\_deployment.md)
-* 我们还有许多[**生态项目集成**](integrations.md)和[**已经部署的合约地址**](testnet\_contract.md)，可以在此之上进行开发。
+- 关于要点：查看[**开发者快速上手**](quickstart.md)
+- 在 Scroll 上部署你的第一个智能合约，请阅读我们的[**合约部署教程**](contract_deployment.md)
+- 我们还有许多[**生态项目集成**](integrations.md)和[**已经部署的合约地址**](testnet_contract.md)，可以在此之上进行开发。
+
 
 ## 为什么要在 Scroll 上开发？
 
@@ -66,8 +75,9 @@ Scroll 构建在以太坊的愿景之上。我们的宗旨是共建以太坊，�
 
 </details>
 
+
 ## 感谢你与我们一起构建开发
 
 我们正在努力为网络带来更多的集成和支持更多的基础设施，并为我们的 Goerli 版本感到兴奋。
 
-加入我们不断壮大的开发者社区。您可以在[Discord](https://discord.gg/scroll)上找到我们，加入我们的[论坛](https://community.scroll.io/)或在[Twitter 上](https://twitter.com/Scroll\_ZKP)关注我们的进展。
+加入我们不断壮大的开发者社区。您可以在[Discord](https://discord.gg/scroll)上找到我们，加入我们的[论坛](https://community.scroll.io/)或在[Twitter 上](https://twitter.com/Scroll_ZKP)关注我们的进展。[](https://twitter.com/Scroll_ZKP)
