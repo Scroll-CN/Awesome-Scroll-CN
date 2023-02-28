@@ -30,7 +30,9 @@ rollup状态为`Finalized`表明，在 Goerli 链上的有效性证明验证通�
 ![](img/withdraw_2.png)
 
 将会在新的标签页显示交易详情，您可以看到此笔交易已经在L2上得到确认，但仍然需要在 L1 上得到最终确认。 
-![withdraw](img/withdraw_3.png)
+
+![](img/withdraw_3.png)
+
 
 3. 返回[跨链桥](https://scroll.io/prealpha/bridge)应用。一旦您的交易在 L1 上的状态显示`success`，**大约 10 分钟后**，您应该会看到 Goerli 钱包中的资金和交易哈希：
 
