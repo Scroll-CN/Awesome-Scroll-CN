@@ -1,6 +1,6 @@
 # Summary
 
-* [Pre-Alpha测试网用户指南](README.md)
+* [Alpha测试网用户指南](README.md)
 * [用户指南](./user_guide/README.md)
     * [设置](user_guide/setup.md)
     * [水龙头](user_guide/faucet.md)
