@@ -8,12 +8,11 @@ Alpha 测试网由 *以太坊  Goerli* 和 *Scroll Alpha* 测试网络组成。G
 
 建议按如下工作流程试用测试网：
 
--   1.将[**Alpha Testnet**](https://scroll.io/alpha)配置添加到您的钱包。
--   2.从任意的Goerli网络的水龙头，请求测试代币，例如 https://goerlifaucet.com/
--   3.通过**跨链桥应用程序**将测试代币从 *Goerli* 转移到 *Scroll Alpha* 。
--   4.使用你的钱包将代币转移到 *Scroll Alpha* 上的其他钱包。
--   5.**在Goerli & Alpha 区块链浏览器**和**Rollup Explorer**中查看交易和区块的状态。
--   6. 通过**跨链桥应用程序将代币从** 将代币从 *Scroll Alpha* 提取到 *Goerli* 。
-    
+1. 将[**Alpha Testnet**](https://scroll.io/alpha)配置添加到您的钱包。
+2. 从任意的Goerli网络的水龙头，请求测试代币，例如 https://goerlifaucet.com/
+3. 通过**跨链桥应用程序**将测试代币从 *Goerli* 转移到 *Scroll Alpha* 。
+4. 使用你的钱包将代币转移到 *Scroll Alpha* 上的其他钱包。
+5. **在Goerli & Alpha 区块链浏览器**和**Rollup Explorer**中查看交易和区块的状态。
+6. 通过**跨链桥应用程序将代币从** 将代币从 *Scroll Alpha* 提取到 *Goerli* 。
 
 您可以在其余章节找到每一步流程应用的说明。
