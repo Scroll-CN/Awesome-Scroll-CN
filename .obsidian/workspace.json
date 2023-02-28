@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "477b9ecc011542ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c41e79876f127f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,22 +173,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "913a795504e578a8",
+  "active": "6c41e79876f127f0",
   "lastOpenFiles": [
-    "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
+    "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
     "translation/alpha_testnet_guide/SUMMARY.md",
-    "translation/alpha_testnet_guide/README.md",
     "translation/alpha_testnet_guide/scroll_logo.svg",
-    "translation/alpha_testnet_guide/user_guide/README.md",
-    "translation/alpha_testnet_guide/user_guide/rollup_explorer.md",
+    "translation/alpha_testnet_guide/testnet_contract.md",
+    "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md",
     "translation/alpha_testnet_guide/developer_guide/testnet_contract.md",
+    "translation/alpha_testnet_guide/user_guide/rollup_explorer.md",
+    "translation/alpha_testnet_guide/user_guide/blockchain_explorer.md",
+    "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
+    "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
+    "translation/alpha_testnet_guide/user_guide/bridge/README.md",
+    "translation/alpha_testnet_guide/README.md",
+    "translation/alpha_testnet_guide/user_guide/README.md",
     "translation/alpha_testnet_guide/developer_guide/README.md",
     "translation/alpha_testnet_guide/developer_guide/quickstart.md",
     "translation/alpha_testnet_guide/developer_guide/integrations.md",
-    "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
     "translation/alpha_testnet_guide/developer_guide/eth_alpha_differences.md",
-    "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md",
-    "translation/alpha_testnet_guide/testnet_contract.md",
     "translation/alpha_testnet_guide/user_guide/swap.md",
     "translation/alpha_testnet_guide/user_guide/setup.md",
     "translation/alpha_testnet_guide/user_guide/questions&feedback.md",
@@ -172,13 +200,10 @@
     "translation/alpha_testnet_guide/developer_guide/img/quickstart_2.png.crdownload",
     "translation/alpha_testnet_guide/developer_guide/img/quickstart_1.png.crdownload",
     "translation/alpha_testnet_guide/developer_guide/eth_pre_alpha_differences.md",
-    "translation/alpha_testnet_guide/user_guide/blockchain_explorer.md",
     "translation/alpha_testnet_guide/user_guide/img/rollup_explorer.png",
     "translation/alpha_testnet_guide/user_guide/L1&L2_explorer.md",
     "translation/alpha_testnet_guide/user_guide/img",
     "translation/alpha_testnet_guide/user_guide/transfer_token.md",
-    "translation/alpha_testnet_guide/user_guide/bridge/README.md",
-    "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_4.png.crdownload",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_3.png.crdownload",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_2.png.crdownload",

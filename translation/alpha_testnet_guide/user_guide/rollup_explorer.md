@@ -3,6 +3,7 @@
 Rollup 浏览器 显示有关 Scroll Alpha 块及其Rollup状态的基本信息。
 
 ![rollup_explorer](./img/rollup_explorer.png)
+
 Pre-Alpha 测试网中的 Scroll Alpha 区块有 3 种 rollup 状态：
 
 -   **`Precommitted`** 表示一个区块已经被包含在 Scroll Alpha 区块链中。虽然Precommitted区块因为没有发布在Goerli上，所以还不是Scroll Alpha 链的一部分，但是信任排序器（sequencer）的用户可以认为这个区块是暂时敲定的。

@@ -17,7 +17,7 @@
     * [在Scroll上开发](developer_guide/building_on_scroll.md)
     * [开发者快速上手](developer_guide/quickstart.md)
     * [合约部署教程](developer_guide/contract_deployment.md)
-    * [Alpha测试网合约](testnet_contract.md)
+    * [Alpha测试网合约](developer_guide/testnet_contract.md)
     * [生态集成](developer_guide/integrations.md)
     * [以太坊和Alpha测试网的区别](developer_guide/eth_alpha_differences.md)
 * [Alpha测试网](https://scroll.io/alpha)
