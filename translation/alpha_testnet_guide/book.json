@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "code",
+        "accordion",
+        "alerts"
+    ],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "scroll_logo.svg",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        }
+    }
+}

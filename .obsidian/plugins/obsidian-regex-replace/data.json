@@ -1,0 +1,10 @@
+{
+  "findText": "Scroll L2",
+  "replaceText": "Scroll Alpha",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

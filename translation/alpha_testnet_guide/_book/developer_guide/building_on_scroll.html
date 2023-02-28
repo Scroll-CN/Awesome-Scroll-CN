@@ -1,0 +1,657 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>在Scroll上开发 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-code/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-accordion/accordion.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-alerts/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="quickstart.html" />
+    
+    
+    <link rel="prev" href="./" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Pre-Alpha测试网用户指南
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../user_guide/">
+            
+                <a href="../user_guide/">
+            
+                    
+                    用户指南
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../user_guide/setup.html">
+            
+                <a href="../user_guide/setup.html">
+            
+                    
+                    设置
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../user_guide/faucet.html">
+            
+                <a href="../user_guide/faucet.html">
+            
+                    
+                    水龙头
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../user_guide/bridge/">
+            
+                <a href="../user_guide/bridge/">
+            
+                    
+                    跨链桥
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.3.1" data-path="../user_guide/bridge/deposit.html">
+            
+                <a href="../user_guide/bridge/deposit.html">
+            
+                    
+                    从Scroll L1 存款至 Scroll L2
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.2" data-path="../user_guide/bridge/withdraw.html">
+            
+                <a href="../user_guide/bridge/withdraw.html">
+            
+                    
+                    从Scroll L2 提款至 Scroll L1
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="../user_guide/transfer_token.html">
+            
+                <a href="../user_guide/transfer_token.html">
+            
+                    
+                    代币转账
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="../user_guide/swap/">
+            
+                <a href="../user_guide/swap/">
+            
+                    
+                    交易（Swap）
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.5.1" data-path="../user_guide/swap/swap_tokens.html">
+            
+                <a href="../user_guide/swap/swap_tokens.html">
+            
+                    
+                    交易代币
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5.2" data-path="../user_guide/swap/provide_liquidity.html">
+            
+                <a href="../user_guide/swap/provide_liquidity.html">
+            
+                    
+                    提供流动性
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5.3" data-path="../user_guide/swap/check_liquidity_pool.html">
+            
+                <a href="../user_guide/swap/check_liquidity_pool.html">
+            
+                    
+                    检查流动性池
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="../user_guide/rollup_explorer.html">
+            
+                <a href="../user_guide/rollup_explorer.html">
+            
+                    
+                    Rollup 浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="../user_guide/L1&L2_explorer.html">
+            
+                <a href="../user_guide/L1&L2_explorer.html">
+            
+                    
+                    L1 & L2 区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.8" data-path="../user_guide/common_errors.html">
+            
+                <a href="../user_guide/common_errors.html">
+            
+                    
+                    常见错误
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.9" data-path="../user_guide/questions&feedback.html">
+            
+                <a href="../user_guide/questions&feedback.html">
+            
+                    
+                    问题和反馈
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    开发者指南
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.3.1" data-path="building_on_scroll.html">
+            
+                <a href="building_on_scroll.html">
+            
+                    
+                    在Scroll上开发
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="quickstart.html">
+            
+                <a href="quickstart.html">
+            
+                    
+                    开发者快速上手
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="contract_deployment.html">
+            
+                <a href="contract_deployment.html">
+            
+                    
+                    合约部署教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="tesenet_contract.html">
+            
+                <a href="tesenet_contract.html">
+            
+                    
+                    Pre-Alpha测试网合约
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="integrations.html">
+            
+                <a href="integrations.html">
+            
+                    
+                    生态集成
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="eth_pre_alpha_differences.html">
+            
+                <a href="eth_pre_alpha_differences.html">
+            
+                    
+                    以太坊和Pre-Alpha测试网区别
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" >
+            
+                <a target="_blank" href="https://scroll.io/prealpha">
+            
+                    
+                    Pre-Alpha测试网
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" >
+            
+                <a target="_blank" href="https://l1scan.scroll.io/">
+            
+                    
+                    L1区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" >
+            
+                <a target="_blank" href="https://l2scan.scroll.io/">
+            
+                    
+                    L2区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" >
+            
+                <a target="_blank" href="https://scroll.io/prealpha/rollupscan">
+            
+                    
+                    Rollup浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >在Scroll上开发</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x5728;scroll&#x4E0A;&#x5F00;&#x53D1;">&#x5728;Scroll&#x4E0A;&#x5F00;&#x53D1;</h1>
+<h2 id="&#x6B22;&#x8FCE;">&#x6B22;&#x8FCE;</h2>
+<p>&#x6B22;&#x8FCE;&#x4F7F;&#x7528; Scroll &#x5F00;&#x53D1;&#x8005;&#x6587;&#x6863;&#xFF01;</p>
+<p>Scroll &#x662F;&#x5EFA;&#x7ACB;&#x5728;&#x4EE5;&#x592A;&#x574A;&#x4E0A;&#x7684;Layer 2&#x7F51;&#x7EDC;&#xFF08;&#x66F4;&#x51C6;&#x786E;&#x5730;&#x8BF4;&#x662F;&#x201C;zkRollup&#x201D;&#xFF09;&#x3002;</p>
+<p>&#x5982;&#x679C;&#x4F60;&#x6709;&#x4EE5;&#x592A;&#x574A;&#x4E0A;&#x5F00;&#x53D1;&#x7684;&#x7ECF;&#x9A8C;&#xFF0C;&#x90A3;&#x4E48;&#x4F60;&#x7684;&#x4EE3;&#x7801;&#x3001;&#x4F9D;&#x8D56;&#x9879;&#x548C;&#x5DE5;&#x5177;&#xFF0C;&#x53EF;&#x4EE5;&#x5728;Scroll&#x4E0A;&#x5F00;&#x7BB1;&#x5373;&#x7528;&#x3002;&#x8FD9;&#x662F;&#x56E0;&#x4E3A;&#x6211;&#x4EEC;&#x7684;&#x7F51;&#x7EDC;&#x4E0E; EVM &#x5728;&#x5B57;&#x8282;&#x7801;&#x5C42;&#x9762;&#x517C;&#x5BB9;&#xFF0C;&#x8BBE;&#x8BA1;&#x521D;&#x8877;&#x5C31;&#x662F;&#x8BA9;&#x5F00;&#x53D1;&#x8005;&#x62E5;&#x6709;&#x4EE5;&#x592A;&#x574A;&#x4E00;&#x6837;&#x7684;&#x5F00;&#x53D1;&#x4F53;&#x9A8C;&#x3002;</p>
+<blockquote>
+<p><strong>[info] &#x521A;&#x63A5;&#x89E6; zkRollup</strong>&#xFF1F;</p>
+<p>   Scroll &#x901A;&#x8FC7;&#x94FE;&#x4E0B;&#x6267;&#x884C;&#x4EA4;&#x6613;&#x83B7;&#x5F97;&#x5B89;&#x5168;&#x6027;&#x548C;&#x901F;&#x5EA6;&#xFF0C;&#x5E76;&#x751F;&#x6210;&#x4EA4;&#x6613;&#x6B63;&#x786E;&#x6267;&#x884C;&#x7684;&#x52A0;&#x5BC6;&#x8BC1;&#x660E;&#x3002;&#x6B64;&#x52A0;&#x5BC6;&#x8BC1;&#x660E;&#x5728; Layer 1 &#x7684;&#x667A;&#x80FD;&#x5408;&#x7EA6;&#x4E2D;&#x5F97;&#x5230;&#x9A8C;&#x8BC1;&#xFF0C;&#x786E;&#x4FDD;&#x5728; Scroll Layer 2 &#x4E0A;&#x6267;&#x884C;&#x7684;&#x6240;&#x6709;&#x4EE3;&#x7801;&#x540C;&#x5728;&#x4EE5;&#x592A;&#x574A; Layer 1 &#x4E0A;&#x6267;&#x884C;&#x7684;&#x4E00;&#x6837;&#x3002;
+   <a href="https://scroll.io/blog/architecture" target="_blank">&#x66F4;&#x591A;&#x5173;&#x4E8E; Scroll &#x67B6;&#x6784;&#x7684;&#x4FE1;&#x606F;</a></p>
+</blockquote>
+<p>&#x76EE;&#x524D;&#xFF0C;Scroll &#x7EF4;&#x62A4;&#x7740;&#x81EA;&#x5DF1;&#x7684; L1 &#x6D4B;&#x8BD5;&#x7F51;&#xFF0C;&#x4F46;&#x5C06;&#x5728; 2023 &#x5E74;&#x7B2C;&#x4E00;&#x5B63;&#x5EA6;&#x4E0A;&#x7EBF; Goerli &#x6D4B;&#x8BD5;&#x7F51;&#x3002;</p>
+<h2 id="&#x5165;&#x95E8;">&#x5165;&#x95E8;</h2>
+<p><strong>&#x5E0C;&#x671B;&#x5728; Scroll &#x7684; Pre-Alpha &#x6D4B;&#x8BD5;&#x7F51;&#x4E0A;&#x5F00;&#x53D1;&#xFF1F;</strong></p>
+<ul>
+<li>&#x5173;&#x4E8E;&#x8981;&#x70B9;&#xFF1A;&#x67E5;&#x770B;<a href="quickstart.html"><strong>&#x5F00;&#x53D1;&#x8005;&#x5FEB;&#x901F;&#x4E0A;&#x624B;</strong></a></li>
+<li>&#x5728; Scroll &#x4E0A;&#x90E8;&#x7F72;&#x4F60;&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x667A;&#x80FD;&#x5408;&#x7EA6;&#xFF0C;&#x8BF7;&#x9605;&#x8BFB;&#x6211;&#x4EEC;&#x7684;<a href="contract_deployment.html"><strong>&#x5408;&#x7EA6;&#x90E8;&#x7F72;&#x6559;&#x7A0B;</strong></a></li>
+<li>&#x6211;&#x4EEC;&#x8FD8;&#x6709;&#x8BB8;&#x591A;<a href="integrations.html"><strong>&#x751F;&#x6001;&#x9879;&#x76EE;&#x96C6;&#x6210;</strong></a>&#x548C;<a href="testnet_contract.md"><strong>&#x5DF2;&#x7ECF;&#x90E8;&#x7F72;&#x7684;&#x5408;&#x7EA6;&#x5730;&#x5740;</strong></a>&#xFF0C;&#x53EF;&#x4EE5;&#x5728;&#x6B64;&#x4E4B;&#x4E0A;&#x8FDB;&#x884C;&#x5F00;&#x53D1;&#x3002;</li>
+</ul>
+<h2 id="&#x4E3A;&#x4EC0;&#x4E48;&#x8981;&#x5728;-scroll-&#x4E0A;&#x5F00;&#x53D1;&#xFF1F;">&#x4E3A;&#x4EC0;&#x4E48;&#x8981;&#x5728; Scroll &#x4E0A;&#x5F00;&#x53D1;&#xFF1F;</h2>
+<div class="accordion accordionClose"><div class="accordionButton"><div class="accordionTitle"><strong><em>&#x541E;&#x5410;&#x91CF;</em>  &#x2014;&#x2014; Scroll &#x4E3A;&#x4EE5;&#x592A;&#x574A;&#x521B;&#x9020;&#x4E86;&#x66F4;&#x591A;&#x7684;&#x5B89;&#x5168;&#x533A;&#x5757;&#x7A7A;&#x95F4;&#x3002;</strong></div><div class="accordionSpinnerBox"><div class="accordionSpinner"></div></div></div><div class="accordionContent">
+<p>ZK Rollups &#x5141;&#x8BB8;&#x7F51;&#x7EDC;&#x5BB9;&#x7EB3;&#x66F4;&#x591A;&#x4EA4;&#x6613;&#xFF0C;&#x4ECE;&#x800C;&#x6700;&#x5927;&#x9650;&#x5EA6;&#x5730;&#x51CF;&#x5C11;&#x94FE;&#x4E0A;&#x62E5;&#x5835;&#x3002;Scroll &#x901A;&#x8FC7;&#x4F7F;&#x7528;&#x96F6;&#x77E5;&#x8BC6;&#x8BC1;&#x660E;&#x9A8C;&#x8BC1;&#x7F51;&#x7EDC;&#x72B6;&#x6001;&#x8F6C;&#x6362;&#xFF0C;&#x7EE7;&#x627F;&#x4E86;&#x4EE5;&#x592A;&#x574A;&#x7684;&#x5B89;&#x5168;&#x6027;&#xFF0C;&#x53EF;&#x4EE5;&#x5728;&#x4E0D;&#x5F71;&#x54CD;&#x53BB;&#x4E2D;&#x5FC3;&#x5316;&#x7684;&#x60C5;&#x51B5;&#x4E0B;&#x5904;&#x7406;&#x66F4;&#x591A;&#x4EA4;&#x6613;&#x3002;</p>
+</div></div>
+<div class="accordion accordionClose"><div class="accordionButton"><div class="accordionTitle"><strong><em>&#x6210;&#x672C;</em> &#x2014;&#x2014; Scroll &#x4E3A;&#x7528;&#x6237;&#x8282;&#x7701; gas &#x8D39;&#x7528;&#x3002;</strong></div><div class="accordionSpinnerBox"><div class="accordionSpinner"></div></div></div><div class="accordionContent">
+<p>&#x5728;&#x4EE5;&#x592A;&#x574A;&#x4E0A;&#xFF0C;&#x5BF9;&#x533A;&#x5757;&#x7A7A;&#x95F4;&#x7684;&#x7ADE;&#x4E89;&#x5BFC;&#x81F4;&#x6BCF;&#x7B14;&#x4EA4;&#x6613;&#x7684;&#x6210;&#x672C;&#x66F4;&#x9AD8;&#xFF0C;&#x56E0;&#x4E3A;&#x6BCF;&#x7B14;&#x4EA4;&#x6613;&#x90FD;&#x4F1A;&#x7ADE;&#x4EF7;&#x4EE5;&#x5305;&#x542B;&#x5728;&#x4E0B;&#x4E00;&#x4E2A;&#x533A;&#x5757;&#x4E2D;&#x3002;Scroll &#x5229;&#x7528;&#x6700;&#x8FD1;&#x5728;&#x96F6;&#x77E5;&#x8BC6;&#x8BC1;&#x660E;&#x548C;&#x786C;&#x4EF6;&#x52A0;&#x901F;&#x65B9;&#x9762;&#x53D6;&#x5F97;&#x7684;&#x7A81;&#x7834;&#xFF0C;&#x6781;&#x5927;&#x5730;&#x589E;&#x52A0;&#x4E86;&#x5B89;&#x5168;&#x533A;&#x5757;&#x7A7A;&#x95F4;&#x5E76;&#x6700;&#x5927;&#x9650;&#x5EA6;&#x5730;&#x964D;&#x4F4E;&#x4E86;&#x7528;&#x6237;&#x7684;&#x4EA4;&#x6613;&#x6210;&#x672C;&#x3002;</p>
+</div></div>
+<div class="accordion accordionClose"><div class="accordionButton"><div class="accordionTitle"><strong>&#x901F;&#x5EA6; &#x2014;&#x2014;Scroll &#x66F4;&#x5FEB;&#x5730;&#x5411;&#x7528;&#x6237;&#x63D0;&#x4F9B;&#x53CD;&#x9988;&#x3002;</strong></div><div class="accordionSpinnerBox"><div class="accordionSpinner"></div></div></div><div class="accordionContent">
+<p>&#x5408;&#x5E76;&#x540E;&#xFF0C;&#x4EE5;&#x592A;&#x574A;&#x6BCF; 12 &#x79D2;&#x786E;&#x8BA4;&#x4E00;&#x4E2A;&#x533A;&#x5757;&#x3002;Scroll&#x7684;&#x533A;&#x5757;&#x6BCF; 3 &#x79D2;&#x751F;&#x6210;&#x4E00;&#x4E2A;&#xFF0C;&#x5E76;&#x4E14;&#x4E3A;&#x4E86;&#x964D;&#x4F4E;&#x98CE;&#x9669;&#x64CD;&#x4F5C;&#xFF0C;&#x4EA4;&#x6613;&#x4E00;&#x65E6;&#x5305;&#x542B;&#x5728;&#x5757;&#x4E2D;&#x5C31;&#x53EF;&#x4EE5;&#x88AB;&#x8BA4;&#x4E3A;&#x662F;&#x6700;&#x7EC8;&#x786E;&#x8BA4;&#x7684;&#x3002;&#x8FD9;&#x4E3A;&#x793E;&#x4EA4;&#x548C;&#x6E38;&#x620F;&#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x4E2D;&#x7684;&#x94FE;&#x4E0A;&#x4EA4;&#x4E92;&#x6253;&#x5F00;&#x4E86;&#x65B0;&#x7684;&#x53EF;&#x80FD;&#x6027;&#x3002;</p>
+</div></div>
+<div class="accordion accordionClose"><div class="accordionButton"><div class="accordionTitle"><strong>&#x8054;&#x76DF;&#x2014;&#x2014;Scroll &#x5EFA;&#x7ACB;&#x5728;&#x4EE5;&#x592A;&#x574A;&#x7684;&#x613F;&#x666F;&#x4E4B;&#x4E0A;&#x3002;</strong></div><div class="accordionSpinnerBox"><div class="accordionSpinner"></div></div></div><div class="accordionContent">
+<p>Scroll &#x6784;&#x5EFA;&#x5728;&#x4EE5;&#x592A;&#x574A;&#x7684;&#x613F;&#x666F;&#x4E4B;&#x4E0A;&#x3002;&#x6211;&#x4EEC;&#x7684;&#x5B97;&#x65E8;&#x662F;&#x5171;&#x5EFA;&#x4EE5;&#x592A;&#x574A;&#xFF0C;&#x800C;&#x4E0D;&#x662F;&#x5206;&#x88C2;&#x5B83;&#x3002;&#x53BB;&#x4E2D;&#x5FC3;&#x5316;&#x3001;&#x65E0;&#x9700;&#x8BB8;&#x53EF;&#x3001;&#x6297;&#x5BA1;&#x67E5;&#x548C;&#x5F52;&#x5C5E;&#x793E;&#x533A;&#x662F;&#x6211;&#x4EEC;&#x5DE5;&#x4F5C;&#x548C;&#x6B63;&#x5728;&#x6784;&#x5EFA;&#x7684;&#x8DEF;&#x7EBF;&#x56FE;&#x7684;&#x6838;&#x5FC3;&#x3002;&#x6211;&#x4EEC;&#x79C9;&#x627F;&#x5F00;&#x6E90;&#x7CBE;&#x795E;&#xFF0C;&#x4E0E;&#x4EE5;&#x592A;&#x574A;&#x57FA;&#x91D1;&#x4F1A;&#x7684;&#x9690;&#x79C1;&#x548C;&#x6269;&#x5BB9;&#x63A2;&#x7D22;&#x56E2;&#x961F;&#xFF08;PSE&#xFF09;&#x5BC6;&#x5207;&#x5408;&#x4F5C;&#xFF0C;&#x4EE5;&#x652F;&#x6301;&#x4ED6;&#x4EEC;&#x5728; zkEVM &#x4E0A;&#x7684;&#x5DE5;&#x4F5C;&#xFF0C;&#x800C;zkEVM&#x6709;&#x671D;&#x4E00;&#x65E5;&#x53EF;&#x80FD;&#x4F1A;&#x6210;&#x4E3A;&#x4EE5;&#x592A;&#x574A;&#x7684;&#x6838;&#x5FC3;&#x3002;
+&#x6211;&#x4EEC;&#x8FD8;&#x4E0E;&#x6CBB;&#x7406; DAOs &#x548C;&#x5176;&#x4ED6;&#x5F00;&#x6E90;&#x534F;&#x8BAE;&#x5408;&#x4F5C;&#xFF0C;&#x4EE5;&#x786E;&#x4FDD;&#x5728;&#x90E8;&#x7F72;&#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x7684;&#x540C;&#x65F6;&#xFF0C;&#x6211;&#x4EEC;&#x4E5F;&#x5728;&#x52AA;&#x529B;&#x6269;&#x5927;&#x5B83;&#x4EEC;&#x7684;&#x5F71;&#x54CD;&#x2014;&#x2014;&#x65E0;&#x8BBA;&#x662F;&#x5728;&#x516C;&#x5171;&#x4EA7;&#x54C1;&#x3001;&#x6838;&#x5FC3;&#x57FA;&#x7840;&#x8BBE;&#x65BD;&#x8FD8;&#x662F;&#x4E0B;&#x4E00;&#x4EE3;&#x96F6;&#x77E5;&#x8BC6;&#x7528;&#x4F8B;&#x4E2D;.</p>
+</div></div>
+<div class="accordion accordionClose"><div class="accordionButton"><div class="accordionTitle"><strong>&#x793E;&#x533A;&#x2014;&#x2014;Scroll &#x5C06;&#x7528;&#x6237;&#x548C;&#x5F00;&#x53D1;&#x8005;&#x805A;&#x96C6;&#x5728;&#x4E00;&#x8D77;&#x3002;</strong></div><div class="accordionSpinnerBox"><div class="accordionSpinner"></div></div></div><div class="accordionContent">
+<p>&#x6211;&#x4EEC;&#x77E5;&#x9053;&#x5728;&#x4E3B;&#x7F51;&#x53D1;&#x5E03;&#x4E4B;&#x524D;&#x5F00;&#x6E90;&#x5F00;&#x53D1;&#x548C;&#x5438;&#x5F15;&#x7528;&#x6237;&#x53C2;&#x4E0E;&#x7684;&#x96BE;&#x5EA6;&#x6240;&#x5728;&#xFF01;&#x4F46;Scroll &#x62E5;&#x6709;&#x7740;&#x84EC;&#x52C3;&#x53D1;&#x5C55;&#x7684;&#x7528;&#x6237;&#x548C;&#x5F00;&#x53D1;&#x8005;&#x793E;&#x533A;&#xFF0C;&#x6709;&#x8FC7; 100,000 &#x540D;&#x6E34;&#x671B;&#x5728;&#x6211;&#x4EEC;&#x7684;&#x6D4B;&#x8BD5;&#x7F51;&#x4E0A;&#x6D4B;&#x8BD5;&#x7684;&#x7528;&#x6237;&#x7684; Discord &#x793E;&#x533A;&#xFF0C;&#x6211;&#x4EEC;&#x5F88;&#x9AD8;&#x5174;&#x5C06;&#x5F00;&#x53D1;&#x8005;&#x4E0E;&#x63D0;&#x4F9B;&#x771F;&#x5B9E;&#x53CD;&#x9988;&#x7684;&#x7528;&#x6237;&#x8054;&#x7CFB;&#x5728;&#x4E00;&#x8D77;&#x3002;</p>
+</div></div>
+<h2 id="&#x611F;&#x8C22;&#x4F60;&#x4E0E;&#x6211;&#x4EEC;&#x4E00;&#x8D77;&#x6784;&#x5EFA;&#x5F00;&#x53D1;">&#x611F;&#x8C22;&#x4F60;&#x4E0E;&#x6211;&#x4EEC;&#x4E00;&#x8D77;&#x6784;&#x5EFA;&#x5F00;&#x53D1;</h2>
+<p>&#x6211;&#x4EEC;&#x6B63;&#x5728;&#x52AA;&#x529B;&#x4E3A;&#x7F51;&#x7EDC;&#x5E26;&#x6765;&#x66F4;&#x591A;&#x7684;&#x96C6;&#x6210;&#x548C;&#x652F;&#x6301;&#x66F4;&#x591A;&#x7684;&#x57FA;&#x7840;&#x8BBE;&#x65BD;&#xFF0C;&#x5E76;&#x4E3A;&#x6211;&#x4EEC;&#x7684; Goerli &#x7248;&#x672C;&#x611F;&#x5230;&#x5174;&#x594B;&#x3002;</p>
+<p>&#x52A0;&#x5165;&#x6211;&#x4EEC;&#x4E0D;&#x65AD;&#x58EE;&#x5927;&#x7684;&#x5F00;&#x53D1;&#x8005;&#x793E;&#x533A;&#x3002;&#x60A8;&#x53EF;&#x4EE5;&#x5728;<a href="https://discord.gg/scroll" target="_blank">Discord</a>&#x4E0A;&#x627E;&#x5230;&#x6211;&#x4EEC;&#xFF0C;&#x52A0;&#x5165;&#x6211;&#x4EEC;&#x7684;<a href="https://community.scroll.io/" target="_blank">&#x8BBA;&#x575B;</a>&#x6216;&#x5728;<a href="https://twitter.com/Scroll_ZKP" target="_blank">Twitter &#x4E0A;</a>&#x5173;&#x6CE8;&#x6211;&#x4EEC;&#x7684;&#x8FDB;&#x5C55;&#x3002;<a href="https://twitter.com/Scroll_ZKP" target="_blank"></a></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="./" class="navigation navigation-prev " aria-label="Previous page: 开发者指南">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="quickstart.html" class="navigation navigation-next " aria-label="Next page: 开发者快速上手">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"在Scroll上开发","level":"1.3.1","depth":2,"next":{"title":"开发者快速上手","level":"1.3.2","depth":2,"path":"developer_guide/quickstart.md","ref":"developer_guide/quickstart.md","articles":[]},"previous":{"title":"开发者指南","level":"1.3","depth":1,"path":"developer_guide/README.md","ref":"developer_guide/README.md","articles":[{"title":"在Scroll上开发","level":"1.3.1","depth":2,"path":"developer_guide/building_on_scroll.md","ref":"developer_guide/building_on_scroll.md","articles":[]},{"title":"开发者快速上手","level":"1.3.2","depth":2,"path":"developer_guide/quickstart.md","ref":"developer_guide/quickstart.md","articles":[]},{"title":"合约部署教程","level":"1.3.3","depth":2,"path":"developer_guide/contract_deployment.md","ref":"developer_guide/contract_deployment.md","articles":[]},{"title":"Pre-Alpha测试网合约","level":"1.3.4","depth":2,"path":"developer_guide/tesenet_contract.md","ref":"developer_guide/tesenet_contract.md","articles":[]},{"title":"生态集成","level":"1.3.5","depth":2,"path":"developer_guide/integrations.md","ref":"developer_guide/integrations.md","articles":[]},{"title":"以太坊和Pre-Alpha测试网区别","level":"1.3.6","depth":2,"path":"developer_guide/eth_pre_alpha_differences.md","ref":"developer_guide/eth_pre_alpha_differences.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["code","accordion","alerts","livereload"],"pluginsConfig":{"livereload":{},"accordion":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"code":{"copyButtons":true},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"alerts":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"insert-logo":{"url":"scroll_logo.svg","style":"background: none; max-height: 30px; min-height: 30px"}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"developer_guide/building_on_scroll.md","mtime":"2023-02-15T05:30:58.592Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-02-15T05:32:24.100Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-code/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-accordion/accordionSelector.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-alerts/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
