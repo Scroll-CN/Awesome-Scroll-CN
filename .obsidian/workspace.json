@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c41e79876f127f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "translation/alpha_testnet_guide/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md",
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md",
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md"
+                "file": "translation/alpha_testnet_guide/SUMMARY.md"
               }
             }
           }
@@ -173,8 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c41e79876f127f0",
+  "active": "477b9ecc011542ba",
   "lastOpenFiles": [
+    "README.md",
+    "translation/alpha_testnet_guide/SUMMARY.md",
+    "translation/alpha_testnet_guide/README.md",
     "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
     "translation/alpha_testnet_guide/developer_guide/testnet_contract.md",
     "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md",
@@ -183,14 +174,12 @@
     "translation/alpha_testnet_guide/developer_guide/eth_alpha_differences.md",
     "translation/alpha_testnet_guide/developer_guide/integrations.md",
     "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
-    "translation/alpha_testnet_guide/SUMMARY.md",
     "translation/alpha_testnet_guide/scroll_logo.svg",
     "translation/alpha_testnet_guide/testnet_contract.md",
     "translation/alpha_testnet_guide/user_guide/rollup_explorer.md",
     "translation/alpha_testnet_guide/user_guide/blockchain_explorer.md",
     "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
     "translation/alpha_testnet_guide/user_guide/bridge/README.md",
-    "translation/alpha_testnet_guide/README.md",
     "translation/alpha_testnet_guide/user_guide/README.md",
     "translation/alpha_testnet_guide/user_guide/swap.md",
     "translation/alpha_testnet_guide/user_guide/setup.md",
