@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
+                "file": "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
+                "file": "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
+                "file": "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md"
+                "file": "translation/alpha_testnet_guide/developer_guide/contract_deployment.md"
               }
             }
           }
@@ -150,29 +150,32 @@
   },
   "active": "913a795504e578a8",
   "lastOpenFiles": [
-    "translation/alpha_testnet_guide/user_guide/setup.md",
+    "translation/alpha_testnet_guide/SUMMARY.md",
+    "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md",
+    "translation/alpha_testnet_guide/developer_guide/testnet_contract.md",
+    "translation/alpha_testnet_guide/developer_guide/integrations.md",
+    "translation/alpha_testnet_guide/user_guide/common_errors.md",
+    "translation/alpha_testnet_guide/user_guide/questions&feedback.md",
     "translation/alpha_testnet_guide/user_guide/rollup_explorer.md",
+    "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
+    "translation/alpha_testnet_guide/user_guide/setup.md",
+    "translation/Scroll Blogs/img/10-1.png",
+    "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
+    "translation/alpha_testnet_guide/user_guide/img/uniswap_v3.png",
+    "translation/alpha_testnet_guide/user_guide/img/截屏2023-02-28 18.16.41.png",
     "translation/alpha_testnet_guide/user_guide/swap.md",
     "translation/Scroll Blogs/10. 发布Goerli上的Alpha测试网.md",
-    "translation/alpha_testnet_guide/SUMMARY.md",
     "README.md",
     "translation/alpha_testnet_guide/README.md",
     "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
-    "translation/alpha_testnet_guide/developer_guide/testnet_contract.md",
-    "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md",
     "translation/alpha_testnet_guide/developer_guide/quickstart.md",
     "translation/alpha_testnet_guide/developer_guide/README.md",
     "translation/alpha_testnet_guide/developer_guide/eth_alpha_differences.md",
-    "translation/alpha_testnet_guide/developer_guide/integrations.md",
-    "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
     "translation/alpha_testnet_guide/scroll_logo.svg",
     "translation/alpha_testnet_guide/testnet_contract.md",
     "translation/alpha_testnet_guide/user_guide/blockchain_explorer.md",
-    "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
     "translation/alpha_testnet_guide/user_guide/bridge/README.md",
     "translation/alpha_testnet_guide/user_guide/README.md",
-    "translation/alpha_testnet_guide/user_guide/questions&feedback.md",
-    "translation/alpha_testnet_guide/user_guide/common_errors.md",
     "translation/alpha_testnet_guide/user_guide/faucet.md",
     "translation/alpha_testnet_guide/developer_guide/img/quickstart_2.png.crdownload",
     "translation/alpha_testnet_guide/developer_guide/img/quickstart_1.png.crdownload",
@@ -180,7 +183,6 @@
     "translation/alpha_testnet_guide/user_guide/img/rollup_explorer.png",
     "translation/alpha_testnet_guide/user_guide/L1&L2_explorer.md",
     "translation/alpha_testnet_guide/user_guide/img",
-    "translation/alpha_testnet_guide/user_guide/transfer_token.md",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_4.png.crdownload",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_3.png.crdownload",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_2.png.crdownload",
@@ -192,9 +194,6 @@
     "translation/alpha_testnet_guide/_book/user_guide/bridge/img/withdraw_2.png",
     "translation/alpha_testnet_guide/_book/user_guide/bridge/img/withdraw_1.png",
     "translation/alpha_testnet_guide/_book/user_guide/bridge/img/deposit_4.png",
-    "translation/alpha_testnet_guide/_book/user_guide/bridge/img/deposit_3.png",
-    "translation/alpha_testnet_guide/_book/user_guide/bridge/img/deposit_2.png",
-    "translation/alpha_testnet_guide/_book/user_guide/bridge/img/deposit_1.png",
     "translation/alpha_testnet_guide/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2"
   ]
 }

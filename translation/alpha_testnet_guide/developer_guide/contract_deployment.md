@@ -24,7 +24,7 @@ yarn install
 
 
 
-### 实用 Foundry 部署合约
+### 使用 Foundry 部署合约
 1. 克隆仓库
 ```
 git clone https://github.com/scroll-tech/scroll-contract-deploy-demo.git
@@ -45,8 +45,9 @@ forge create --rpc-url https://alpha-rpc.scroll.io/l2 \
   --legacy \
   contracts/Lock.sol:Lock
 ```
-	- `<lock_amount>`是合约中要锁定的`ETH`的金额。尝试将其设置为少量，例如`0.0000001ether`.
-	- `<unlock_time>`是 Unix 时间戳，在这之后锁定在合约中的资金将可以提取。尝试将其设置为将来的某个 Unix 时间戳，例如`1696118400`（此 Unix 时间戳对应于 2023 年 10 月 1 日）。
+	
+ - `<lock_amount>`是合约中要锁定的`ETH`的金额。尝试将其设置为少量，例如`0.0000001ether`
+ - `<unlock_time>`是 Unix 时间戳，在这之后锁定在合约中的资金将可以提取。尝试将其设置为将来的某个 Unix 时间戳，例如`1696118400`（此 Unix 时间戳对应于 2023 年 10 月 1 日）。
 
 例如：
 

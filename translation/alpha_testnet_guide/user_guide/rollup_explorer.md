@@ -20,6 +20,6 @@ Pre-Alpha 测试网中的 Scroll Alpha 区块有 3 种 rollup 状态：
 - `Transactions`: 显示 Batch中的交易数量。
 - `Transactions`: 显示Batch中的区块数量。
 - `Batch Created Timestamp`: 显示自 Batch 生成以来经过的时间
-- `Commit Tx Hash`: 显示发布此 Scroll Alpha 区块交易数据的 Goerli 交易的交易哈希缩写。单击哈希将在 Goerli 区块浏览器中打开交易详细信息页面的新标签页。``
+- `Commit Tx Hash`: 显示发布此 Scroll Alpha 区块交易数据的 Goerli 交易哈希缩写。单击哈希将在 Goerli 区块浏览器中打开交易详细信息页面的新标签页。``
 - `Commit Timestamp`: 显示自 Batch 提交到 Goerli 测试网以来经过的时间
 - `Finalize Tx Hash`: 显示了将此 Scroll Alpha 区块的有效性证明提交给 Goerli 上的 rollup 合约的交易哈希缩写。单击哈希将在 Goerli 区块浏览器中打开交易详情页面的新标签页。
