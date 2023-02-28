@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md",
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md",
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md",
+                "file": "translation/alpha_testnet_guide/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/alpha_testnet_guide/README.md"
+                "file": "translation/alpha_testnet_guide/SUMMARY.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "913a795504e578a8",
   "lastOpenFiles": [
+    "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
     "translation/alpha_testnet_guide/SUMMARY.md",
     "translation/alpha_testnet_guide/README.md",
     "translation/alpha_testnet_guide/scroll_logo.svg",
@@ -176,7 +177,6 @@
     "translation/alpha_testnet_guide/user_guide/L1&L2_explorer.md",
     "translation/alpha_testnet_guide/user_guide/img",
     "translation/alpha_testnet_guide/user_guide/transfer_token.md",
-    "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
     "translation/alpha_testnet_guide/user_guide/bridge/README.md",
     "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_4.png.crdownload",
