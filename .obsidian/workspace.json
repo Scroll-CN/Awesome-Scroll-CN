@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translation/alpha_testnet_guide/SUMMARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "477b9ecc011542ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "translation/alpha_testnet_guide/SUMMARY.md",
+                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "translation/alpha_testnet_guide/SUMMARY.md",
+                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "translation/alpha_testnet_guide/SUMMARY.md",
+                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "translation/alpha_testnet_guide/SUMMARY.md"
+                "file": "translation/alpha_testnet_guide/user_guide/bridge/deposit.md"
               }
             }
           }
@@ -161,10 +148,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "477b9ecc011542ba",
+  "active": "913a795504e578a8",
   "lastOpenFiles": [
-    "README.md",
+    "translation/alpha_testnet_guide/user_guide/setup.md",
+    "translation/alpha_testnet_guide/user_guide/rollup_explorer.md",
+    "translation/alpha_testnet_guide/user_guide/swap.md",
+    "translation/Scroll Blogs/10. 发布Goerli上的Alpha测试网.md",
     "translation/alpha_testnet_guide/SUMMARY.md",
+    "README.md",
     "translation/alpha_testnet_guide/README.md",
     "translation/alpha_testnet_guide/user_guide/bridge/withdraw.md",
     "translation/alpha_testnet_guide/developer_guide/testnet_contract.md",
@@ -176,13 +167,10 @@
     "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
     "translation/alpha_testnet_guide/scroll_logo.svg",
     "translation/alpha_testnet_guide/testnet_contract.md",
-    "translation/alpha_testnet_guide/user_guide/rollup_explorer.md",
     "translation/alpha_testnet_guide/user_guide/blockchain_explorer.md",
     "translation/alpha_testnet_guide/user_guide/bridge/deposit.md",
     "translation/alpha_testnet_guide/user_guide/bridge/README.md",
     "translation/alpha_testnet_guide/user_guide/README.md",
-    "translation/alpha_testnet_guide/user_guide/swap.md",
-    "translation/alpha_testnet_guide/user_guide/setup.md",
     "translation/alpha_testnet_guide/user_guide/questions&feedback.md",
     "translation/alpha_testnet_guide/user_guide/common_errors.md",
     "translation/alpha_testnet_guide/user_guide/faucet.md",
@@ -199,7 +187,6 @@
     "translation/alpha_testnet_guide/user_guide/bridge/img/withdraw_1.png.crdownload",
     "translation/alpha_testnet_guide/user_guide/bridge/img/deposit_3.png.crdownload",
     "translation/alpha_testnet_guide/user_guide/bridge/img/deposit_2.png.crdownload",
-    "translation/Scroll Blogs/10. 发布Goerli上的Alpha测试网.md",
     "translation/alpha_testnet_guide/_book/user_guide/bridge/img/withdraw_4.png",
     "translation/alpha_testnet_guide/_book/user_guide/bridge/img/withdraw_3.png",
     "translation/alpha_testnet_guide/_book/user_guide/bridge/img/withdraw_2.png",
