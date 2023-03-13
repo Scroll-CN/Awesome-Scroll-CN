@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c2945528b90ea3b9",
+        "id": "7090c1adb3e4dcbc",
         "type": "tabs",
         "children": [
           {
-            "id": "3391bfa891a69bfd",
+            "id": "21cf43a29a5b5b8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "updates/ETHGlobal：Scaling Ethereum 2023.md",
+                "file": "updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "edfb8bbb61d77803",
+            "id": "31daac6c050b99b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETH Beijing Hackathon.md",
+                "file": "updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETH Beijing Hackathon.md",
+                "file": "updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETH Beijing Hackathon.md",
+                "file": "updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETH Beijing Hackathon.md"
+                "file": "updates/activities/ethdenver2023/Scroll 测试网的最新进展.md"
               }
             }
           }
@@ -162,16 +162,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edfb8bbb61d77803",
+  "active": "31daac6c050b99b9",
   "lastOpenFiles": [
-    "updates/ETHGlobal：Scaling Ethereum 2023.md",
-    "ETH Beijing Hackathon.md",
-    "updates/img/ethbeijing.png",
-    "updates/img/ethglobal_scaling2023.jpeg",
-    "updates/img",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-18.png",
     "translation/Scroll Blogs/oghrul/多验证者应对跨链桥实现漏洞.md",
-    "translation/Scroll Blogs/img/ethereum_research.png",
+    "updates/weekly updates/Weekly Updates 6.md",
+    "updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
     "updates/weekly updates/Weekly Updates 5.md",
+    "updates/weekly updates/Weekly Updates 4.md",
+    "updates/weekly updates/Weekly Updates 1.md",
+    "updates/weekly updates/img/6-0.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-1.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-17.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-16.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-15.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-14.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-13.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-12.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-11.png",
+    "updates/activities/ethdenver2023/img/Scroll 测试网的最新进展-10.png",
+    "updates/activities/ethdenver2023/img",
+    "updates/activities/ethdenver2023",
+    "updates/activities",
+    "updates/ETH Beijing Hackathon.md",
+    "updates/ETHGlobal：Scaling Ethereum 2023.md",
+    "updates/Scroll x ETHDenver 2023 活动预览.md",
+    "updates/weekly updates/Weekly Updates 2.md",
+    "updates/weekly updates/Weekly Updates 3.md",
+    "updates/img",
     "translation/Scroll Blogs/oghrul/为 Optimistic Rollups 辩护.md",
     "translation/Scroll Blogs/ye/Ye - Scroll的理念.md",
     "translation/Scroll Blogs/ye",
@@ -184,31 +202,14 @@
     "translation/Scroll Blogs/oghrul",
     "translation/Ethereum/以太坊KZG可信设置仪式.md",
     "translation/Ethereum/账户抽象(Account Abstraction).md",
-    "updates/weekly updates/img/5-16.png",
     "updates/2022年度回顾.md",
-    "updates/weekly updates/img/5-2.png",
-    "updates/weekly updates/img/ethdenver.png",
-    "updates/weekly updates/img/5-15.png",
-    "updates/weekly updates/img/5-15.jpg",
-    "updates/weekly updates/Weekly Updates 4.md",
-    "updates/weekly updates/img/5-14.png",
     "updates/weekly updates/img/5-14.png.crdownload",
-    "updates/weekly updates/img/5-13.png",
     "updates/weekly updates/img/5-10.png.crdownload",
     "updates/weekly updates/img/5-8.png.crdownload",
     "updates/weekly updates/img/5-0.png.crdownload",
-    "updates/weekly updates/img/5-7.png.crdownload",
-    "updates/weekly updates/Weekly Updates 1.md",
-    "updates/weekly updates/Weekly Updates 3.md",
-    "updates/weekly updates/Weekly Updates 2.md",
-    "updates/weekly updates/img/5-3.png.crdownload",
     "未命名.canvas",
     "translation/alpha_testnet_guide/developer_guide/contract_deployment.md",
     "translation/alpha_testnet_guide/SUMMARY.md",
-    "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md",
-    "translation/alpha_testnet_guide/developer_guide/testnet_contract.md",
-    "translation/alpha_testnet_guide/developer_guide/integrations.md",
-    "translation/alpha_testnet_guide/user_guide/common_errors.md",
-    "translation/alpha_testnet_guide/developer_guide/img/quickstart_2.png.crdownload"
+    "translation/alpha_testnet_guide/developer_guide/building_on_scroll.md"
   ]
 }
