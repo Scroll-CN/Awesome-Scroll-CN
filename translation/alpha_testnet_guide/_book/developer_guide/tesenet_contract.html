@@ -1,0 +1,695 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Pre-Alpha测试网合约 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-code/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-accordion/accordion.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-alerts/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="integrations.html" />
+    
+    
+    <link rel="prev" href="contract_deployment.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Pre-Alpha测试网用户指南
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../user_guide/">
+            
+                <a href="../user_guide/">
+            
+                    
+                    用户指南
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../user_guide/setup.html">
+            
+                <a href="../user_guide/setup.html">
+            
+                    
+                    设置
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../user_guide/faucet.html">
+            
+                <a href="../user_guide/faucet.html">
+            
+                    
+                    水龙头
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="../user_guide/bridge/">
+            
+                <a href="../user_guide/bridge/">
+            
+                    
+                    跨链桥
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.3.1" data-path="../user_guide/bridge/deposit.html">
+            
+                <a href="../user_guide/bridge/deposit.html">
+            
+                    
+                    从Scroll L1 存款至 Scroll L2
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3.2" data-path="../user_guide/bridge/withdraw.html">
+            
+                <a href="../user_guide/bridge/withdraw.html">
+            
+                    
+                    从Scroll L2 提款至 Scroll L1
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="../user_guide/transfer_token.html">
+            
+                <a href="../user_guide/transfer_token.html">
+            
+                    
+                    代币转账
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="../user_guide/swap/">
+            
+                <a href="../user_guide/swap/">
+            
+                    
+                    交易（Swap）
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.5.1" data-path="../user_guide/swap/swap_tokens.html">
+            
+                <a href="../user_guide/swap/swap_tokens.html">
+            
+                    
+                    交易代币
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5.2" data-path="../user_guide/swap/provide_liquidity.html">
+            
+                <a href="../user_guide/swap/provide_liquidity.html">
+            
+                    
+                    提供流动性
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5.3" data-path="../user_guide/swap/check_liquidity_pool.html">
+            
+                <a href="../user_guide/swap/check_liquidity_pool.html">
+            
+                    
+                    检查流动性池
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.6" data-path="../user_guide/rollup_explorer.html">
+            
+                <a href="../user_guide/rollup_explorer.html">
+            
+                    
+                    Rollup 浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.7" data-path="../user_guide/L1&L2_explorer.html">
+            
+                <a href="../user_guide/L1&L2_explorer.html">
+            
+                    
+                    L1 & L2 区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.8" data-path="../user_guide/common_errors.html">
+            
+                <a href="../user_guide/common_errors.html">
+            
+                    
+                    常见错误
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.9" data-path="../user_guide/questions&feedback.html">
+            
+                <a href="../user_guide/questions&feedback.html">
+            
+                    
+                    问题和反馈
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    开发者指南
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="building_on_scroll.html">
+            
+                <a href="building_on_scroll.html">
+            
+                    
+                    在Scroll上开发
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="quickstart.html">
+            
+                <a href="quickstart.html">
+            
+                    
+                    开发者快速上手
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="contract_deployment.html">
+            
+                <a href="contract_deployment.html">
+            
+                    
+                    合约部署教程
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.3.4" data-path="tesenet_contract.html">
+            
+                <a href="tesenet_contract.html">
+            
+                    
+                    Pre-Alpha测试网合约
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="integrations.html">
+            
+                <a href="integrations.html">
+            
+                    
+                    生态集成
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="eth_pre_alpha_differences.html">
+            
+                <a href="eth_pre_alpha_differences.html">
+            
+                    
+                    以太坊和Pre-Alpha测试网区别
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" >
+            
+                <a target="_blank" href="https://scroll.io/prealpha">
+            
+                    
+                    Pre-Alpha测试网
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" >
+            
+                <a target="_blank" href="https://l1scan.scroll.io/">
+            
+                    
+                    L1区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" >
+            
+                <a target="_blank" href="https://l2scan.scroll.io/">
+            
+                    
+                    L2区块链浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" >
+            
+                <a target="_blank" href="https://scroll.io/prealpha/rollupscan">
+            
+                    
+                    Rollup浏览器
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Pre-Alpha测试网合约</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="pre-alpha&#x6D4B;&#x8BD5;&#x7F51;&#x5408;&#x7EA6;">Pre-Alpha&#x6D4B;&#x8BD5;&#x7F51;&#x5408;&#x7EA6;</h1>
+<h2 id="&#x7F51;&#x7EDC;&#x4FE1;&#x606F;">&#x7F51;&#x7EDC;&#x4FE1;&#x606F;</h2>
+<table>
+<thead>
+<tr>
+<th>&#x7F51;&#x7EDC;&#x540D;&#x79F0;</th>
+<th>Scroll L1&#x6D4B;&#x8BD5;&#x7F51;</th>
+<th>Scroll L2&#x6D4B;&#x8BD5;&#x7F51;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RPC URL</td>
+<td><a href="https://prealpha-rpc.scroll.io/l1" target="_blank">https://prealpha-rpc.scroll.io/l1</a></td>
+<td><a href="https://prealpha-rpc.scroll.io/l2" target="_blank">https://prealpha-rpc.scroll.io/l2</a></td>
+</tr>
+<tr>
+<td>Chain ID</td>
+<td>534351</td>
+<td>534354</td>
+</tr>
+<tr>
+<td>&#x4EE3;&#x5E01;&#x7B26;&#x53F7;</td>
+<td>TSETH</td>
+<td>TSETH</td>
+</tr>
+<tr>
+<td>Block Explorer URL</td>
+<td><a href="https://l1scan.scroll.io/" target="_blank">https://l1scan.scroll.io/</a></td>
+<td><a href="https://l2scan.scroll.io/" target="_blank">https://l2scan.scroll.io/</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="scroll-&#x5408;&#x7EA6;">Scroll &#x5408;&#x7EA6;</h2>
+<h3 id="rollup">Rollup</h3>
+<ul>
+<li>L1 Rollup: <code>0x27b5ce7d020545653488eF0FF0D25f362CE36f95</code></li>
+</ul>
+<h3 id="&#x8DE8;&#x94FE;&#x6865;">&#x8DE8;&#x94FE;&#x6865;</h3>
+<ul>
+<li>L1 Messenger: <code>0x4E1DF26BdB4Ec261320a5832701db21760aa8936</code></li>
+<li>L1 Gateway Router: <code>0x47c02B023B6787EF4E503DF42bBB1a94f451a1C0</code></li>
+<li>L2 Messenger: <code>0xA7cefEa8ef62D129d8d37532989e7B31A8396D59</code></li>
+<li>L2 Gateway Router: <code>0xD7227113b92E537AeDa220d5A2F201B836E5879D</code></li>
+</ul>
+<h3 id="&#x4EE3;&#x5E01;">&#x4EE3;&#x5E01;</h3>
+<ul>
+<li>TUSDC L1: <code>0x1838a36ab91900fa0e637006bB2fAA6Ef1a5f841</code></li>
+<li>TUSDC L2: <code>0x38BA9a208F34Ddc9332f6DfC0E9d567f098958A4</code></li>
+<li>WETH L2: <code>0x6b29C65597Fa2aC80Ab181989969092971f1Fa4e</code></li>
+</ul>
+<h2 id="&#x534F;&#x8BAE;">&#x534F;&#x8BAE;</h2>
+<h3 id="uniswap-v3">Uniswap V3</h3>
+<ul>
+<li><p>&#x524D;&#x7AEF;&#x7F51;&#x9875;: <a href="https://uniswap-v3.scroll.io/" target="_blank">https://uniswap-v3.scroll.io/</a></p>
+</li>
+<li><p>&#x6838;&#x5FC3;&#x5408;&#x7EA6;</p>
+<ul>
+<li>Core Factory: <code>0x3949b9b7506971CF87B8Cf21137BCB85939Fa24D</code>    </li>
+<li>NFT Position Manager: <code>0x569c5BcB406efC68Ea22C028058554488bfE50dd</code></li>
+<li>Router: <code>0xA207aF0eB6E87403A691f3112A4d49FC1CCd647A</code></li>
+</ul>
+</li>
+<li>&#x5176;&#x4ED6;&#x5408;&#x7EA6;    <ul>
+<li>multicall2Address: <code>0x1aFD5ac8791C47C336324A59D17dC55d43058B76</code></li>
+<li>proxyAdminAddress: <code>0x73c920Cbd944eA33bc703a311Dd3B3354e4cc538</code></li>
+<li>tickLensAddress: <code>0x539024BE20D6a1Db8Da125D93b0488a90e7205C2</code></li>
+<li>nftDescriptorLibraryAddressV1_3_0: <code>0xB1ef9EDb970Bd0302188076D5f86876bBc10bFb4</code></li>
+<li>nonfungibleTokenPositionDescriptorAddressV1_3_0: <code>0xc638f132FBE7193e925E7cb4E52093113853a8b8</code></li>
+<li>descriptorProxyAddress: <code>0xad556fF19b5d469D265Ca88ECb98AE740c87528A</code></li>
+<li>v3MigratorAddress: <code>0xbaF5b471a078B3d91DCd933c446B2fd4c64acDA5</code></li>
+<li>v3StakerAddress: <code>0xD8CbF9D8b4660e84eA606347b66581639C47c3Ac</code></li>
+<li>quoterV2Address: <code>0x282870F757af63D08C9F66a2099C6B498AfA28eE</code></li>
+</ul>
+</li>
+</ul>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="contract_deployment.html" class="navigation navigation-prev " aria-label="Previous page: 合约部署教程">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="integrations.html" class="navigation navigation-next " aria-label="Next page: 生态集成">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Pre-Alpha测试网合约","level":"1.3.4","depth":2,"next":{"title":"生态集成","level":"1.3.5","depth":2,"path":"developer_guide/integrations.md","ref":"developer_guide/integrations.md","articles":[]},"previous":{"title":"合约部署教程","level":"1.3.3","depth":2,"path":"developer_guide/contract_deployment.md","ref":"developer_guide/contract_deployment.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["code","accordion","alerts","livereload"],"pluginsConfig":{"livereload":{},"accordion":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"code":{"copyButtons":true},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"alerts":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"insert-logo":{"url":"scroll_logo.svg","style":"background: none; max-height: 30px; min-height: 30px"}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"developer_guide/tesenet_contract.md","mtime":"2023-02-15T03:24:49.423Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-02-15T05:32:24.100Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-code/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-accordion/accordionSelector.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-alerts/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
