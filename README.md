@@ -1,5 +1,4 @@
 <div align="center">
-  <img alt="starknet logo" src="https://scroll.io/img/logo_with_text.ff8e8db3.png" width="200" >
   <h1 align="center">Awesome Scroll 中文</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
