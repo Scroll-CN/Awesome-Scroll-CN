@@ -38,30 +38,32 @@
 <!--te-->
 
 
-# 官方资源
-* [官网](https://scroll.io/)
-* [Twitter](https://twitter.com/Scroll_ZKP)
-* [Discord](https://discord.com/invite/CNzNVt4Feu)
-* [Github](https://github.com/scroll-tech)
-* [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
+# Scroll 博客
+1. [zkEVM介绍](1.zkEVM介绍.md)
+2. [Scroll的愿景与价值观](2.愿景与价值观.md)
+3. [发布Pre-Alpha测试网](3.Pre-Alpha测试网.md)
+4. [Scroll的技术原则](4.技术原则.md)
+5. [Scroll的架构概览](5.架构概览.md)
+6. [升级Pre-Alpha测试网](6.升级Pre-Alpha测试网.md)
+7. [KZG实践](7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
+8. [解析证明生成](8.解析证明生成.md)
+9. [Pre-Alpha测试网版本升级说明](9.Pre-Alpha测试网版本升级说明.md)
+10. [Goerli的Alpha测试网发布](10.Goerli的Alpha测试网发布.md)
 
 
-# 文章
-* [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
-* [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
-## 官方博客
-1. [zkEVM介绍](translation/Scroll%20Blogs/1.zkEVM介绍.md)
-1. [Scroll的愿景与价值观](translation/Scroll%20Blogs/2.愿景与价值观.md)
-2. [发布Pre-Alpha测试网](translation/Scroll%20Blogs/3.Pre-Alpha测试网.md)
-3. [Scroll的技术原则](./translation/Scroll%20Blogs/4.技术原则.md)
-4. [Scroll的架构概览](./translation/Scroll%20Blogs/5.架构概览.md)
-5. [升级Pre-Alpha测试网](./translation/Scroll%20Blogs/6.升级Pre-Alpha测试网.md)
-6. [KZG实践](./translation/Scroll%20Blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
-7. [解析证明生成](./translation/Scroll%20Blogs/8.解析证明生成.md)
-8. [Pre-Alpha测试网版本升级说明](translation/Scroll%20Blogs/9.Pre-Alpha测试网版本升级说明.md)
+# Scroll 每周更新
+1. [每周更新 #1(2023.01.30~2023.02.05)](Weekly%20Updates%201.md)
+2. [每周更新 #2(2023.02.06~2023.02.12)](Weekly%20Updates%202.md)
+3. [每周更新 #3(2023.02.13~2023.02.19)](Weekly%20Updates%203.md)
+4. [每周更新 #4(2023.02.20~2023.02.26)](Weekly%20Updates%204.md)
+5. [每周更新 #5(2023.02.27~2023.03.05)](Weekly%20Updates%205.md)
+6. [每周更新 #6(2023.03.06~2023.03.12)](Weekly%20Updates%206.md)
+7. [每周更新 #7(2023.03.13~2023.03.19)](Weekly%20Updates%207.md)
+8. [每周更新 #8(2023.03.20~2023.03.26)](Weekly%20Updates%208.md)
+9. [每周更新 #9(2023.03.27~2023.04.02)](Weekly%20Updates%209.md)
 
 
-# 视频
+# Scroll 活动回顾
 
 ## SBC zkEVM Workshop
   1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
@@ -81,10 +83,21 @@
 
 ## Devcon Bogota
   1. [zk-Rollups的证明系统选择](https://mp.weixin.qq.com/s/YJ2jGX2ESyWbmG28LFKKdQ)
-  1. [架构介绍和Pre-Alpha测试网更新](https://mp.weixin.qq.com/s/SLsXldOJfY_YKoiIul6tCw)
-  1. [智能合约部署和Scroll架构](https://mp.weixin.qq.com/s/oAkl8zDBFiu6CQNYoa51eg)
-  1. [以太坊执行层并行化的挑战](https://mp.weixin.qq.com/s/-7jTgUxJ9t3CGftrudg2hw)
-  1. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
+  2. [架构介绍和Pre-Alpha测试网更新](https://mp.weixin.qq.com/s/SLsXldOJfY_YKoiIul6tCw)
+  3. [智能合约部署和Scroll架构](https://mp.weixin.qq.com/s/oAkl8zDBFiu6CQNYoa51eg)
+  4. [以太坊执行层并行化的挑战](https://mp.weixin.qq.com/s/-7jTgUxJ9t3CGftrudg2hw)
+  5. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
+
+
+## ETHDenver
+
+
+## ETHGlobal: Scaling 2023
+
+
+## ETH Beijing
+
+
 
 ## Workshop
 - [zkEVM Rollups扩容以太坊之争](https://mp.weixin.qq.com/s/nVZxxEGRWxAbM_b5mSCnkA)
@@ -95,13 +108,28 @@
 	- [Scroll x Austin Griffith：开发zkEVM应用](https://mp.weixin.qq.com/s/dpqqOg-B9pI1RlUMwfqMfA)
 
 
-# 书籍
-
-* [精通 zkEVM](https://zkevmbook.github.io/)
-
 
 # 生态项目
 
+## 基础设施
+
+- [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
+- [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
+
+## DeFi
+- Uniswap v3
+- SyncSwap
+- [Zada Finance](https://www.zadafinance.com/)
+
+
+## 社交
+
+
+
+## 游戏
+
+
+- [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [Safe](https://www.notion.so/Safe-199eca4db7fd40b5abba3f8dcd7c4218)
 - [The Graph](https://www.notion.so/The-Graph-b9474cebd6114b1cbe72178cd4811975)
 - [Hop Protocol](https://www.notion.so/Hop-Protocol-cb3a4c2371704bef85741dc4d5749194)
@@ -120,5 +148,42 @@
 - [BigBang](https://www.notion.so/BigBang-c258209428c64d6dabd1bd5bcc5079e5)
 - [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
 - [Orbiter](https://www.notion.so/Orbiter-0ac99d2eb1124d9f877e351362fe7038)
-- [**Ante Protocol**](https://www.notion.so/Ante-Protocol-4376d23d3c244b578a452033136a08c6)
+- [Ante Protocol](https://www.notion.so/Ante-Protocol-4376d23d3c244b578a452033136a08c6)
 - [RedStone](https://www.notion.so/RedStone-56a1241d81724877b0fcadf2d010af8f)
+
+
+# 以太坊研究
+
+- [以太坊KZG可信设置仪式](以太坊KZG可信设置仪式.md)
+- [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](多验证者应对跨链桥实现漏洞.md)
+- [Justin Drake: L1 排序的 Based Rollups](L1%20排序的%20Based%20Rollups.md)
+- [Cami: 账户抽象(Account Abstraction)](账户抽象(Account%20Abstraction).md)
+
+
+# 零知识证明
+
+## 行业概览
+- 探索零知识跨链桥Exploring ZK Bridges
+
+## 证明系统
+
+## 硬件加速
+
+
+
+# 相关链接
+
+## Scroll 
+- Website: https://scroll.io/
+- Twitter: https://twitter.com/Scroll_ZKP
+- Discord: https://discord.com/invite/scroll
+- Github: https://github.com/scroll-tech
+- Youtube: https://www.youtube.com/@Scroll_ZKP
+
+
+## Scroll CN
+- Linktree: https://linktr.ee/scrollcn
+- WeChat: Scroll CN
+- Twitter: https://twitter.com/Scroll_CN
+- Github: https://github.com/Scroll-CN
+- Mora: https://mora.app/planet/gltju-4iaaa-aaaan-qdcnq-cai
