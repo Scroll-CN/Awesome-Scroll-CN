@@ -163,7 +163,8 @@
 # 零知识证明
 
 ## 行业概览
-- 探索零知识跨链桥Exploring ZK Bridges
+- [探索零知识跨链桥](Exploring%20ZK%20Bridges.md)
+- [2022年零知识证明领域回顾](ZK%20Rewind(The%20year%20in%20recap).md)
 
 ## 证明系统
 

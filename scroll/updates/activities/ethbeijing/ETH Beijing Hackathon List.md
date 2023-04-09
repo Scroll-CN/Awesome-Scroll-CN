@@ -178,7 +178,7 @@
 -   是否招募队员：否
 - **去中心化币安 Launchpad**
 
-# 24. SLOADS
+# 24. SLOADS (Public Goods)
 
 -   简介：在解决某个 CTF（[https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle）](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle%EF%BC%89) 时，我遇到一个问题，需要在测试代码中打印某个合约的所有 storage slots。目前 foundry 仅支持打印静态数据的storage slot，对于动态数据，比如所有的 array 元素，map entry，则无法打印，我希望能够打印出动态数据的 storage slots。
 -   目标：能够在 test 中使用新增的一个 **cheat code 返回所有 storage slots index 的数组。**
@@ -226,7 +226,7 @@
 -   目标：产出研究分析报告和EIP
 -   是否招募队员：否
 
-# 31 PADO
+# 31 PADO (Public Goods)
 
 -   简介：zk-snarks/zk-starks是目前大家比较熟悉的NIZK技术用于扩容和隐私保护。我们想采用另一种不太为人熟知的zk技术——**交互式零知识证明(IZK)**，来提供用户数据的隐私保护认证。
 -   目标：项目将搭建一个端到端的个人用户数据上链流程，个人用户可以获取其已有的web data, 通过IZK服务实现隐私保护的业务逻辑验证，生成一个数据证明，并发布到链上。
