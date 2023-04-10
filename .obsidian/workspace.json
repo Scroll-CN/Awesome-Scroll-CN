@@ -13,13 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c6265970b8b1b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a77168a9021531c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/ecosystem/Intmax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80bbd559214e1564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a4a4b8e09b3e3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/activities/ethbeijing/Bounty Winners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7fbc4ff0b48edca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/activities/zkHACK/ZK Hack Lisbon 黑客松获奖名单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f21350b17938e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/activities/ethbeijing/ETHBeijing 回顾.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66622df4ca060d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/activities/ethbeijing/Bounty Winners.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -69,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "e14169a67d17c363",
@@ -86,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
+                "file": "scroll/updates/activities/zkHACK/ZK Hack Lisbon 黑客松获奖名单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
+                "file": "scroll/updates/activities/zkHACK/ZK Hack Lisbon 黑客松获奖名单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md"
+                "file": "scroll/updates/activities/zkHACK/ZK Hack Lisbon 黑客松获奖名单.md"
               }
             }
           }
@@ -149,54 +233,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5eee824bcb170e32",
+  "active": "f7fbc4ff0b48edca",
   "lastOpenFiles": [
+    "scroll/updates/activities/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
+    "scroll/updates/activities/ethbeijing/Bounty Winners.md",
+    "scroll/updates/activities/zkHACK/ZK Hack Lisbon 黑客松获奖名单.md",
+    "scroll/updates/activities/zkHACK",
+    "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon.md",
+    "scroll/updates/activities/ethbeijing/ETHBeijing 回顾.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
+    "scroll/updates/weekly updates/Weekly Updates 9.md",
     "README.md",
+    "scroll/ecosystem/Intmax.md",
+    "scroll/updates/weekly updates/Weekly Updates 10.md",
+    "scroll/updates/weekly updates/img/10-3.png",
+    "scroll/updates/activities/ethbeijing/Workshop.md",
+    "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
+    "scroll/ecosystem/Blast API.md",
+    "scroll/updates/weekly updates/img/10-2.png",
+    "scroll/updates/weekly updates/img/10-2.png.crdownload",
+    "Pasted image 20230410094110.png",
+    "scroll/ecosystem",
+    "scroll/updates/weekly updates/img/10-2.gif",
+    "scroll/updates/weekly updates/img/10-1.png",
+    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
+    "scroll/updates/activities/ethglobal/Bounty Winners.md",
+    "scroll/updates/weekly updates/Weekly Updates 2.md",
+    "scroll/updates/weekly updates/Weekly Updates 1.md",
+    "scroll/updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
+    "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 2023 活动预览.md",
+    "scroll/updates/activities/ethdenver2023/Bounty Winners.md",
     "zkp/landscape/zk_validator/ZK Rewind(The year in recap).md",
     "zkp/landscape/zk_validator/Exploring ZK Bridges.md",
     "ethereum/账户抽象(Account Abstraction).md",
     "账户抽象(Account.md",
     "ethereum/L1 排序的 Based Rollups.md",
     "L1 排序的 Based.md",
-    "L1.md",
-    "ethereum/多验证者应对跨链桥实现漏洞.md",
-    "ethereum/以太坊KZG可信设置仪式.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
     "scroll/updates/weekly updates/img/Weekly Updates #9.png",
     "scroll/updates/weekly updates/img/Weekly Updates #5.png",
     "scroll/updates/weekly updates/img/Weekly Updates #1.png",
-    "scroll/updates/weekly updates/Weekly Updates 4.md",
     "scroll/updates/weekly updates/img/Weekly Updates #4.png",
-    "scroll/updates/weekly updates/Weekly Updates 3.md",
     "scroll/updates/weekly updates/img/Weekly Updates #2.png",
-    "scroll/updates/weekly updates/Weekly Updates 1.md",
-    "Weekly.md",
-    "scroll/blogs/10.Goerli的Alpha测试网发布.md",
-    "scroll/blogs/9.Pre-Alpha测试网版本升级说明.md",
-    "scroll/blogs/8.解析证明生成.md",
-    "10..md",
-    "scroll/blogs/10..md",
     "scroll/testnet",
     "zkp/hardware_accelerate",
     "zkp/proof_system",
     "zkp/landscape",
     "zkp",
-    "未命名.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon.md",
-    "scroll/updates/weekly updates/Weekly Updates 9.md",
-    "scroll/updates/activities/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
-    "scroll/updates/activities/hongkong_web3_festival_2023/web3_night_out.jpeg",
-    "scroll/updates/activities/hongkong_web3_festival_2023/cover.jpeg",
     "scroll/updates/activities/hongkong_web3_festival_2023",
     "updates/activities/未命名文件夹",
-    "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 2023 活动预览.md",
-    "scroll/updates/activities/ethbeijing",
-    "scroll/updates/activities/ethglobal/Bounty Winners.md",
-    "scroll/updates/weekly updates/img/9-8.png",
-    "scroll/updates/weekly updates/img/9-7.png",
-    "scroll/updates/weekly updates/img/6-2.png",
-    "scroll/updates/activities/ethglobal",
-    "updates/weekly updates/img/9-N1.png.crdownload",
     "未命名.canvas"
   ]
 }
