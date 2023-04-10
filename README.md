@@ -21,19 +21,32 @@
 
 <!--ts-->
 * [Awesome Scroll 中文](#awesome-scroll-中文)
-* [官方资源](#官方资源)
-* [文章](#文章)
-   * [官方博客](#官方博客)
-* [视频](#视频)
+* [Scroll 博客](#scroll-博客)
+* [Scroll 每周更新](#scroll-每周更新)
+* [Scroll 活动回顾](#scroll-活动回顾)
    * [SBC zkEVM Workshop](#sbc-zkevm-workshop)
    * [Scroll Rollup Day](#scroll-rollup-day)
    * [Devcon Bogota](#devcon-bogota)
+   * [ETHDenver](#ethdenver)
+   * [ETHGlobal: Scaling 2023](#ethglobal-scaling-2023)
+   * [ETH Beijing](#eth-beijing)
    * [Workshop](#workshop)
-* [书籍](#书籍)
 * [生态项目](#生态项目)
+   * [基础设施](#基础设施)
+   * [DeFi](#defi)
+   * [社交](#社交)
+   * [游戏](#游戏)
+* [以太坊研究](#以太坊研究)
+* [零知识证明](#零知识证明)
+   * [行业概览](#行业概览)
+   * [证明系统](#证明系统)
+   * [硬件加速](#硬件加速)
+* [相关链接](#相关链接)
+   * [Scroll](#scroll)
+   * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Mon Mar 27 14:05:43 UTC 2023 -->
+<!-- Added by: runner, at: Mon Apr 10 09:57:38 UTC 2023 -->
 
 <!--te-->
 
