@@ -42,6 +42,6 @@ Intmax zkRollup 配备了一个新的架构，用户和 zkRollup 节点（运营
 
 [zkcloud alpha 版本](https://zkcloud.io/)已经上线，它可以帮助开发者更轻松地使用 ZKP 编写智能合约和程序。它目前支持 Groth16 和 PLONK 证明，STARKs 即将推出。
 
-# **下一步是什么？**
+# 下一步是什么？
 
 我们即将宣布一些激动人心的消息！同时，如果您有任何问题，请联系我们
