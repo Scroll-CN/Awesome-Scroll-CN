@@ -30,6 +30,8 @@
    * [ETHDenver](#ethdenver)
    * [ETHGlobal: Scaling 2023](#ethglobal-scaling-2023)
    * [ETH Beijing](#eth-beijing)
+   * [ZK Hack](#zk-hack)
+   * [HongKong Web3 Festival](#hongkong-web3-festival)
    * [Workshop](#workshop)
 * [生态项目](#生态项目)
    * [基础设施](#基础设施)
@@ -57,7 +59,7 @@
    * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Apr 14 15:32:32 UTC 2023 -->
+<!-- Added by: runner, at: Fri Apr 14 16:36:31 UTC 2023 -->
 
 <!--te-->
 
