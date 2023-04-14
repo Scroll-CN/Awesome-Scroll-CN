@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f0efd0dbe2700b",
+        "id": "96bb92f77115d9f2",
         "type": "tabs",
         "children": [
           {
-            "id": "0c825686cba05e5b",
+            "id": "7772c04417828d38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,14 +140,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c825686cba05e5b",
+  "active": "7772c04417828d38",
   "lastOpenFiles": [
-    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
+    "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 2023 活动预览.md",
     "README.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
     "scroll/updates/activities/ethglobal/Bounty Winners.md",
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
     "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
-    "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 2023 活动预览.md",
     "scroll/updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
     "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 黑客松获奖名单.md",
     "scroll/updates/activities/workshop/img/zkEVM_design51.png",
