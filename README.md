@@ -120,7 +120,7 @@
 - [Scroll x ETHDenver 黑客松获奖名单](Scroll%20x%20ETHDenver%20黑客松获奖名单.md)
 
 ## ETHGlobal: Scaling 2023
-
+- [[ETHGlobal：Scaling Ethereum 2023]]
 
 ## ETH Beijing
 
