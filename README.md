@@ -62,7 +62,7 @@
 <!--te-->
 
 
-# Scroll 博客
+# 📖 Scroll 博客
 1. [zkEVM介绍](scroll/blogs/1.zkEVM介绍.md)
 2. [Scroll的愿景与价值观](scroll/blogs/2.愿景与价值观.md)
 3. [发布Pre-Alpha测试网](scroll/blogs/3.Pre-Alpha测试网.md)
@@ -75,7 +75,7 @@
 10. [Goerli的Alpha测试网发布](scroll/blogs/10.Goerli的Alpha测试网发布.md)
 
 
-# Scroll 每周更新
+# ⚪ Scroll 每周更新
 1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
 2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
 3. [每周更新 #3(2023.02.13~2023.02.19)](scroll/updates/weekly%20updates/Weekly%20Updates%203.md)
@@ -88,7 +88,7 @@
 10. [每周更新 #10(2023.04.03~2023.04.09)](scroll/updates/weekly%20updates/Weekly%20Updates%2010.md)
 
 
-# Scroll 活动回顾
+# ◀ Scroll 活动回顾
 
 ## SBC zkEVM Workshop
   1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
@@ -140,7 +140,7 @@
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
 
-# 生态项目
+# 🕸 生态项目
 
 ## 基础设施
 ### 节点
@@ -236,7 +236,7 @@
 - [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
 
 
-# 以太坊研究
+# 👨‍🎓以太坊研究
 
 - [以太坊KZG可信设置仪式](ethereum/以太坊KZG可信设置仪式.md)
 - [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
@@ -244,7 +244,7 @@
 - [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
 
 
-# 零知识证明
+# 0‍⃣ 零知识证明
 
 ## 行业概览
 - [探索零知识跨链桥](zkp/landscape/zk_validator/Exploring%20ZK%20Bridges.md)
@@ -257,7 +257,7 @@
 
 
 
-# 相关链接
+# 🔗 相关链接
 
 ## Scroll 
 - Website: https://scroll.io/
