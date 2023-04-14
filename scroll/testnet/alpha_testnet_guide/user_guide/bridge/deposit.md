@@ -15,19 +15,19 @@
 
 1. 单击跨链桥应用程序右上角的钱包地址。 
 
-	![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/deposit_1.png)
+	![](img/deposit_1.png)
 
 弹出面板列出了您在跨链桥应用程序中进行的最近交易（见下图）。有两种状态：L1 状态和L2 状态。此时，因为我们是从 L1 跨至 L2 ，一旦在Goerli测试网上被最终确认，将会显示 `success`状态。随后，你的自己将会被中继至L2
 
 2.  点击最新的 Goerli 交易哈希
 
-    ![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/deposit_2.png)
+    ![](img/deposit_2.png)
 
 将会在新的标签页显示交易详情，您可以看到此笔交易已经在 Goerli 上得到确认
 
-![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/deposit_3.png)
+![](img/deposit_3.png)
 
 3.  返回[跨链桥](https://scroll.io/prealpha/bridge)应用。一旦您的交易在 L2 上的状态显示`success`，您应该会看到 Scroll Alpha 钱包中的资金和交易哈希：
 
-    ![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/deposit_4.png)
+    ![](img/deposit_4.png)
 

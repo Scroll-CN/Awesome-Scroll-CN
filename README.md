@@ -57,35 +57,35 @@
    * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Apr 14 16:01:53 UTC 2023 -->
+<!-- Added by: runner, at: Fri Apr 14 15:32:32 UTC 2023 -->
 
 <!--te-->
 
 
 # Scroll 博客
-1. [zkEVM介绍](1.zkEVM介绍.md)
-2. [Scroll的愿景与价值观](2.愿景与价值观.md)
-3. [发布Pre-Alpha测试网](3.Pre-Alpha测试网.md)
-4. [Scroll的技术原则](4.技术原则.md)
-5. [Scroll的架构概览](5.架构概览.md)
-6. [升级Pre-Alpha测试网](6.升级Pre-Alpha测试网.md)
-7. [KZG实践](7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
-8. [解析证明生成](8.解析证明生成.md)
-9. [Pre-Alpha测试网版本升级说明](9.Pre-Alpha测试网版本升级说明.md)
-10. [Goerli的Alpha测试网发布](10.Goerli的Alpha测试网发布.md)
+1. [zkEVM介绍](scroll/blogs/1.zkEVM介绍.md)
+2. [Scroll的愿景与价值观](scroll/blogs/2.愿景与价值观.md)
+3. [发布Pre-Alpha测试网](scroll/blogs/3.Pre-Alpha测试网.md)
+4. [Scroll的技术原则](scroll/blogs/4.技术原则.md)
+5. [Scroll的架构概览](scroll/blogs/5.架构概览.md)
+6. [升级Pre-Alpha测试网](scroll/blogs/6.升级Pre-Alpha测试网.md)
+7. [KZG实践](scroll/blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
+8. [解析证明生成](scroll/blogs/8.解析证明生成.md)
+9. [Pre-Alpha测试网版本升级说明](scroll/blogs/9.Pre-Alpha测试网版本升级说明.md)
+10. [Goerli的Alpha测试网发布](scroll/blogs/10.Goerli的Alpha测试网发布.md)
 
 
 # Scroll 每周更新
-1. [每周更新 #1(2023.01.30~2023.02.05)](Weekly%20Updates%201.md)
-2. [每周更新 #2(2023.02.06~2023.02.12)](Weekly%20Updates%202.md)
-3. [每周更新 #3(2023.02.13~2023.02.19)](Weekly%20Updates%203.md)
-4. [每周更新 #4(2023.02.20~2023.02.26)](Weekly%20Updates%204.md)
-5. [每周更新 #5(2023.02.27~2023.03.05)](Weekly%20Updates%205.md)
-6. [每周更新 #6(2023.03.06~2023.03.12)](Weekly%20Updates%206.md)
-7. [每周更新 #7(2023.03.13~2023.03.19)](Weekly%20Updates%207.md)
-8. [每周更新 #8(2023.03.20~2023.03.26)](Weekly%20Updates%208.md)
-9. [每周更新 #9(2023.03.27~2023.04.02)](Weekly%20Updates%209.md)
-10. [每周更新 #10(2023.04.03~2023.04.09)](Weekly%20Updates%2010.md)
+1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
+2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
+3. [每周更新 #3(2023.02.13~2023.02.19)](scroll/updates/weekly%20updates/Weekly%20Updates%203.md)
+4. [每周更新 #4(2023.02.20~2023.02.26)](scroll/updates/weekly%20updates/Weekly%20Updates%204.md)
+5. [每周更新 #5(2023.02.27~2023.03.05)](scroll/updates/weekly%20updates/Weekly%20Updates%205.md)
+6. [每周更新 #6(2023.03.06~2023.03.12)](scroll/updates/weekly%20updates/Weekly%20Updates%206.md)
+7. [每周更新 #7(2023.03.13~2023.03.19)](scroll/updates/weekly%20updates/Weekly%20Updates%207.md)
+8. [每周更新 #8(2023.03.20~2023.03.26)](scroll/updates/weekly%20updates/Weekly%20Updates%208.md)
+9. [每周更新 #9(2023.03.27~2023.04.02)](scroll/updates/weekly%20updates/Weekly%20Updates%209.md)
+10. [每周更新 #10(2023.04.03~2023.04.09)](scroll/updates/weekly%20updates/Weekly%20Updates%2010.md)
 
 
 # Scroll 活动回顾
@@ -114,26 +114,30 @@
   5. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
 
 ## ETHDenver
-- [Scroll x ETHDenver 2023 活动预览]
 - [Scroll x ETHDenver 2023 活动预览](scroll/updates/activities/ethdenver2023/Scroll%20x%20ETHDenver%202023%20活动预览.md)
-- [Scroll 测试网的最新进展]()
-- [Scroll x ETHDenver 黑客松获奖名单](Scroll%20x%20ETHDenver%20黑客松获奖名单.md)
-- 
+- [Scroll x ETHDenver 黑客松获奖名单](scroll/updates/activities/ethdenver2023/Scroll%20x%20ETHDenver%20黑客松获奖名单.md)
+- [Scroll 测试网的最新进展](scroll/updates/activities/ethdenver2023/Scroll%20测试网的最新进展.md)
 
 ## ETHGlobal: Scaling 2023
-- [[ETHGlobal：Scaling Ethereum 2023]]
+- [ETHGlobal：Scaling Ethereum 2023](scroll/updates/activities/ethglobal/ETHGlobal：Scaling%20Ethereum%202023.md)
+- [ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单](scroll/updates/activities/ethglobal/ETHGlobal：Scaling%20Ethereum%202023%20黑客松获奖名单.md)
+- [ETHGlobal Tokyo 黑客松](scroll/updates/activities/ethglobal/ETHGlobal%20Tokyo%20黑客松.md)
 
 ## ETH Beijing
-- [ETHBeijing 回顾](ETHBeijing%20%E5%9B%9E%E9%A1%BE.md)
+- [ETH Beijing 黑客松](scroll/updates/activities/ethbeijing/ETH%20Beijing%20黑客松.md)
+- [ETHBeijing 回顾](scroll/updates/activities/ethbeijing/ETHBeijing%20回顾.md)
+- [ETHBeijing 专访](scroll/updates/activities/ethbeijing/ETHBeijing%20专访.md)
+
+## ZK Hack
+- [ZK Hack Lisbon 黑客松获奖名单](scroll/updates/activities/zkHACK/ZK%20Hack%20Lisbon%20黑客松获奖名单.md)
+
+## HongKong Web3 Festival
+- [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
+
 
 ## Workshop
-- [zkEVM Rollups扩容以太坊之争](https://mp.weixin.qq.com/s/nVZxxEGRWxAbM_b5mSCnkA)
-- **Others**
-	- Scroll x Dapp Learning
-		1. [zkEVM介绍和技术架构](https://mp.weixin.qq.com/s/N-Bt_lqPBxIQFvQF4ep0rQ)
-		2. [Q&A环节](https://mp.weixin.qq.com/s/whh4ApJoaYONnBWvxWM5YA)
-	- [Scroll x Austin Griffith：开发zkEVM应用](https://mp.weixin.qq.com/s/dpqqOg-B9pI1RlUMwfqMfA)
-
+- [使用Halo2-ce构建和测试电路](scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md)
+- [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
 
 # 生态项目
@@ -234,20 +238,20 @@
 
 # 以太坊研究
 
-- [以太坊KZG可信设置仪式](以太坊KZG可信设置仪式.md)
-- [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](多验证者应对跨链桥实现漏洞.md)
-- [Justin Drake: L1 排序的 Based Rollups](L1%20排序的%20Based%20Rollups.md)
-- [Cami: 账户抽象(Account Abstraction)](账户抽象(Account%20Abstraction).md)
+- [以太坊KZG可信设置仪式](ethereum/以太坊KZG可信设置仪式.md)
+- [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
+- [Justin Drake: L1 排序的 Based Rollups](ethereum/L1%20排序的%20Based%20Rollups.md)
+- [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
 
 
 # 零知识证明
 
 ## 行业概览
-- [探索零知识跨链桥](Exploring%20ZK%20Bridges.md)
-- [2022年零知识证明领域回顾](ZK%20Rewind(The%20year%20in%20recap).md)
+- [探索零知识跨链桥](zkp/landscape/zk_validator/Exploring%20ZK%20Bridges.md)
+- [2022年零知识证明领域回顾](zkp/landscape/zk_validator/ZK%20Rewind(The%20year%20in%20recap).md)
 
 ## 证明系统
-- [Maksym Petkus：zkSNARK证明原理及机制](Maksym%20Petkus：zkSNARK证明原理及机制.pdf)
+- [Maksym Petkus：zkSNARK证明原理及机制](zkp/proof_system/Maksym%20Petkus：Why%20and%20How%20zk-SNARK%20Works/Maksym%20Petkus：zkSNARK证明原理及机制.pdf)
 
 ## 硬件加速
 

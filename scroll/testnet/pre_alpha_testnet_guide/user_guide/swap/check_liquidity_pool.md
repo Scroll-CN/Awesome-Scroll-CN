@@ -4,4 +4,4 @@ Uniswap V2 合约部署在Scroll L2 Testnet 中的地址。[`0x4F4Eb5aC461c11519
 
 由于测试网只有一个流动性池（`TSETH/TSUSDC`），您可以在 Scroll L2 区块浏览器中查看流动性池中的代币数量`TSUSDC`和`TSWETH`流动性池中的代币数量（见下图）。
 
-![check_liquidity](scroll/testnet/pre_alpha_testnet_guide/user_guide/swap/check_liquidity_1.png)
+![check_liquidity](check_liquidity_1.png)

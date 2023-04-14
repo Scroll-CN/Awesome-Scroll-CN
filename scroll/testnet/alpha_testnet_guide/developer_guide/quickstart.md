@@ -8,9 +8,9 @@
 
 ## 获取测试网ETH
 
-在Scroll上构建之前，您需要一些测试代币。查看我们的[水龙头](scroll/testnet/alpha_testnet_guide/user_guide/faucet.md)页面，在Goerli上获得 ETH 测试代币。然后，使用我们的[跨链桥](scroll/testnet/alpha_testnet_guide/user_guide/bridge/README.md)将 ETH 测试代币桥接到 Scroll Alpha 测试网（Layer 2）。
+在Scroll上构建之前，您需要一些测试代币。查看我们的[水龙头](../user_guide/faucet.md)页面，在Goerli上获得 ETH 测试代币。然后，使用我们的[跨链桥](../user_guide/bridge/README.md)将 ETH 测试代币桥接到 Scroll Alpha 测试网（Layer 2）。
 
-如需详细指引，可以从用​​户指南的[设置](scroll/testnet/alpha_testnet_guide/user_guide/setup.md)页面开始。
+如需详细指引，可以从用​​户指南的[设置](../user_guide/setup.md)页面开始。
 
 ## 网络配置
 
@@ -56,13 +56,13 @@ forge create ... --rpc-url=https://alpha-rpc.scroll.io/l2
 
 ### Remix Web IDE
 
-编译合约后，使用 Remix 进行部署的最简单方法是[设置 Metamask](scroll/testnet/alpha_testnet_guide/user_guide/setup.md)，然后选择“Scroll Alpha Testnet”网络。
+编译合约后，使用 Remix 进行部署的最简单方法是[设置 Metamask](../user_guide/setup.md)，然后选择“Scroll Alpha Testnet”网络。
 
-![在MetaMask中选择 Scroll AlphaTestnet 作为网络](scroll/testnet/alpha_testnet_guide/developer_guide/img/quickstart_1.png)
+![在MetaMask中选择 Scroll AlphaTestnet 作为网络](img/quickstart_1.png)
 
 现在，在“Deploy and Run Transactions”选项卡中，点击“Environment”下拉菜单并选择“Injected Provider - MetaMask”。
 
-![在Remix中，使用 MetaMask 作为Network Provider以访问 Scroll Alpha 测试网](scroll/testnet/alpha_testnet_guide/developer_guide/img/quickstart_2.png)
+![在Remix中，使用 MetaMask 作为Network Provider以访问 Scroll Alpha 测试网](img/quickstart_2.png)
 
 连接你的钱包并选择 Scroll Alpha Testnet。在 Remix 中应该会自动选择帐户，然后你单击“部署”即可。
 

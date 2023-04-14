@@ -5,7 +5,7 @@
 翻译：Junwei*
 
 
-![Cover](AAbyCaml-0.jpeg)
+![Cover](img/AAbyCaml-0.jpeg)
 
 # 大多数关于帐户抽象的文章都很糟糕
 
@@ -14,7 +14,7 @@
 你发现几乎所有的人都从描述[EOA](https://ethereum.org/en/developers/docs/accounts/)和智能合约之间的区别开始，并含糊得提及用户体验的改进。他们未能解释账户抽象 *本质上* 是什么，而是专注于账户抽象的副产品。
 
 本指南涵盖了账户抽象思想的每一步，从账户抽象是什么，到为什么每个人都称它为下一个大事件。
-![thinking](AAbyCaml-1.png)
+![thinking](img/AAbyCaml-1.png)
 
 
 # 什么是账户抽象？
@@ -28,7 +28,7 @@
 
 如果我将帐户抽象重新命名会更直观，它会被称为“可编程的交易有效性(programmable transaction validity)“。
 
-![thinking](AAbyCaml-2.png)
+![thinking](img/AAbyCaml-2.png)
 
 
 通俗来说，账户抽象是可以以编程方式设定交易的有效性条件。
@@ -142,7 +142,7 @@ Biconomy 是一个开发者工具平台，专注于以太坊生态系统的基�
 
 # 帐户抽象可以做什么
 
-![what to do](AAbyCaml-3.png)
+![what to do](img/AAbyCaml-3.png)
 
 你看到的正在构建的新的用户体验是由帐户抽象实现的功能，而不是帐户抽象本身。诸如用户支付 gas 费用和 Web3Auth 之类的，都是建立在帐户抽象之上的应用层。这些事情本质上成为可能是因为帐户抽象的核心原理：以编程方式设置交易有效性条件。
 
@@ -162,7 +162,7 @@ Biconomy 是一个开发者工具平台，专注于以太坊生态系统的基�
 
 # 提升用户体验
 
-![what to do](AAbyCaml-4.png)
+![what to do](img/AAbyCaml-4.png)
 
 -   钱包的社会恢复
 -   批量交易
@@ -175,7 +175,7 @@ Biconomy 是一个开发者工具平台，专注于以太坊生态系统的基�
 
 # 解锁新应用
 
-![what to do](AAbyCaml-5.png)
+![what to do](img/AAbyCaml-5.png)
 
 “没有人知道，但这极具启发性。它让人们行动起来！”
 

@@ -2,7 +2,7 @@
 
 Rollup 浏览器 显示有关 Scroll Alpha 块及其Rollup状态的基本信息。
 
-![rollup_explorer](rollup_explorer.png)
+![rollup_explorer](img/rollup_explorer.png)
 
 Pre-Alpha 测试网中的 Scroll Alpha 区块有 3 种 rollup 状态：
 

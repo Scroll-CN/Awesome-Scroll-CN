@@ -23,9 +23,9 @@ Scroll 通过链下执行交易获得安全性和速度，并生成交易正确�
 
 **希望在 Scroll 的 Pre-Alpha 测试网上开发？**
 
-- 关于要点：查看[**开发者快速上手**](scroll/testnet/alpha_testnet_guide/developer_guide/quickstart.md)
-- 在 Scroll 上部署你的第一个智能合约，请阅读我们的[**合约部署教程**](scroll/testnet/alpha_testnet_guide/developer_guide/contract_deployment.md)
-- 我们还有许多[**生态项目集成**](scroll/testnet/alpha_testnet_guide/developer_guide/integrations.md)和[**已经部署的合约地址**](testnet_contract.md)，可以在此之上进行开发。
+- 关于要点：查看[**开发者快速上手**](quickstart.md)
+- 在 Scroll 上部署你的第一个智能合约，请阅读我们的[**合约部署教程**](contract_deployment.md)
+- 我们还有许多[**生态项目集成**](integrations.md)和[**已经部署的合约地址**](testnet_contract.md)，可以在此之上进行开发。
 
 
 ## 为什么要在 Scroll 上开发？

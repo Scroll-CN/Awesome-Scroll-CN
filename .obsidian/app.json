@@ -1,3 +1,7 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
 }

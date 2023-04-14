@@ -4,7 +4,7 @@
 
 {% hint style="info" %}
 
-注意：在开始部署合约之前，你需要从Goerli的[水龙头](scroll/testnet/alpha_testnet_guide/user_guide/faucet.md)请求测试代币，并使用[跨链桥](https://scroll.io/alpha/bridge)将一些 `ETH` 从 Goerli 充值到 Scroll Alpha 。
+注意：在开始部署合约之前，你需要从Goerli的[水龙头](../user_guide/faucet.md)请求测试代币，并使用[跨链桥](https://scroll.io/alpha/bridge)将一些 `ETH` 从 Goerli 充值到 Scroll Alpha 。
 
 {% endhint %}
 

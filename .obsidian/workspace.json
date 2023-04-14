@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96bb92f77115d9f2",
+        "id": "0f7075f2f12fd439",
         "type": "tabs",
         "children": [
           {
-            "id": "7772c04417828d38",
+            "id": "9ba533873e57113b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "7772c04417828d38",
+  "active": "9ba533873e57113b",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "README.md",
+    "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
     "scroll/updates/activities/ethglobal/Bounty Winners.md",
     "scroll/updates/activities/ethbeijing/Workshop.md",
@@ -157,7 +161,6 @@
     "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
     "scroll/updates/activities/ethbeijing/Bounty Winners.md",
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
-    "README.md",
     "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松.md",
     "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松获奖名单.md",
     "scroll/updates/activities/ethbeijing/ETHBeijing 专访.md",
@@ -166,7 +169,6 @@
     "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
     "zkp/proof_system/Maksym Petkus：Why and How zk-SNARK Works/Maksym Petkus：zkSNARK证明原理及机制.pdf",
     "scroll/updates/activities/ethdenver2023/Scroll 测试网的最新进展.md",
-    "未命名.canvas",
     "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 2023 活动预览.md",
     "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
     "scroll/updates/activities/ethdenver2023/Scroll x ETHDenver 黑客松获奖名单.md",
@@ -185,7 +187,6 @@
     "zkp/proof_system/Maksym Petkus：Why and How zk-SNARK Works/zkSNARK证明原理及机制 #1：入门介绍和证明媒介.md",
     "zkp/proof_system/Maksym Petkus：Why and How zk-SNARK Works/Maksym Petkus：zkSNARK证明原理及机制.md",
     "zkSNARK证明原理及机制.md",
-    "scroll/updates/activities/zkHACK/ZK Hack Lisbon 黑客松获奖名单.md",
     "scroll/updates/activities/ethbeijing/img/jiuzhuan.jpeg.crdownload",
     "scroll/updates/activities/zkHACK/zkhack.png.crdownload",
     "scroll/updates/activities/ethbeijing/img/workshop-1.pdf",
@@ -194,7 +195,6 @@
     "scroll/updates/activities/ethbeijing/img/4-8-3.ARW",
     "scroll/updates/activities/ethbeijing/img/4-8-2.ARW",
     "scroll/updates/activities/ethbeijing/img/4-8-1.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-7-3.ARW",
-    "scroll/updates/weekly updates/Weekly Updates 9.md"
+    "scroll/updates/activities/ethbeijing/img/4-7-3.ARW"
   ]
 }

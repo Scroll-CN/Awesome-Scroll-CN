@@ -58,11 +58,11 @@ forge create ... --rpc-url=https://prealpha-rpc.scroll.io/l2
 
 编译合约后，使用 Remix 进行部署的最简单方法是[设置 Metamask](../../../user-guide/setup/)，然后选择“Scroll L2 Testnet”网络。
 
-![在MetaMask中选择 Scroll L2 Testnet 作为网络](scroll/testnet/pre_alpha_testnet_guide/developer_guide/img/quickstart_1.png)
+![在MetaMask中选择 Scroll L2 Testnet 作为网络](img/quickstart_1.png)
 
 现在，在“Deploy and Run Transactions”选项卡中，点击“Environment”下拉菜单并选择“Injected Provider - MetaMask”。
 
-![在Remix中，使用 MetaMask 作为Network Provider以访问 Scroll Pre-Alpha 测试网](scroll/testnet/pre_alpha_testnet_guide/developer_guide/img/quickstart_2.png)
+![在Remix中，使用 MetaMask 作为Network Provider以访问 Scroll Pre-Alpha 测试网](img/quickstart_2.png)
 
 连接你的钱包并选择 Scroll Pre-Alpha Testnet L2。在 Remix 中应该会自动选择帐户，然后你单击“部署”即可。
 

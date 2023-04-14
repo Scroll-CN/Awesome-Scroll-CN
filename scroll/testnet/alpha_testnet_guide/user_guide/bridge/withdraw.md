@@ -21,19 +21,19 @@ rollup状态为`Finalized`表明，在 Goerli 链上的有效性证明验证通�
 
 1. 单击跨链桥应用程序右上角的钱包地址。
 
-![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/withdraw_1.png)
+![](img/withdraw_1.png)
 
 弹出面板列出了您在跨链桥应用程序中进行的最近交易（见下图）。有两种状态：L1 状态和L2 状态。此时，因为我们是从 L2 跨至 L1 ，所以我们在将交易提交到 L2 跨链桥后会很快得到一个 `success`状态。另一方面，L1 需要大约**10 分钟至若干小时**才能到达 `success`状态。
 
 2. 点击最新的 L2 交易哈希
 
-![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/withdraw_2.png)
+![](img/withdraw_2.png)
 
 将会在新的标签页显示交易详情，您可以看到此笔交易已经在L2上得到确认，但仍然需要在 L1 上得到最终确认。 
 
-![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/withdraw_3.png)
+![](img/withdraw_3.png)
 
 
 3. 返回[跨链桥](https://scroll.io/prealpha/bridge)应用。一旦您的交易在 L1 上的状态显示`success`，**大约 10 分钟后**，您应该会看到 Goerli 钱包中的资金和交易哈希：
 
-![](scroll/testnet/alpha_testnet_guide/user_guide/bridge/img/withdraw_4.png)
+![](img/withdraw_4.png)
