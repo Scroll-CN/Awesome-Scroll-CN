@@ -61,6 +61,7 @@
 7. [每周更新 #7(2023.03.13~2023.03.19)](Weekly%20Updates%207.md)
 8. [每周更新 #8(2023.03.20~2023.03.26)](Weekly%20Updates%208.md)
 9. [每周更新 #9(2023.03.27~2023.04.02)](Weekly%20Updates%209.md)
+10. [每周更新 #10(2023.04.03~2023.04.09)](Weekly%20Updates%2010.md)
 
 
 # Scroll 活动回顾
@@ -88,9 +89,10 @@
   4. [以太坊执行层并行化的挑战](https://mp.weixin.qq.com/s/-7jTgUxJ9t3CGftrudg2hw)
   5. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
 
-
 ## ETHDenver
-
+- [Scroll x ETHDenver 2023 活动预览](Scroll%20x%20ETHDenver%202023%20活动预览.md)
+- [Scroll 测试网的最新进展](Scroll 测试网的最新进展.md)
+- [Scroll x ETHDenver 黑客松获奖名单](Scroll%20x%20ETHDenver%20黑客松获奖名单.md)
 
 ## ETHGlobal: Scaling 2023
 
@@ -112,21 +114,72 @@
 # 生态项目
 
 ## 基础设施
+### 节点
+- [Ankr](https://www.ankr.com/)
 
-- [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
-- [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
+## 预言机
+- [Witnet](https://witnet.io/)
 
-## DeFi
-- Uniswap v3
-- SyncSwap
+### 索引
+- [The Graph](https://thegraph.com/en/)
+- [Covalent](https://www.covalenthq.com/)
+
+### 钱包
+- [Safe](https://safe.global/)
+- [OKX Wallet](https://okx.com/web3)
+- [Keystone](https://keyst.one/)
+- [BlockWallet](https://blockwallet.io/)
+
+### 身份
+- [CARV](https://carv.io/home)
+- [zCloak](https://zcloak.network/)
+- [zkPass](https://www.zkpass.org/home)
+
+### 工具
+- [EthSign](https://www.ethsign.xyz/)
+
+
+## 去中心化金融
+
+### 跨链桥
+- [Celer Network](https://celer.network/)
+- [Multichain](https://app.multichain.org)
+- [Stargate](https://stargate.finance/)
+- [Orbiter](https://www.orbiter.finance/)
+- [Hop Protocol](app.hop.exchange)
+- [Connext](https://www.connext.network/)
+- [Synapse](synapseprotocol.com)
+
+
+
+### 交易所
+- [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
+- [SyncSwap](https://syncswap.xyz/)
 - [Zada Finance](https://www.zadafinance.com/)
+- [DODO](https://dodoex.io/en)
+- [Sushi](https://stargate.finance/)
+- [iZUMi Finance](https://izumi.finance/home)
+- [MUX](scroll.mux.network)
+- [Symbiosis](https://symbiosis.finance/)
+- [rhino.fi](https://rhino.fi/)
+
+
+### 借贷
+- [AAVE](https://app.aave.com/) 
+
+### 期货
+- [SynFuture](https://www.synfutures.com/)
 
 
 ## 社交
-
+- [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
 
 
 ## 游戏
+- [Galaxy Blitz](https://www.galaxyblitz.world/)
+
+## Rollup
+- [zkLink](https://zk.link/)
 
 
 - [L2Beat](https://l2beat.com/scaling/projects/scroll)
@@ -142,14 +195,16 @@
 - [Multichain](https://www.notion.so/Multichain-e4a370fb55e3424aadbc4e833883f098)
 - [Block Wallet](https://www.notion.so/Block-Wallet-aed176aa92dd480a958351db7dc1c6c7)
 - [Keystone](https://www.notion.so/Keystone-7f4503e54e0f4c5e979fa9734235733a)
-- [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
 - [Unifra Network](https://www.notion.so/Unifra-Network-f07f90591de746a5ad84f8927baca6c6)
 - [zCloak](https://www.notion.so/zCloak-8a83f3f1689e4535a3922e055f4c1572)
 - [BigBang](https://www.notion.so/BigBang-c258209428c64d6dabd1bd5bcc5079e5)
-- [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
 - [Orbiter](https://www.notion.so/Orbiter-0ac99d2eb1124d9f877e351362fe7038)
 - [Ante Protocol](https://www.notion.so/Ante-Protocol-4376d23d3c244b578a452033136a08c6)
 - [RedStone](https://www.notion.so/RedStone-56a1241d81724877b0fcadf2d010af8f)
+
+
+- [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
+- [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
 
 
 # 以太坊研究
@@ -167,6 +222,7 @@
 - [2022年零知识证明领域回顾](ZK%20Rewind(The%20year%20in%20recap).md)
 
 ## 证明系统
+- [Maksym Petkus：zkSNARK证明原理及机制](Maksym%20Petkus：zkSNARK证明原理及机制.pdf)
 
 ## 硬件加速
 
@@ -188,3 +244,5 @@
 - Twitter: https://twitter.com/Scroll_CN
 - Github: https://github.com/Scroll-CN
 - Mora: https://mora.app/planet/gltju-4iaaa-aaaan-qdcnq-cai
+
+
