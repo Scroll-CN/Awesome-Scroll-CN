@@ -103,7 +103,7 @@
   5. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
 
 ## ETHDenver
-- [Scroll x ETHDenver 2023 活动预览](Scroll%20x%20ETHDenver%202023%20活动预览.md)
+- [Scroll x ETHDenver 2023 活动预览](obsidian://open?vault=Awesome-Scroll-CN&file=scroll%2Fupdates%2Factivities%2Fethdenver2023%2FScroll%20%E6%B5%8B%E8%AF%95%E7%BD%91%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95)
 - [Scroll 测试网的最新进展](Scroll 测试网的最新进展.md)
 - [Scroll x ETHDenver 黑客松获奖名单](Scroll%20x%20ETHDenver%20黑客松获奖名单.md)
 
