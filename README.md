@@ -21,9 +21,9 @@
 
 <!--ts-->
 * [Awesome Scroll 中文](#awesome-scroll-中文)
-* [Scroll 博客](#scroll-博客)
-* [Scroll 每周更新](#scroll-每周更新)
-* [Scroll 活动回顾](#scroll-活动回顾)
+* [Scroll 博客](#-scroll-博客)
+* [Scroll 每周更新](#-scroll-每周更新)
+* [Scroll 活动回顾](#-scroll-活动回顾)
    * [SBC zkEVM Workshop](#sbc-zkevm-workshop)
    * [Scroll Rollup Day](#scroll-rollup-day)
    * [Devcon Bogota](#devcon-bogota)
@@ -33,7 +33,7 @@
    * [ZK Hack](#zk-hack)
    * [HongKong Web3 Festival](#hongkong-web3-festival)
    * [Workshop](#workshop)
-* [生态项目](#生态项目)
+* [生态项目](#-生态项目)
    * [基础设施](#基础设施)
       * [节点](#节点)
    * [预言机](#预言机)
@@ -49,17 +49,17 @@
    * [社交](#社交)
    * [游戏](#游戏)
    * [Rollup](#rollup)
-* [以太坊研究](#以太坊研究)
-* [零知识证明](#零知识证明)
+* [<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji>以太坊研究](#以太坊研究)
+* [0‍⃣ 零知识证明](#0⃣-零知识证明)
    * [行业概览](#行业概览)
    * [证明系统](#证明系统)
    * [硬件加速](#硬件加速)
-* [相关链接](#相关链接)
+* [相关链接](#-相关链接)
    * [Scroll](#scroll)
    * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Apr 14 16:36:31 UTC 2023 -->
+<!-- Added by: runner, at: Fri Apr 14 16:43:55 UTC 2023 -->
 
 <!--te-->
 
