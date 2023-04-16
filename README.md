@@ -77,6 +77,7 @@
 10. [Goerli的Alpha测试网发布](scroll/blogs/10.Goerli的Alpha测试网发布.md)
 
 
+
 # ⚪ Scroll 每周更新
 1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
 2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
@@ -88,6 +89,8 @@
 8. [每周更新 #8(2023.03.20~2023.03.26)](scroll/updates/weekly%20updates/Weekly%20Updates%208.md)
 9. [每周更新 #9(2023.03.27~2023.04.02)](scroll/updates/weekly%20updates/Weekly%20Updates%209.md)
 10. [每周更新 #10(2023.04.03~2023.04.09)](scroll/updates/weekly%20updates/Weekly%20Updates%2010.md)
+
+
 
 
 # ◀ Scroll 活动回顾
@@ -147,6 +150,9 @@
 ## 基础设施
 ### 节点
 - [Ankr](https://www.ankr.com/)
+- [Pocket Network](https://www.pokt.network/)
+
+
 
 ## 预言机
 - [Witnet](https://witnet.io/)
@@ -154,12 +160,15 @@
 ### 索引
 - [The Graph](https://thegraph.com/en/)
 - [Covalent](https://www.covalenthq.com/)
+-  [Transpose](https://www.transpose.io/)
 
 ### 钱包
 - [Safe](https://safe.global/)
 - [OKX Wallet](https://okx.com/web3)
 - [Keystone](https://keyst.one/)
 - [BlockWallet](https://blockwallet.io/)
+- [Open Block](https://openblock.com/)
+- [Holdstation](https://holdstation.com/)
 
 ### 身份
 - [CARV](https://carv.io/home)
@@ -167,6 +176,7 @@
 - [zkPass](https://www.zkpass.org/home)
 
 ### 工具
+- [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [EthSign](https://www.ethsign.xyz/)
 
 
@@ -182,7 +192,6 @@
 - [Synapse](synapseprotocol.com)
 
 
-
 ### 交易所
 - [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
 - [SyncSwap](https://syncswap.xyz/)
@@ -193,6 +202,8 @@
 - [MUX](scroll.mux.network)
 - [Symbiosis](https://symbiosis.finance/)
 - [rhino.fi](https://rhino.fi/)
+- [Zenlink](https://dex.zenlink.pro/#/swap)
+- [Poolshark](https://www.poolshark.fi/)
 
 
 ### 借贷
@@ -201,6 +212,8 @@
 ### 期货
 - [SynFuture](https://www.synfutures.com/)
 
+## NFT
+- [Creco](https://creco.xyz/)
 
 ## 社交
 - [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
@@ -211,28 +224,7 @@
 
 ## Rollup
 - [zkLink](https://zk.link/)
-
-
-- [L2Beat](https://l2beat.com/scaling/projects/scroll)
-- [Safe](https://www.notion.so/Safe-199eca4db7fd40b5abba3f8dcd7c4218)
-- [The Graph](https://www.notion.so/The-Graph-b9474cebd6114b1cbe72178cd4811975)
-- [Hop Protocol](https://www.notion.so/Hop-Protocol-cb3a4c2371704bef85741dc4d5749194)
-- [Multichain](https://www.notion.so/Multichain-96b8c3697d154b4f88506523930748ca)
-- [Transpose](https://www.notion.so/Transpose-9d68c67366ab4c77abda59042e5e331f)
-- [OpenBlockWallet](https://www.notion.so/OpenBlockWallet-cf2b9e192b054e2a83712ad33311b60a)
-- [UniPass](https://www.notion.so/UniPass-68433287eeb0455c8199011c6e7166d0)
-- [BlockPI](https://www.notion.so/BlockPI-072ef054929c49b8b6f31a1be91e022b)
-- [Covalant](https://www.notion.so/Covalant-ccc2004d4923437488e8c16415a8a7a2)
-- [Multichain](https://www.notion.so/Multichain-e4a370fb55e3424aadbc4e833883f098)
-- [Block Wallet](https://www.notion.so/Block-Wallet-aed176aa92dd480a958351db7dc1c6c7)
-- [Keystone](https://www.notion.so/Keystone-7f4503e54e0f4c5e979fa9734235733a)
-- [Unifra Network](https://www.notion.so/Unifra-Network-f07f90591de746a5ad84f8927baca6c6)
-- [zCloak](https://www.notion.so/zCloak-8a83f3f1689e4535a3922e055f4c1572)
-- [BigBang](https://www.notion.so/BigBang-c258209428c64d6dabd1bd5bcc5079e5)
-- [Orbiter](https://www.notion.so/Orbiter-0ac99d2eb1124d9f877e351362fe7038)
-- [Ante Protocol](https://www.notion.so/Ante-Protocol-4376d23d3c244b578a452033136a08c6)
-- [RedStone](https://www.notion.so/RedStone-56a1241d81724877b0fcadf2d010af8f)
-
+- [Intmax](https://intmax.io/)
 
 - [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
 - [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
