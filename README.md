@@ -46,6 +46,7 @@
       * [交易所](#交易所)
       * [借贷](#借贷)
       * [期货](#期货)
+   * [NFT](#nft)
    * [社交](#社交)
    * [游戏](#游戏)
    * [Rollup](#rollup)
@@ -59,7 +60,7 @@
    * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Apr 14 16:43:55 UTC 2023 -->
+<!-- Added by: runner, at: Sun Apr 16 13:01:13 UTC 2023 -->
 
 <!--te-->
 
