@@ -1,0 +1,15 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":link:",
+    ":zero:",
+    ":man_student:",
+    ":spider_web:",
+    ":arrow_backward:",
+    ":white_circle:",
+    ":book:"
+  ]
+}

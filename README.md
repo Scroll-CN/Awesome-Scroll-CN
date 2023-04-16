@@ -21,47 +21,80 @@
 
 <!--ts-->
 * [Awesome Scroll 中文](#awesome-scroll-中文)
-* [官方资源](#官方资源)
-* [文章](#文章)
-   * [官方博客](#官方博客)
-* [视频](#视频)
+* [Scroll 博客](#-scroll-博客)
+* [Scroll 每周更新](#-scroll-每周更新)
+* [Scroll 活动回顾](#-scroll-活动回顾)
    * [SBC zkEVM Workshop](#sbc-zkevm-workshop)
    * [Scroll Rollup Day](#scroll-rollup-day)
    * [Devcon Bogota](#devcon-bogota)
+   * [ETHDenver](#ethdenver)
+   * [ETHGlobal: Scaling 2023](#ethglobal-scaling-2023)
+   * [ETH Beijing](#eth-beijing)
+   * [ZK Hack](#zk-hack)
+   * [HongKong Web3 Festival](#hongkong-web3-festival)
    * [Workshop](#workshop)
-* [书籍](#书籍)
-* [生态项目](#生态项目)
+* [生态项目](#-生态项目)
+   * [基础设施](#基础设施)
+      * [节点](#节点)
+   * [预言机](#预言机)
+      * [索引](#索引)
+      * [钱包](#钱包)
+      * [身份](#身份)
+      * [工具](#工具)
+   * [去中心化金融](#去中心化金融)
+      * [跨链桥](#跨链桥)
+      * [交易所](#交易所)
+      * [借贷](#借贷)
+      * [期货](#期货)
+   * [NFT](#nft)
+   * [社交](#社交)
+   * [游戏](#游戏)
+   * [Rollup](#rollup)
+* [<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji>以太坊研究](#以太坊研究)
+* [0‍⃣ 零知识证明](#0⃣-零知识证明)
+   * [行业概览](#行业概览)
+   * [证明系统](#证明系统)
+   * [硬件加速](#硬件加速)
+* [相关链接](#-相关链接)
+   * [Scroll](#scroll)
+   * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Fri Feb  3 07:37:21 UTC 2023 -->
+<!-- Added by: runner, at: Sun Apr 16 13:01:13 UTC 2023 -->
 
 <!--te-->
 
 
-# 官方资源
-* [官网](https://scroll.io/)
-* [Twitter](https://twitter.com/Scroll_ZKP)
-* [Discord](https://discord.com/invite/CNzNVt4Feu)
-* [Github](https://github.com/scroll-tech)
-* [品牌](https://www.notion.so/scrollzkp/Scroll-Brand-Assets-Press-Kit-8522d7dbe4c745579d3e3b14f3bbecc0)
+# 📖 Scroll 博客
+1. [zkEVM介绍](scroll/blogs/1.zkEVM介绍.md)
+2. [Scroll的愿景与价值观](scroll/blogs/2.愿景与价值观.md)
+3. [发布Pre-Alpha测试网](scroll/blogs/3.Pre-Alpha测试网.md)
+4. [Scroll的技术原则](scroll/blogs/4.技术原则.md)
+5. [Scroll的架构概览](scroll/blogs/5.架构概览.md)
+6. [升级Pre-Alpha测试网](scroll/blogs/6.升级Pre-Alpha测试网.md)
+7. [KZG实践](scroll/blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
+8. [解析证明生成](scroll/blogs/8.解析证明生成.md)
+9. [Pre-Alpha测试网版本升级说明](scroll/blogs/9.Pre-Alpha测试网版本升级说明.md)
+10. [Goerli的Alpha测试网发布](scroll/blogs/10.Goerli的Alpha测试网发布.md)
 
 
-# 文章
-* [zkEVM by yezhang](https://hackmd.io/@yezhang/S1_KMMbGt)
-* [zkEVM中文版 by EthereumCN](https://mirror.xyz/ecn.eth/uFyJGC7OCzzoMAVeGtlxDox4mFzJBh7uiYWVBvgsAgE)
-## 官方博客
-1. [zkEVM介绍](translation/Scroll%20Blogs/1.zkEVM介绍.md)
-1. [Scroll的愿景与价值观](translation/Scroll%20Blogs/2.愿景与价值观.md)
-2. [发布Pre-Alpha测试网](translation/Scroll%20Blogs/3.Pre-Alpha测试网.md)
-3. [Scroll的技术原则](./translation/Scroll%20Blogs/4.技术原则.md)
-4. [Scroll的架构概览](./translation/Scroll%20Blogs/5.架构概览.md)
-5. [升级Pre-Alpha测试网](./translation/Scroll%20Blogs/6.升级Pre-Alpha测试网.md)
-6. [KZG实践](./translation/Scroll%20Blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md)
-7. [解析证明生成](./translation/Scroll%20Blogs/8.解析证明生成.md)
-8. [Pre-Alpha测试网版本升级说明](translation/Scroll%20Blogs/9.Pre-Alpha测试网版本升级说明.md)
+
+# ⚪ Scroll 每周更新
+1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
+2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
+3. [每周更新 #3(2023.02.13~2023.02.19)](scroll/updates/weekly%20updates/Weekly%20Updates%203.md)
+4. [每周更新 #4(2023.02.20~2023.02.26)](scroll/updates/weekly%20updates/Weekly%20Updates%204.md)
+5. [每周更新 #5(2023.02.27~2023.03.05)](scroll/updates/weekly%20updates/Weekly%20Updates%205.md)
+6. [每周更新 #6(2023.03.06~2023.03.12)](scroll/updates/weekly%20updates/Weekly%20Updates%206.md)
+7. [每周更新 #7(2023.03.13~2023.03.19)](scroll/updates/weekly%20updates/Weekly%20Updates%207.md)
+8. [每周更新 #8(2023.03.20~2023.03.26)](scroll/updates/weekly%20updates/Weekly%20Updates%208.md)
+9. [每周更新 #9(2023.03.27~2023.04.02)](scroll/updates/weekly%20updates/Weekly%20Updates%209.md)
+10. [每周更新 #10(2023.04.03~2023.04.09)](scroll/updates/weekly%20updates/Weekly%20Updates%2010.md)
 
 
-# 视频
+
+
+# ◀ Scroll 活动回顾
 
 ## SBC zkEVM Workshop
   1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
@@ -81,44 +114,159 @@
 
 ## Devcon Bogota
   1. [zk-Rollups的证明系统选择](https://mp.weixin.qq.com/s/YJ2jGX2ESyWbmG28LFKKdQ)
-  1. [架构介绍和Pre-Alpha测试网更新](https://mp.weixin.qq.com/s/SLsXldOJfY_YKoiIul6tCw)
-  1. [智能合约部署和Scroll架构](https://mp.weixin.qq.com/s/oAkl8zDBFiu6CQNYoa51eg)
-  1. [以太坊执行层并行化的挑战](https://mp.weixin.qq.com/s/-7jTgUxJ9t3CGftrudg2hw)
-  1. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
+  2. [架构介绍和Pre-Alpha测试网更新](https://mp.weixin.qq.com/s/SLsXldOJfY_YKoiIul6tCw)
+  3. [智能合约部署和Scroll架构](https://mp.weixin.qq.com/s/oAkl8zDBFiu6CQNYoa51eg)
+  4. [以太坊执行层并行化的挑战](https://mp.weixin.qq.com/s/-7jTgUxJ9t3CGftrudg2hw)
+  5. [圆桌讨论“零知识证明安全实现”](https://mp.weixin.qq.com/s/v04GC5ELafLEaZbkcnrNmA)
+
+## ETHDenver
+- [Scroll x ETHDenver 2023 活动预览](scroll/updates/activities/ethdenver2023/Scroll%20x%20ETHDenver%202023%20活动预览.md)
+- [Scroll x ETHDenver 黑客松获奖名单](scroll/updates/activities/ethdenver2023/Scroll%20x%20ETHDenver%20黑客松获奖名单.md)
+- [Scroll 测试网的最新进展](scroll/updates/activities/ethdenver2023/Scroll%20测试网的最新进展.md)
+
+## ETHGlobal: Scaling 2023
+- [ETHGlobal：Scaling Ethereum 2023](scroll/updates/activities/ethglobal/ETHGlobal：Scaling%20Ethereum%202023.md)
+- [ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单](scroll/updates/activities/ethglobal/ETHGlobal：Scaling%20Ethereum%202023%20黑客松获奖名单.md)
+- [ETHGlobal Tokyo 黑客松](scroll/updates/activities/ethglobal/ETHGlobal%20Tokyo%20黑客松.md)
+
+## ETH Beijing
+- [ETH Beijing 黑客松](scroll/updates/activities/ethbeijing/ETH%20Beijing%20黑客松.md)
+- [ETHBeijing 回顾](scroll/updates/activities/ethbeijing/ETHBeijing%20回顾.md)
+- [ETHBeijing 专访](scroll/updates/activities/ethbeijing/ETHBeijing%20专访.md)
+
+## ZK Hack
+- [ZK Hack Lisbon 黑客松获奖名单](scroll/updates/activities/zkHACK/ZK%20Hack%20Lisbon%20黑客松获奖名单.md)
+
+## HongKong Web3 Festival
+- [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
+
 
 ## Workshop
-- [zkEVM Rollups扩容以太坊之争](https://mp.weixin.qq.com/s/nVZxxEGRWxAbM_b5mSCnkA)
-- **Others**
-	- Scroll x Dapp Learning
-		1. [zkEVM介绍和技术架构](https://mp.weixin.qq.com/s/N-Bt_lqPBxIQFvQF4ep0rQ)
-		2. [Q&A环节](https://mp.weixin.qq.com/s/whh4ApJoaYONnBWvxWM5YA)
-	- [Scroll x Austin Griffith：开发zkEVM应用](https://mp.weixin.qq.com/s/dpqqOg-B9pI1RlUMwfqMfA)
+- [使用Halo2-ce构建和测试电路](scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md)
+- [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
 
-# 书籍
+# 🕸 生态项目
 
-* [精通 zkEVM](https://zkevmbook.github.io/)
+## 基础设施
+### 节点
+- [Ankr](https://www.ankr.com/)
+- [Pocket Network](https://www.pokt.network/)
 
 
-# 生态项目
 
-- [Safe](https://www.notion.so/Safe-199eca4db7fd40b5abba3f8dcd7c4218)
-- [The Graph](https://www.notion.so/The-Graph-b9474cebd6114b1cbe72178cd4811975)
-- [Hop Protocol](https://www.notion.so/Hop-Protocol-cb3a4c2371704bef85741dc4d5749194)
-- [Multichain](https://www.notion.so/Multichain-96b8c3697d154b4f88506523930748ca)
-- [Transpose](https://www.notion.so/Transpose-9d68c67366ab4c77abda59042e5e331f)
-- [OpenBlockWallet](https://www.notion.so/OpenBlockWallet-cf2b9e192b054e2a83712ad33311b60a)
-- [UniPass](https://www.notion.so/UniPass-68433287eeb0455c8199011c6e7166d0)
-- [BlockPI](https://www.notion.so/BlockPI-072ef054929c49b8b6f31a1be91e022b)
-- [Covalant](https://www.notion.so/Covalant-ccc2004d4923437488e8c16415a8a7a2)
-- [Multichain](https://www.notion.so/Multichain-e4a370fb55e3424aadbc4e833883f098)
-- [Block Wallet](https://www.notion.so/Block-Wallet-aed176aa92dd480a958351db7dc1c6c7)
-- [Keystone](https://www.notion.so/Keystone-7f4503e54e0f4c5e979fa9734235733a)
-- [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
-- [Unifra Network](https://www.notion.so/Unifra-Network-f07f90591de746a5ad84f8927baca6c6)
-- [zCloak](https://www.notion.so/zCloak-8a83f3f1689e4535a3922e055f4c1572)
-- [BigBang](https://www.notion.so/BigBang-c258209428c64d6dabd1bd5bcc5079e5)
+## 预言机
+- [Witnet](https://witnet.io/)
+
+### 索引
+- [The Graph](https://thegraph.com/en/)
+- [Covalent](https://www.covalenthq.com/)
+-  [Transpose](https://www.transpose.io/)
+
+### 钱包
+- [Safe](https://safe.global/)
+- [OKX Wallet](https://okx.com/web3)
+- [Keystone](https://keyst.one/)
+- [BlockWallet](https://blockwallet.io/)
+- [Open Block](https://openblock.com/)
+- [Holdstation](https://holdstation.com/)
+
+### 身份
+- [CARV](https://carv.io/home)
+- [zCloak](https://zcloak.network/)
+- [zkPass](https://www.zkpass.org/home)
+
+### 工具
+- [L2Beat](https://l2beat.com/scaling/projects/scroll)
+- [EthSign](https://www.ethsign.xyz/)
+
+
+## 去中心化金融
+
+### 跨链桥
+- [Celer Network](https://celer.network/)
+- [Multichain](https://app.multichain.org)
+- [Stargate](https://stargate.finance/)
+- [Orbiter](https://www.orbiter.finance/)
+- [Hop Protocol](app.hop.exchange)
+- [Connext](https://www.connext.network/)
+- [Synapse](synapseprotocol.com)
+
+
+### 交易所
 - [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
-- [Orbiter](https://www.notion.so/Orbiter-0ac99d2eb1124d9f877e351362fe7038)
-- [**Ante Protocol**](https://www.notion.so/Ante-Protocol-4376d23d3c244b578a452033136a08c6)
-- [RedStone](https://www.notion.so/RedStone-56a1241d81724877b0fcadf2d010af8f)
+- [SyncSwap](https://syncswap.xyz/)
+- [Zada Finance](https://www.zadafinance.com/)
+- [DODO](https://dodoex.io/en)
+- [Sushi](https://stargate.finance/)
+- [iZUMi Finance](https://izumi.finance/home)
+- [MUX](scroll.mux.network)
+- [Symbiosis](https://symbiosis.finance/)
+- [rhino.fi](https://rhino.fi/)
+- [Zenlink](https://dex.zenlink.pro/#/swap)
+- [Poolshark](https://www.poolshark.fi/)
+
+
+### 借贷
+- [AAVE](https://app.aave.com/) 
+
+### 期货
+- [SynFuture](https://www.synfutures.com/)
+
+## NFT
+- [Creco](https://creco.xyz/)
+
+## 社交
+- [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
+
+
+## 游戏
+- [Galaxy Blitz](https://www.galaxyblitz.world/)
+
+## Rollup
+- [zkLink](https://zk.link/)
+- [Intmax](https://intmax.io/)
+
+- [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
+- [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
+
+
+# 👨‍🎓以太坊研究
+
+- [以太坊KZG可信设置仪式](ethereum/以太坊KZG可信设置仪式.md)
+- [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
+- [Justin Drake: L1 排序的 Based Rollups](ethereum/L1%20排序的%20Based%20Rollups.md)
+- [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
+
+
+# 0‍⃣ 零知识证明
+
+## 行业概览
+- [探索零知识跨链桥](zkp/landscape/zk_validator/Exploring%20ZK%20Bridges.md)
+- [2022年零知识证明领域回顾](zkp/landscape/zk_validator/ZK%20Rewind(The%20year%20in%20recap).md)
+
+## 证明系统
+- [Maksym Petkus：zkSNARK证明原理及机制](zkp/proof_system/Maksym%20Petkus：Why%20and%20How%20zk-SNARK%20Works/Maksym%20Petkus：zkSNARK证明原理及机制.pdf)
+
+## 硬件加速
+
+
+
+# 🔗 相关链接
+
+## Scroll 
+- Website: https://scroll.io/
+- Twitter: https://twitter.com/Scroll_ZKP
+- Discord: https://discord.com/invite/scroll
+- Github: https://github.com/scroll-tech
+- Youtube: https://www.youtube.com/@Scroll_ZKP
+
+
+## Scroll CN
+- Linktree: https://linktr.ee/scrollcn
+- WeChat: Scroll CN
+- Twitter: https://twitter.com/Scroll_CN
+- Github: https://github.com/Scroll-CN
+- Mora: https://mora.app/planet/gltju-4iaaa-aaaan-qdcnq-cai
+
+
