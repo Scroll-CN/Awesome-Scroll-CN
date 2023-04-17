@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "36155cf0b1e5d7ff",
+            "id": "9c12181c3d11b4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,43 @@
             }
           },
           {
-            "id": "37486a84c9646714",
+            "id": "4c37237f3ad155c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3834e37c4ab8895e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d93ee5f168e574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/weekly updates/Weekly Updates 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md"
+                "file": "scroll/updates/weekly updates/Weekly Updates 11.md"
               }
             }
           }
@@ -173,8 +197,33 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "37486a84c9646714",
+  "active": "02d93ee5f168e574",
   "lastOpenFiles": [
+    "scroll/updates/weekly updates/img/11-1.png",
+    "scroll/updates/weekly updates/img/11-1.svg",
+    "scroll/updates/weekly updates/img/11-1.jpg",
+    "scroll/updates/weekly updates/img/11-7.png",
+    "scroll/updates/weekly updates/img/11-2的副本.png",
+    "scroll/updates/weekly updates/img/11-3的副本.png",
+    "README.md",
+    "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+    "scroll/updates/weekly updates/img/11-6.png",
+    "scroll/updates/weekly updates/Weekly Updates 11.md",
+    "scroll/updates/activities/workshop/img/zkEVM_cover.png",
+    "scroll/ecosystem/img/ecosystem.jpeg",
+    "scroll/ecosystem/img/ecosystem.jpeg.crdownload",
+    "scroll/ecosystem/img",
+    "scroll/ecosystem/Pendle Finance.md",
+    "scroll/ecosystem/Price.md",
+    "scroll/updates/weekly updates/Weekly Updates 10.md",
+    "scroll/updates/weekly updates/Weekly Updates 9.md",
+    "scroll/updates/weekly updates/Weekly Updates 8.md",
+    "scroll/updates/weekly updates/Weekly Updates 7.md",
+    "scroll/updates/weekly updates/img/11-5.png",
+    "scroll/updates/weekly updates/img/11-5.png.crdownload",
+    "scroll/updates/weekly updates/img/11-4.png",
+    "scroll/updates/weekly updates/Weekly Updates 2.md",
+    "scroll/updates/weekly updates/Weekly Updates 1.md",
     "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
     "scroll/blogs/5.架构概览.md",
     "scroll/blogs/4.技术原则.md",
@@ -182,18 +231,8 @@
     "scroll/blogs/1.zkEVM介绍.md",
     "scroll/blogs/8.解析证明生成.md",
     "scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md",
-    "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
-    "README.md",
     "scroll/blogs/ye/Ye - Scroll的理念.md",
     "scroll/blogs/3.Pre-Alpha测试网.md",
-    "scroll/updates/activities/workshop/img/zkEVM_design14.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design5.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design51.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design49.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design48.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design3.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design2.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design1.png",
     "scroll/updates/activities/workshop/1.mp4",
     "scroll/updates/activities/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
     "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
@@ -202,26 +241,11 @@
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
     "scroll/updates/activities/ethglobal/Bounty Winners.md",
     "scroll/updates/activities/ethbeijing/Workshop.md",
-    "scroll/updates/activities/ethbeijing/Interview.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon.md",
-    "scroll/updates/activities/ethbeijing/Bounty Winners.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松获奖名单.md",
-    "scroll/updates/activities/ethbeijing/ETHBeijing 专访.md",
-    "scroll/updates/activities/ethbeijing/ETHBeijing 回顾.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
     "zkp/proof_system/Maksym Petkus：Why and How zk-SNARK Works/Maksym Petkus：zkSNARK证明原理及机制.pdf",
-    "scroll/updates/activities/workshop/img/zkEVM_design53.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design52.png",
     "scroll/updates/activities/ethbeijing/img/jiuzhuan.jpeg.crdownload",
     "scroll/updates/activities/zkHACK/zkhack.png.crdownload",
     "scroll/updates/activities/ethbeijing/img/workshop-1.pdf",
     "scroll/updates/activities/ethbeijing/img/4-8-5.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-4.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-3.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-2.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-1.ARW"
+    "scroll/updates/activities/ethbeijing/img/4-8-4.ARW"
   ]
 }
