@@ -256,6 +256,12 @@
 ## 黑客松Demo
 - [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
 - [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
+### ETHTokyo 2023
+- [DeFuture](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
+- [BorrowFi](https://github.com/massun-onibakuchi/huff-standard4borrow)
+- [GaaS](https://github.com/tracychen/GaaS)
+- [SocialSecuritySnap](https://github.com/yusakapon/ETHTokyo-SocialSecuritySnap)
+- [Penguin Network](https://github.com/Penguin-Network-ETHGlobal-Tokyo/Penguin-Network)
 
 
 # 👨‍🎓以太坊研究
