@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7075f2f12fd439",
+        "id": "318b8e4cf245e7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "9ba533873e57113b",
+            "id": "cb2fa6d26e0df104",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36155cf0b1e5d7ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37486a84c9646714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,55 +148,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "37486a84c9646714",
+  "active": "cb2fa6d26e0df104",
   "lastOpenFiles": [
+    "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 回顾.md",
+    "scroll/updates/weekly updates/Weekly Updates 12.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
+    "scroll/testnet/在 Scroll zkEVM 上部署智能合约.md",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds13.png",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds13.png.crdownload",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds12.png",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds12.png.crdownload",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds11.png",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds11.png.crdownload",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds10.png",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds10.png.crdownload",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds9.png",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds9.png.crdownload",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds8.png",
+    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds8.png.crdownload",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM7.png",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM7.png.crdownload",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM6.png",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM6.png.crdownload",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM5.png",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM5.png.crdownload",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM4.png",
+    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM4.png.crdownload",
+    "scroll/updates/weekly updates/Weekly Updates 11.md",
+    "README.md",
+    "scroll/updates/activities/ethglobal/Bounty Winners.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
+    "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
+    "scroll/updates/weekly updates/Weekly Updates 10.md",
+    "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
+    "scroll/ecosystem/Pendle Finance.md",
+    "scroll/ecosystem/Price.md",
+    "scroll/updates/weekly updates/Weekly Updates 9.md",
+    "scroll/updates/weekly updates/Weekly Updates 8.md",
+    "scroll/updates/weekly updates/Weekly Updates 7.md",
+    "scroll/updates/weekly updates/Weekly Updates 2.md",
+    "scroll/updates/weekly updates/Weekly Updates 1.md",
     "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
     "scroll/blogs/5.架构概览.md",
     "scroll/blogs/4.技术原则.md",
     "scroll/blogs/2.愿景与价值观.md",
     "scroll/blogs/1.zkEVM介绍.md",
-    "scroll/blogs/8.解析证明生成.md",
-    "scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md",
-    "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
-    "README.md",
-    "scroll/blogs/ye/Ye - Scroll的理念.md",
-    "scroll/blogs/3.Pre-Alpha测试网.md",
-    "scroll/updates/activities/workshop/img/zkEVM_design14.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design5.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design51.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design49.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design48.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design3.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design2.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design1.png",
-    "scroll/updates/activities/workshop/1.mp4",
-    "scroll/updates/activities/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
-    "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
-    "scroll/updates/activities/ethglobal/Bounty Winners.md",
-    "scroll/updates/activities/ethbeijing/Workshop.md",
-    "scroll/updates/activities/ethbeijing/Interview.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon.md",
-    "scroll/updates/activities/ethbeijing/Bounty Winners.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松.md",
-    "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松获奖名单.md",
-    "scroll/updates/activities/ethbeijing/ETHBeijing 专访.md",
-    "scroll/updates/activities/ethbeijing/ETHBeijing 回顾.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
-    "zkp/proof_system/Maksym Petkus：Why and How zk-SNARK Works/Maksym Petkus：zkSNARK证明原理及机制.pdf",
-    "scroll/updates/activities/workshop/img/zkEVM_design53.png",
-    "scroll/updates/activities/workshop/img/zkEVM_design52.png",
-    "scroll/updates/activities/ethbeijing/img/jiuzhuan.jpeg.crdownload",
-    "scroll/updates/activities/zkHACK/zkhack.png.crdownload",
-    "scroll/updates/activities/ethbeijing/img/workshop-1.pdf",
-    "scroll/updates/activities/ethbeijing/img/4-8-5.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-4.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-3.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-2.ARW",
-    "scroll/updates/activities/ethbeijing/img/4-8-1.ARW"
+    "未命名 1.canvas"
   ]
 }

@@ -21,9 +21,9 @@
 
 <!--ts-->
 * [Awesome Scroll 中文](#awesome-scroll-中文)
-* [Scroll 博客](#-scroll-博客)
-* [Scroll 每周更新](#-scroll-每周更新)
-* [Scroll 活动回顾](#-scroll-活动回顾)
+* [<g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji>Scroll 博客](#scroll-博客)
+* [<g-emoji class="g-emoji" alias="white_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26aa.png">⚪</g-emoji>Scroll 每周更新](#scroll-每周更新)
+* [<g-emoji class="g-emoji" alias="arrow_backward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/25c0.png">◀</g-emoji>Scroll 活动回顾](#scroll-活动回顾)
    * [SBC zkEVM Workshop](#sbc-zkevm-workshop)
    * [Scroll Rollup Day](#scroll-rollup-day)
    * [Devcon Bogota](#devcon-bogota)
@@ -33,39 +33,43 @@
    * [ZK Hack](#zk-hack)
    * [HongKong Web3 Festival](#hongkong-web3-festival)
    * [Workshop](#workshop)
-* [生态项目](#-生态项目)
+* [<g-emoji class="g-emoji" alias="spider_web" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f578.png">🕸</g-emoji>生态项目](#生态项目)
    * [基础设施](#基础设施)
       * [节点](#节点)
-   * [预言机](#预言机)
+      * [预言机](#预言机)
       * [索引](#索引)
+      * [浏览器](#浏览器)
       * [钱包](#钱包)
       * [身份](#身份)
+      * [安全](#安全)
       * [工具](#工具)
+      * [治理](#治理)
    * [去中心化金融](#去中心化金融)
       * [跨链桥](#跨链桥)
       * [交易所](#交易所)
       * [借贷](#借贷)
       * [期货](#期货)
+      * [其他](#其他)
    * [NFT](#nft)
    * [社交](#社交)
    * [游戏](#游戏)
+   * [社区](#社区)
    * [Rollup](#rollup)
+   * [黑客松Demo](#黑客松demo)
+      * [ETHTokyo 2023](#ethtokyo-2023)
 * [<g-emoji class="g-emoji" alias="man_student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f393.png">👨‍🎓</g-emoji>以太坊研究](#以太坊研究)
-* [0‍⃣ 零知识证明](#0⃣-零知识证明)
+* [0‍⃣零知识证明](#0⃣零知识证明)
    * [行业概览](#行业概览)
    * [证明系统](#证明系统)
    * [硬件加速](#硬件加速)
-* [相关链接](#-相关链接)
+* [<g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji>相关链接](#相关链接)
    * [Scroll](#scroll)
    * [Scroll CN](#scroll-cn)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Sun Apr 16 13:04:28 UTC 2023 -->
-
-<!--te-->
 
 
-# 📖 Scroll 博客
+# 📖Scroll 博客
 1. [zkEVM介绍](scroll/blogs/1.zkEVM介绍.md)
 2. [Scroll的愿景与价值观](scroll/blogs/2.愿景与价值观.md)
 3. [发布Pre-Alpha测试网](scroll/blogs/3.Pre-Alpha测试网.md)
@@ -79,7 +83,7 @@
 
 
 
-# ⚪ Scroll 每周更新
+# ⚪Scroll 每周更新
 1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
 2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
 3. [每周更新 #3(2023.02.13~2023.02.19)](scroll/updates/weekly%20updates/Weekly%20Updates%203.md)
@@ -94,7 +98,7 @@
 
 
 
-# ◀ Scroll 活动回顾
+# ◀Scroll 活动回顾
 
 ## SBC zkEVM Workshop
   1. [入门介绍](https://mp.weixin.qq.com/s/sL2KHuko1X9xibB_9tqhpw)
@@ -146,22 +150,28 @@
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
 
-# 🕸 生态项目
+# 🕸生态项目
 
 ## 基础设施
 ### 节点
 - [Ankr](https://www.ankr.com/)
 - [Pocket Network](https://www.pokt.network/)
+- [Bware Labs](https://bwarelabs.com/)
+- [Unifra](https://unifra.io/)
+- [BlockPI](https://blockpi.io/)
 
-
-
-## 预言机
+### 预言机
 - [Witnet](https://witnet.io/)
+- [Price Oracle](https://dev.oracles.rip/)
+- [RedStone](https://redstone.finance/)
 
 ### 索引
 - [The Graph](https://thegraph.com/en/)
 - [Covalent](https://www.covalenthq.com/)
--  [Transpose](https://www.transpose.io/)
+- [Transpose](https://www.transpose.io/)
+
+### 浏览器
+- [Blobscan](https://www.blobscan.com/)
 
 ### 钱包
 - [Safe](https://safe.global/)
@@ -170,19 +180,29 @@
 - [BlockWallet](https://blockwallet.io/)
 - [Open Block](https://openblock.com/)
 - [Holdstation](https://holdstation.com/)
+- [Soul Wallet](https://www.soulwallet.io/)
+- [BitKeep](https://bitkeep.com/en/index)
 
 ### 身份
 - [CARV](https://carv.io/home)
 - [zCloak](https://zcloak.network/)
 - [zkPass](https://www.zkpass.org/home)
+- [0xKYC](https://0xkyc.id/)
+
+### 安全
+- [Salus Labs](https://www.saluslabs.io/)
+- [Supremacy](https://supremacy.team/)
 
 ### 工具
 - [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [EthSign](https://www.ethsign.xyz/)
+- [Espresso](https://www.espressosys.com/)
+
+### 治理
+- [Tally](https://www.tally.xyz/)
 
 
 ## 去中心化金融
-
 ### 跨链桥
 - [Celer Network](https://celer.network/)
 - [Multichain](https://app.multichain.org)
@@ -210,8 +230,13 @@
 ### 借贷
 - [AAVE](https://app.aave.com/) 
 
+
 ### 期货
 - [SynFuture](https://www.synfutures.com/)
+
+### 其他
+- [Pendle Finance](https://www.pendle.finance/)
+
 
 ## NFT
 - [Creco](https://creco.xyz/)
@@ -219,16 +244,28 @@
 ## 社交
 - [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
 
-
 ## 游戏
 - [Galaxy Blitz](https://www.galaxyblitz.world/)
+- [Sakaba](https://sakaba.xyz/)
+
+## 社区
+- [Scroll CN](https://linktr.ee/scrollcn)
+- [Dorahacks](https://dorahacks.io/)
+- [Questbook](Questbook)
 
 ## Rollup
 - [zkLink](https://zk.link/)
 - [Intmax](https://intmax.io/)
 
+## 黑客松Demo
 - [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
 - [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
+### ETHTokyo 2023
+- [DeFuture](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
+- [BorrowFi](https://github.com/massun-onibakuchi/huff-standard4borrow)
+- [GaaS](https://github.com/tracychen/GaaS)
+- [SocialSecuritySnap](https://github.com/yusakapon/ETHTokyo-SocialSecuritySnap)
+- [Penguin Network](https://github.com/Penguin-Network-ETHGlobal-Tokyo/Penguin-Network)
 
 
 # 👨‍🎓以太坊研究
@@ -239,7 +276,7 @@
 - [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
 
 
-# 0‍⃣ 零知识证明
+# 0‍⃣零知识证明
 
 ## 行业概览
 - [探索零知识跨链桥](zkp/landscape/zk_validator/Exploring%20ZK%20Bridges.md)
@@ -252,7 +289,7 @@
 
 
 
-# 🔗 相关链接
+# 🔗相关链接
 
 ## Scroll 
 - Website: https://scroll.io/
