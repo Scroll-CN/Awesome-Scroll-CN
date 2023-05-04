@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6599bfdfeef40ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/weekly updates/Weekly Updates 13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "scroll/updates/weekly updates/Weekly Updates 13.md"
               }
             }
           }
@@ -148,10 +161,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "cb2fa6d26e0df104",
+  "active": "6599bfdfeef40ae7",
   "lastOpenFiles": [
-    "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 回顾.md",
     "scroll/updates/weekly updates/Weekly Updates 12.md",
+    "scroll/updates/weekly updates/Weekly Updates 13.md",
+    "scroll/updates/weekly updates/img/13-4.png",
+    "scroll/updates/weekly updates/img/13-3.png",
+    "scroll/updates/weekly updates/img/13-2.png",
+    "scroll/updates/weekly updates/img/13-5.png",
+    "scroll/updates/weekly updates/Weekly Updates 10.md",
+    "scroll/updates/weekly updates/Weekly Updates 11.md",
+    "README.md",
+    "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 回顾.md",
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
     "scroll/testnet/在 Scroll zkEVM 上部署智能合约.md",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds13.png",
@@ -166,22 +187,15 @@
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds9.png.crdownload",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds8.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds8.png.crdownload",
-    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM7.png",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM7.png.crdownload",
-    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM6.png",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM6.png.crdownload",
-    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM5.png",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM5.png.crdownload",
-    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM4.png",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM4.png.crdownload",
-    "scroll/updates/weekly updates/Weekly Updates 11.md",
-    "README.md",
     "scroll/updates/activities/ethglobal/Bounty Winners.md",
     "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
     "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo Hackathon.md",
     "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
-    "scroll/updates/weekly updates/Weekly Updates 10.md",
     "scroll/updates/activities/workshop/zkEVM 设计，优化和应用.md",
     "scroll/ecosystem/Pendle Finance.md",
     "scroll/ecosystem/Price.md",
@@ -194,7 +208,6 @@
     "scroll/blogs/5.架构概览.md",
     "scroll/blogs/4.技术原则.md",
     "scroll/blogs/2.愿景与价值观.md",
-    "scroll/blogs/1.zkEVM介绍.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
