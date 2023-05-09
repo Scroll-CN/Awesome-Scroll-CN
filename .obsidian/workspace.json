@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb2fa6d26e0df104",
+            "id": "130bf4be70b9992d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6599bfdfeef40ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 13.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 13.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 13.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 13.md"
+                "file": "scroll/updates/weekly updates/Weekly Updates 14.md"
               }
             }
           }
@@ -161,36 +148,39 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6599bfdfeef40ae7",
+  "active": "130bf4be70b9992d",
   "lastOpenFiles": [
-    "scroll/updates/weekly updates/Weekly Updates 12.md",
     "scroll/updates/weekly updates/Weekly Updates 13.md",
-    "scroll/updates/weekly updates/img/13-4.png",
-    "scroll/updates/weekly updates/img/13-3.png",
-    "scroll/updates/weekly updates/img/13-2.png",
-    "scroll/updates/weekly updates/img/13-5.png",
+    "scroll/updates/weekly updates/Weekly Updates 14.md",
+    "scroll/updates/weekly updates/Weekly Updates 12.md",
+    "scroll/updates/weekly updates/img/14-5.png",
+    "scroll/updates/weekly updates/img/proof_overflow的副本.png",
+    "scroll/updates/weekly updates/proof_overflow的副本.png",
+    "scroll/updates/proof_overflow的副本.png",
+    "scroll/proof_overflow的副本.png",
+    "scroll/research/proof_overflow的副本.png",
+    "scroll/updates/weekly updates/img/14-4.png",
+    "scroll/updates/weekly updates/img/14-2.png",
+    "scroll/updates/weekly updates/img/14-2-3.png",
+    "scroll/updates/weekly updates/img/14-2-2.png",
+    "scroll/research/“证明溢出”问题.md",
+    "scroll/research",
+    "scroll/updates/weekly updates/Weekly Updates 8.md",
     "scroll/updates/weekly updates/Weekly Updates 10.md",
     "scroll/updates/weekly updates/Weekly Updates 11.md",
     "README.md",
     "scroll/updates/activities/hongkong_web3_festival_2023/Scroll x Hong Kong Web3 Festival 2023 回顾.md",
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
     "scroll/testnet/在 Scroll zkEVM 上部署智能合约.md",
-    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds13.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds13.png.crdownload",
-    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds12.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds12.png.crdownload",
-    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds11.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds11.png.crdownload",
-    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds10.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds10.png.crdownload",
-    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds9.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds9.png.crdownload",
-    "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds8.png",
     "scroll/testnet/img/go-to-scroll-bridge-and-bridge-some-funds8.png.crdownload",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM7.png.crdownload",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM6.png.crdownload",
     "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM5.png.crdownload",
-    "scroll/testnet/img/Deploy-a-Smart-Contract-on-Scroll-zkEVM4.png.crdownload",
     "scroll/updates/activities/ethglobal/Bounty Winners.md",
     "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
     "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023.md",
@@ -200,14 +190,11 @@
     "scroll/ecosystem/Pendle Finance.md",
     "scroll/ecosystem/Price.md",
     "scroll/updates/weekly updates/Weekly Updates 9.md",
-    "scroll/updates/weekly updates/Weekly Updates 8.md",
     "scroll/updates/weekly updates/Weekly Updates 7.md",
     "scroll/updates/weekly updates/Weekly Updates 2.md",
     "scroll/updates/weekly updates/Weekly Updates 1.md",
     "scroll/updates/activities/ethbeijing/ETH Beijing Hackathon List.md",
     "scroll/blogs/5.架构概览.md",
-    "scroll/blogs/4.技术原则.md",
-    "scroll/blogs/2.愿景与价值观.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
