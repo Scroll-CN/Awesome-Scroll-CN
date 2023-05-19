@@ -149,6 +149,8 @@
 - [使用Halo2-ce构建和测试电路](scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md)
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
+## Others
+- [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
 
 # 🕸生态项目
 
@@ -260,13 +262,19 @@
 ## 黑客松Demo
 - [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
 - [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
-### ETHTokyo 2023
+### ETHGlobal Tokyo 2023
 - [DeFuture](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
 - [BorrowFi](https://github.com/massun-onibakuchi/huff-standard4borrow)
 - [GaaS](https://github.com/tracychen/GaaS)
 - [SocialSecuritySnap](https://github.com/yusakapon/ETHTokyo-SocialSecuritySnap)
 - [Penguin Network](https://github.com/Penguin-Network-ETHGlobal-Tokyo/Penguin-Network)
-
+### ETHGlobal Lisbon 2023
+- [Guardian Oracle-Keeper Protocol](https://ethglobal.com/showcase/guardian-oracle-keeper-protocol-rpcws)
+- [Natural Chain](https://naturalchain.cenit.finance/)
+- [Credential Corgi](https://credentialcorgi.com/)
+- [Donation Station](https://ethglobal.com/showcase/donation-station-g09ok)
+- [Kinetex](https://dp.kinetex.io/)
+- [Shortly](https://shortlylisbon.webflow.io/)
 
 # 👨‍🎓以太坊研究
 
@@ -274,6 +282,8 @@
 - [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
 - [Justin Drake: L1 排序的 Based Rollups](ethereum/L1%20排序的%20Based%20Rollups.md)
 - [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
+- [F.F: 去中心化 Rollup](scroll/research/去中心化%20Rollup.md)
+
 
 
 # 0‍⃣零知识证明
