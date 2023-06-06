@@ -199,9 +199,13 @@
 - [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [EthSign](https://www.ethsign.xyz/)
 - [Espresso](https://www.espressosys.com/)
+- [Bunzz](https://www.bunzz.dev/)
 
 ### 治理
 - [Tally](https://www.tally.xyz/)
+
+### Omni Network
+- [Omni Network](https://omni.network/)
 
 
 ## 去中心化金融
@@ -275,6 +279,11 @@
 - [Donation Station](https://ethglobal.com/showcase/donation-station-g09ok)
 - [Kinetex](https://dp.kinetex.io/)
 - [Shortly](https://shortlylisbon.webflow.io/)
+### ETHDam
+- [ZK Pay](https://www.zk-pay.io/)
+- [Multi-Token transparent vesting](https://github.com/konradstrachan/ethdamhackathon23)
+- [Electora](https://github.com/electora-vote/electora-app)
+- [StealthSend](https://github.com/floberlin/stealthnardo)
 
 # 👨‍🎓以太坊研究
 
@@ -311,7 +320,7 @@
 
 ## Scroll CN
 - Linktree: https://linktr.ee/scrollcn
-- WeChat: Scroll CN
+- WeChat: [Scroll CN](https://mp.weixin.qq.com/s/GbcybotwQn3dY5400y3I5A)
 - Twitter: https://twitter.com/Scroll_CN
 - Github: https://github.com/Scroll-CN
 - Mora: https://mora.app/planet/gltju-4iaaa-aaaan-qdcnq-cai
