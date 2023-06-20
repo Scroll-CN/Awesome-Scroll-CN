@@ -149,16 +149,22 @@
 - [使用Halo2-ce构建和测试电路](scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md)
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
+## Others
+- [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
 
 # 🕸生态项目
 
 ## 基础设施
 ### 节点
-- [Ankr](https://www.ankr.com/)
+- [Ankr](https://www.ankr.com/)(Alpha Testnet)
+	- HTTPS Endpoint: https://rpc.ankr.com/scroll_testnet
 - [Pocket Network](https://www.pokt.network/)
 - [Bware Labs](https://bwarelabs.com/)
 - [Unifra](https://unifra.io/)
 - [BlockPI](https://blockpi.io/)
+- [NodeReal](https://nodereal.io/)
+- [InfStones](https://infstones.com/)
+- [BlockVision](https://blockvision.org/)
 
 ### 预言机
 - [Witnet](https://witnet.io/)
@@ -174,14 +180,18 @@
 - [Blobscan](https://www.blobscan.com/)
 
 ### 钱包
-- [Safe](https://safe.global/)
+- [Gnosis Safe](https://safe.global/)
 - [OKX Wallet](https://okx.com/web3)
 - [Keystone](https://keyst.one/)
 - [BlockWallet](https://blockwallet.io/)
 - [Open Block](https://openblock.com/)
 - [Holdstation](https://holdstation.com/)
 - [Soul Wallet](https://www.soulwallet.io/)
+- [OKX Wallet](https://www.okx.com/web3)
 - [BitKeep](https://bitkeep.com/en/index)
+- [Versa](https://versawallet.io/)
+- [Blocto](https://blocto.io/)
+- [OneKey Wallet](https://onekey.so/)
 
 ### 身份
 - [CARV](https://carv.io/home)
@@ -197,9 +207,16 @@
 - [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [EthSign](https://www.ethsign.xyz/)
 - [Espresso](https://www.espressosys.com/)
+- [Bunzz](https://www.bunzz.dev/)
+- [Code4rena](https://code4rena.com/)
 
 ### 治理
 - [Tally](https://www.tally.xyz/)
+
+### 其他
+- [Omni Network](https://omni.network/)
+- [Connext Network](https://www.connext.network/)
+- [LayerZero](https://layerzero.network/)
 
 
 ## 去中心化金融
@@ -219,20 +236,31 @@
 - [Zada Finance](https://www.zadafinance.com/)
 - [DODO](https://dodoex.io/en)
 - [Sushi](https://stargate.finance/)
-- [iZUMi Finance](https://izumi.finance/home)
-- [MUX](scroll.mux.network)
+- [iZUMi Finance](https://izumi.finance/home)(Alpha Testnet)
+	- [scroll.iZUMi.finance](https://scroll.izumi.finance/)
+- [MUX](scroll.mux.network) (Alpha Testnet)
+	- https://scroll.mux.network
+- [zkLink](https://zk.link/)(Alpha Testnet)
+	- https://testnet.app.zkex.com/
 - [Symbiosis](https://symbiosis.finance/)
 - [rhino.fi](https://rhino.fi/)
 - [Zenlink](https://dex.zenlink.pro/#/swap)
 - [Poolshark](https://www.poolshark.fi/)
 
+### 聚合器
+- [LI.FI](https://li.fi/)
+- [OpenOcean](https://openocean.finance/)
 
 ### 借贷
-- [AAVE](https://app.aave.com/) 
+- [AAVE](https://app.aave.com/) (Alpha Testnet)
 
 
 ### 期货
 - [SynFuture](https://www.synfutures.com/)
+- [NEST](https://finance.nestprotocol.org/#/futures)
+
+### 合成资产
+- [zkSynth](https://zksynth.com/)
 
 ### 其他
 - [Pendle Finance](https://www.pendle.finance/)
@@ -240,13 +268,17 @@
 
 ## NFT
 - [Creco](https://creco.xyz/)
+- [AlienSwap](https://alienswap.xyz/)
 
 ## 社交
 - [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
+- [ReadON](https://readon.me/)
+- [QuestN](https://questn.com/s)
 
 ## 游戏
 - [Galaxy Blitz](https://www.galaxyblitz.world/)
 - [Sakaba](https://sakaba.xyz/)
+- [Carv](https://carv.io/)
 
 ## 社区
 - [Scroll CN](https://linktr.ee/scrollcn)
@@ -257,16 +289,30 @@
 - [zkLink](https://zk.link/)
 - [Intmax](https://intmax.io/)
 
+## 元宇宙
+- [SecondLive](https://secondlive.world/)
+
 ## 黑客松Demo
 - [ZKaptcha](https://github.com/GraphitiLabs/zkaptcha)
 - [Fiat Paymaster](https://github.com/aviggiano/fiat-paymaster)
-### ETHTokyo 2023
+### ETHGlobal Tokyo 2023
 - [DeFuture](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
 - [BorrowFi](https://github.com/massun-onibakuchi/huff-standard4borrow)
 - [GaaS](https://github.com/tracychen/GaaS)
 - [SocialSecuritySnap](https://github.com/yusakapon/ETHTokyo-SocialSecuritySnap)
 - [Penguin Network](https://github.com/Penguin-Network-ETHGlobal-Tokyo/Penguin-Network)
-
+### ETHGlobal Lisbon 2023
+- [Guardian Oracle-Keeper Protocol](https://ethglobal.com/showcase/guardian-oracle-keeper-protocol-rpcws)
+- [Natural Chain](https://naturalchain.cenit.finance/)
+- [Credential Corgi](https://credentialcorgi.com/)
+- [Donation Station](https://ethglobal.com/showcase/donation-station-g09ok)
+- [Kinetex](https://dp.kinetex.io/)
+- [Shortly](https://shortlylisbon.webflow.io/)
+### ETHDam
+- [ZK Pay](https://www.zk-pay.io/)
+- [Multi-Token transparent vesting](https://github.com/konradstrachan/ethdamhackathon23)
+- [Electora](https://github.com/electora-vote/electora-app)
+- [StealthSend](https://github.com/floberlin/stealthnardo)
 
 # 👨‍🎓以太坊研究
 
@@ -274,6 +320,8 @@
 - [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
 - [Justin Drake: L1 排序的 Based Rollups](ethereum/L1%20排序的%20Based%20Rollups.md)
 - [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
+- [F.F: 去中心化 Rollup](scroll/research/去中心化%20Rollup.md)
+
 
 
 # 0‍⃣零知识证明
@@ -301,7 +349,7 @@
 
 ## Scroll CN
 - Linktree: https://linktr.ee/scrollcn
-- WeChat: Scroll CN
+- WeChat: [Scroll CN](https://mp.weixin.qq.com/s/GbcybotwQn3dY5400y3I5A)
 - Twitter: https://twitter.com/Scroll_CN
 - Github: https://github.com/Scroll-CN
 - Mora: https://mora.app/planet/gltju-4iaaa-aaaan-qdcnq-cai
