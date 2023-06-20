@@ -1,0 +1,1 @@
+ETHPrague活动期间，Scroll的研究员 Toghrul Maharramov 同 Matter Labs 的联合创始人Alex Gluchowski等嘉宾，参与了主题为探索零知识技术的未来和潜力的圆桌讨论。

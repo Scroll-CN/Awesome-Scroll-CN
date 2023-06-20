@@ -216,6 +216,7 @@
 ### 其他
 - [Omni Network](https://omni.network/)
 - [Connext Network](https://www.connext.network/)
+- [LayerZero](https://layerzero.network/)
 
 
 ## 去中心化金融
@@ -256,6 +257,7 @@
 
 ### 期货
 - [SynFuture](https://www.synfutures.com/)
+- [NEST](https://finance.nestprotocol.org/#/futures)
 
 ### 合成资产
 - [zkSynth](https://zksynth.com/)
