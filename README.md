@@ -158,26 +158,33 @@
 ### 节点
 - [Ankr](https://www.ankr.com/)(Alpha Testnet)
 	- HTTPS Endpoint: https://rpc.ankr.com/scroll_testnet
-- [Pocket Network](https://www.pokt.network/)
+- [Pocket Network](https://www.pokt.network/)(Alpha Testnet)
 - [Bware Labs](https://bwarelabs.com/)
 - [Unifra](https://unifra.io/)
-- [BlockPI](https://blockpi.io/)
+- [BlockPI](https://blockpi.io/)(Alpha Testnet)
 - [NodeReal](https://nodereal.io/)
 - [InfStones](https://infstones.com/)
 - [BlockVision](https://blockvision.org/)
+- [LlamaNodes](https://llamanodes.com/)
+- [Chainbase](https://chainbase.com/)
 
 ### 预言机
 - [Witnet](https://witnet.io/)
 - [Price Oracle](https://dev.oracles.rip/)
 - [RedStone](https://redstone.finance/)
+- [Pyth Network](https://pyth.network/)
+- [Pragma](https://www.pragmaoracle.com/)
+- [Scry](https://scry.finance/)
 
 ### 索引
 - [The Graph](https://thegraph.com/en/)
 - [Covalent](https://www.covalenthq.com/)
-- [Transpose](https://www.transpose.io/)
+- [Transpose](https://www.transpose.io/)(Alpha Testnet)
+- [Subsquid](https://www.subsquid.io/)
 
 ### 浏览器
 - [Blobscan](https://www.blobscan.com/)
+- [OKLink](https://www.oklink.com/cn)
 
 ### 钱包
 - [Gnosis Safe](https://safe.global/)
@@ -192,34 +199,53 @@
 - [Versa](https://versawallet.io/)
 - [Blocto](https://blocto.io/)
 - [OneKey Wallet](https://onekey.so/)
+- [Fox Wallet](https://foxwallet.com/)
+- [Math Wallet](https://mathwallet.org/)
+- [UNIPASS](https://unipass.id/)
+- [Safeheron](https://www.safeheron.com/)
+
 
 ### 身份
 - [CARV](https://carv.io/home)
 - [zCloak](https://zcloak.network/)
 - [zkPass](https://www.zkpass.org/home)
-- [0xKYC](https://0xkyc.id/)
+- [0xKYC](https://0xkyc.id/)(Alpha Testnet)
+	- [0xKYC - Private ☀️ Zero Knowledge ID](https://app.0xkyc.id/)
 
 ### 安全
+- [ChainSecurity](https://chainsecurity.com/)
 - [Salus Labs](https://www.saluslabs.io/)
 - [Supremacy](https://supremacy.team/)
+- [HAPI](https://hapi.one/)
+- [Gotham3](https://gotham3.io/)(Alpha Testnet)
+	- [Gotham3 App](https://gotham3.io/beta/)
 
 ### 工具
 - [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [EthSign](https://www.ethsign.xyz/)
+- [Etherspot](https://etherspot.io/)
 - [Espresso](https://www.espressosys.com/)
 - [Bunzz](https://www.bunzz.dev/)
 - [Code4rena](https://code4rena.com/)
+- [Particle Network](https://particle.network/)
+- [Hamster](https://hamsternet.io/)
+- [Supermacy](https://supremacy.team/#Home)
+- [Ceres](https://ceres.credit/)
+- [MetaTrust](https://metatrust.io/)
+- [Atlas](https://app.atlaszk.com/)
 
 ### 治理
-- [Tally](https://www.tally.xyz/)
+- [Tally](https://www.tally.xyz/)(Alpha Testnet)
+	- [Tally - Explore DAOs](https://www.tally.xyz/explore)
 
 ### 其他
 - [Omni Network](https://omni.network/)
 - [Connext Network](https://www.connext.network/)
 - [LayerZero](https://layerzero.network/)
+- [Hana](https://hana.network/)
 
 
-## 去中心化金融
+## 去中心化金融(DeFi)
 ### 跨链桥
 - [Celer Network](https://celer.network/)
 - [Multichain](https://app.multichain.org)
@@ -228,12 +254,16 @@
 - [Hop Protocol](app.hop.exchange)
 - [Connext](https://www.connext.network/)
 - [Synapse](synapseprotocol.com)
+- [Owlto Finance](https://owlto.finance/bridge)
+- [Pheasant Network](https://pheasant.network/)(Alpha Testnet)
+	- [Pheasant Network](https://pheasant.network/)
 
 
 ### 交易所
 - [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
 - [SyncSwap](https://syncswap.xyz/)
-- [Zada Finance](https://www.zadafinance.com/)
+- [Zada Finance](https://www.zadafinance.com/)(Alpha Testnet)
+	- [Zada Finance](https://www.zadafinance.com/swap)
 - [DODO](https://dodoex.io/en)
 - [Sushi](https://stargate.finance/)
 - [iZUMi Finance](https://izumi.finance/home)(Alpha Testnet)
@@ -242,10 +272,17 @@
 	- https://scroll.mux.network
 - [zkLink](https://zk.link/)(Alpha Testnet)
 	- https://testnet.app.zkex.com/
+- [MES Protocol](https://www.mesprotocol.com/)(Alpha Testnet)
+	- [MES Protocol Testnet](https://testnet.mesprotocol.com/spot/ETH-USDC)
+- [Catalyst](https://catalyst.exchange/)(Alpha Testnet)
+	- [Catalyst](https://demo.catalyst.exchange/swap)
 - [Symbiosis](https://symbiosis.finance/)
 - [rhino.fi](https://rhino.fi/)
 - [Zenlink](https://dex.zenlink.pro/#/swap)
 - [Poolshark](https://www.poolshark.fi/)
+- [Bitbyte Finance](https://bitbyte.finance/)
+- [ROCKLY](https://twitter.com/rocklyexchange)
+- [Tradable](https://www.tradable.trade/)
 
 ### 聚合器
 - [LI.FI](https://li.fi/)
@@ -253,37 +290,54 @@
 
 ### 借贷
 - [AAVE](https://app.aave.com/) (Alpha Testnet)
+- [Cog Finance](https://www.cog.finance/)
+- [Loanshark](https://loanshark.tech/#)
 
 
-### 期货
+### 衍生品
 - [SynFuture](https://www.synfutures.com/)
 - [NEST](https://finance.nestprotocol.org/#/futures)
+- [Mufex](https://www.mufex.finance/zh-TW/)
+- [Panner Finance](https://panner.finance/)
+
 
 ### 合成资产
-- [zkSynth](https://zksynth.com/)
+- [zkSynth](https://zksynth.com/)(Alpha Testnet)
+	- [Testnet Version](https://app.zksynth.com/)
 
 ### 其他
 - [Pendle Finance](https://www.pendle.finance/)
+- [Bounce](https://app.bounce.finance/market)
 
 
 ## NFT
+- [Zonic](https://testnet.zonic.app/)(Alpha Testnet)
+	- [Zonic : NFT Marketplace for L2](https://testnet.zonic.app/)
+- [NFTs2Me](https://nfts2me.com/app/)(Alpha Testnet)
+	- [Dashboard NFT Launchpad](https://nfts2me.com/app/)
 - [Creco](https://creco.xyz/)
 - [AlienSwap](https://alienswap.xyz/)
 
 ## 社交
-- [Atem](https://www.notion.so/Atem-2fd7f1d1b37f4b428475befda45c4acd)
+- [Atem](https://www.atem.io/)
 - [ReadON](https://readon.me/)
 - [QuestN](https://questn.com/s)
+- [Pythia](https://www.pythia.company/)
 
 ## 游戏
 - [Galaxy Blitz](https://www.galaxyblitz.world/)
 - [Sakaba](https://sakaba.xyz/)
 - [Carv](https://carv.io/)
+- [DeGame](https://degame.com/zh/home)
+- [Cubic](https://www.cubicgames.xyz/home)
+- [OmniKingdoms](https://app.omnikingdoms.io/play)
 
 ## 社区
 - [Scroll CN](https://linktr.ee/scrollcn)
 - [Dorahacks](https://dorahacks.io/)
 - [Questbook](Questbook)
+- [Carrot](https://staging.carrot-kpi.dev/)
+- 
 
 ## Rollup
 - [zkLink](https://zk.link/)
