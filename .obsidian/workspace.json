@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4795aafbeaa5fd72",
+            "id": "0a862835adf6cae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cce5733bf0e337d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/weekly updates/Weekly Updates 22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4795aafbeaa5fd72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd53dcd7c13bbe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de023dbdb147c2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/updates/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "e14169a67d17c363",
@@ -94,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "scroll/updates/weekly updates/Weekly Updates 22.md"
               }
             }
           }
@@ -158,19 +206,19 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4795aafbeaa5fd72",
+  "active": "cce5733bf0e337d5",
   "lastOpenFiles": [
     "scroll/updates/weekly updates/Weekly Updates 21.md",
-    "scroll/updates/weekly updates/img/21-0.png",
-    "scroll/updates/weekly updates/img/Weekly Updates #21.png",
-    "scroll/updates/weekly updates/img/21-1-1.png",
-    "scroll/updates/weekly updates/img/21-5.png",
-    "scroll/updates/weekly updates/img/21-4.png",
-    "scroll/updates/weekly updates/img/21-3.png",
-    "scroll/updates/weekly updates/img/21-1.png",
-    "scroll/updates/weekly updates/img/21-2.png",
-    "scroll/updates/weekly updates/Weekly Updates 9.md",
-    "scroll/updates/weekly updates/Weekly Updates 10.md",
+    "scroll/updates/weekly updates/Weekly Updates 22.md",
+    "scroll/updates/weekly updates/Weekly Updates 20.md",
+    "scroll/updates/weekly updates/img/22-1.png",
+    "scroll/updates/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+    "scroll/updates/weekly updates/img/22-6.png",
+    "README.md",
+    "scroll/updates/weekly updates/img/22-5.png",
+    "scroll/updates/weekly updates/img/22-3.png",
+    "scroll/updates/weekly updates/img/22-4.png",
+    "scroll/updates/weekly updates/img/22-2.png",
     "scroll/updates/weekly updates/Weekly Updates 11.md",
     "scroll/updates/weekly updates/Weekly Updates 12.md",
     "scroll/updates/weekly updates/Weekly Updates 13.md",
@@ -180,32 +228,32 @@
     "scroll/updates/weekly updates/Weekly Updates 17.md",
     "scroll/updates/weekly updates/Weekly Updates 18.md",
     "scroll/updates/weekly updates/Weekly Updates 19.md",
-    "scroll/updates/weekly updates/Weekly Updates 20.md",
-    "README.md",
+    "scroll/updates/weekly updates/Weekly Updates 10.md",
+    "scroll/updates/weekly updates/Weekly Updates 13 1.md",
+    "scroll/updates/weekly updates/Weekly Updates 2.md",
+    "scroll/updates/weekly updates/Weekly Updates 1.md",
+    "scroll/updates/weekly updates/img/Weekly Updates #22.png",
+    "scroll/updates/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
+    "scroll/updates/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
+    "scroll/updates/scroll talk/img/talk3-zkml.png",
+    "scroll/updates/scroll talk/img/Scroll Talk#1(Ye).svg",
+    "scroll/updates/scroll talk/img",
+    "scroll/updates/scroll talk/img/Scroll Talk#1(Ye).jpg",
+    "scroll/updates/weekly updates/Weekly Updates 9.md",
     "scroll/updates/activities/EDCON2023.md",
     "scroll/ecosystem/Overview.md",
     "scroll/testnet/在Scroll上部署智能合约的 5 种方法.md",
-    "scroll/testnet/img/deploy_on_scroll.jpg",
     "scroll/testnet/在 Scroll zkEVM 上部署智能合约.md",
-    "scroll/updates/activities/Zero Knowledge Podcast：开放构建Scroll.md",
-    "scroll/updates/activities/ethprague/ETHPrague圆桌：探索零知识技术的未来和潜力.md",
-    "scroll/updates/weekly updates/img/20-4.png",
-    "scroll/updates/activities/ethprague/ETHPrague黑客松回顾.md",
-    "scroll/updates/activities/ethprague/ETHPrague演讲：zkRollup中的排序器和证明者分离.md",
     "scroll/updates/activities/img",
     "scroll/updates/pre-img",
     "scroll/img",
-    "img",
+    "scroll/updates/scroll talk/img",
     "scroll/updates/activities/ethprague/img",
     "scroll/updates/activities/ethprague",
-    "scroll/ecosystem/Blast API.md",
-    "scroll/ecosystem/Intmax.md",
     "未命名.canvas",
-    "ethereum/三个转变.md",
     "ethereum/img/threetransition4.png.crdownload",
     "scroll/zk Symposium/img",
     "scroll/zk Symposium",
-    "scroll/updates/scroll talk",
     "未命名 1.canvas"
   ]
 }
