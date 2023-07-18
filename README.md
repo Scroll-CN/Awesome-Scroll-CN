@@ -150,7 +150,7 @@
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 
 ## Others
-- [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
+- [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/zero_knowledge_podcast/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
 
 # 🕸生态项目
 
@@ -181,6 +181,7 @@
 - [Covalent](https://www.covalenthq.com/)
 - [Transpose](https://www.transpose.io/)(Alpha Testnet)
 - [Subsquid](https://www.subsquid.io/)
+- [Chainsight](https://chainsight.network/)
 
 ### 浏览器
 - [Dora](https://www.ondora.xyz/)(Alpha Testnet)
@@ -205,7 +206,8 @@
 - [Math Wallet](https://mathwallet.org/)
 - [UNIPASS](https://unipass.id/)
 - [Safeheron](https://www.safeheron.com/)
-
+- [FLUVI](https://fluviwallet.xyz/)
+- [Sender](https://sender.org/)
 
 ### 身份
 - [CARV](https://carv.io/home)
@@ -222,6 +224,9 @@
 - [Gotham3](https://gotham3.io/)(Alpha Testnet)
 	- [Gotham3 App](https://gotham3.io/beta/)
 
+### 隐私
+- [EigenSecret](https://www.eigen.cash/#/)
+
 ### 工具
 - [L2Beat](https://l2beat.com/scaling/projects/scroll)
 - [EthSign](https://www.ethsign.xyz/)
@@ -235,6 +240,10 @@
 - [Ceres](https://ceres.credit/)
 - [MetaTrust](https://metatrust.io/)
 - [Atlas](https://app.atlaszk.com/)
+- [ZKaptcha](https://www.zkaptcha.xyz/)
+- [TaskOn](https://taskon.xyz/)
+	- [Compaign](https://taskon.xyz/campaign/detail/5634)
+	- [Guide](https://medium.com/@taskonxyz/taskon-integrated-with-scroll-to-assist-user-growth-for-web3-projects-e894ae3efbe2)
 
 ### 治理
 - [Tally](https://www.tally.xyz/)(Alpha Testnet)
@@ -244,6 +253,7 @@
 - [Omni Network](https://omni.network/)
 - [Connext Network](https://www.connext.network/)
 - [LayerZero](https://layerzero.network/)
+- [Router](https://www.routerprotocol.com/)
 - [Hana](https://hana.network/)
 
 
@@ -256,7 +266,8 @@
 - [Hop Protocol](app.hop.exchange)
 - [Connext](https://www.connext.network/)
 - [Synapse](synapseprotocol.com)
-- [Owlto Finance](https://owlto.finance/bridge)
+- [Owlto Finance](https://owlto.finance/bridge)(Alpha Testnet)
+	- [Owlto Finance](https://owlto.finance/rewards)
 - [Pheasant Network](https://pheasant.network/)(Alpha Testnet)
 	- [Pheasant Network](https://pheasant.network/)
 
@@ -266,7 +277,8 @@
 - [SyncSwap](https://syncswap.xyz/)
 - [Zada Finance](https://www.zadafinance.com/)(Alpha Testnet)
 	- [Zada Finance](https://www.zadafinance.com/swap)
-- [DODO](https://dodoex.io/en)
+- [DODO](https://dodoex.io/en)(Alpha Testnet)
+	- [DODO](https://app.dodoex.io/?network=scr-alpha)
 - [Sushi](https://stargate.finance/)
 - [iZUMi Finance](https://izumi.finance/home)(Alpha Testnet)
 	- [scroll.iZUMi.finance](https://scroll.izumi.finance/)
@@ -287,7 +299,7 @@
 - [Bitbyte Finance](https://bitbyte.finance/)
 - [ROCKLY](https://twitter.com/rocklyexchange)
 - [Tradable](https://www.tradable.trade/)
-- 
+
 
 ### 聚合器
 - [LI.FI](https://li.fi/)
@@ -311,9 +323,15 @@
 - [zkSynth](https://zksynth.com/)(Alpha Testnet)
 	- [Testnet Version](https://app.zksynth.com/)
 
+
+### 杠杆交易
+- [Open Leverage](https://openleverage.finance/)
+	- [OpenLeverage - Margin Trade](https://scroll.openleverage.finance/app/trade)
+
 ### 其他
 - [Pendle Finance](https://www.pendle.finance/)
 - [Bounce](https://app.bounce.finance/market)
+- [Dego Finance](https://dego.finance/home)
 
 
 ## NFT
@@ -329,6 +347,7 @@
 - [ReadON](https://readon.me/)
 - [QuestN](https://questn.com/s)
 - [Pythia](https://www.pythia.company/)
+- [MudAi](https://www.mudai.city/)
 
 ## 游戏
 - [Galaxy Blitz](https://www.galaxyblitz.world/)
@@ -337,13 +356,15 @@
 - [DeGame](https://degame.com/zh/home)
 - [Cubic](https://www.cubicgames.xyz/home)
 - [OmniKingdoms](https://app.omnikingdoms.io/play)
+- [Ether War](https://etherwar.xyz/)(Alpha Testnet)
+	- [Ether War](https://etherwar.xyz/)
 
 ## 社区
 - [Scroll CN](https://linktr.ee/scrollcn)
 - [Dorahacks](https://dorahacks.io/)
 - [Questbook](Questbook)
 - [Carrot](https://staging.carrot-kpi.dev/)
-- 
+
 
 ## Rollup
 - [zkLink](https://zk.link/)
@@ -373,6 +394,10 @@
 - [Multi-Token transparent vesting](https://github.com/konradstrachan/ethdamhackathon23)
 - [Electora](https://github.com/electora-vote/electora-app)
 - [StealthSend](https://github.com/floberlin/stealthnardo)
+### ETHBarcelona
+- [Pitstop Protocol](https://github.com/soheimam/etherengines)
+- [PromptHunt](https://prompthunt.vercel.app/feed)
+- [Bevolved](https://bevolved.xyz/)
 
 # 👨‍🎓以太坊研究
 

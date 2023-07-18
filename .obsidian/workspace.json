@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe9de6e61e9a758",
+        "id": "fa9b171d05a34187",
         "type": "tabs",
         "children": [
           {
-            "id": "0a862835adf6cae6",
+            "id": "8cbf71bdf77e7078",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,55 +20,31 @@
             }
           },
           {
-            "id": "cce5733bf0e337d5",
+            "id": "0888f6d8d41c9822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 22.md",
+                "file": "scroll/ecosystem/alpha testnet/基础设施.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4795aafbeaa5fd72",
+            "id": "9c80f16837c6f58d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd53dcd7c13bbe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de023dbdb147c2f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
+                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 22.md",
+                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 22.md",
+                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 22.md"
+                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md"
               }
             }
           }
@@ -206,54 +182,54 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "cce5733bf0e337d5",
+  "active": "9c80f16837c6f58d",
   "lastOpenFiles": [
+    "README.md",
+    "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+    "scroll/ecosystem/alpha testnet/基础设施.md",
+    "scroll/updates/activities/ethbarcelona/ETHBarcelona 回顾.md",
+    "scroll/updates/activities/ethbarcelona/ETHBarcelona 演讲：zkRollup不变性和可升级性.md",
+    "scroll/blogs/10.Goerli的Alpha测试网发布.md",
+    "scroll/updates/weekly updates/Weekly Updates 23.md",
+    "scroll/blogs/11. Scroll 开源贡献.md",
+    "scroll/blogs/img/11-0.png",
+    "scroll/updates/weekly updates/Weekly Updates 24.md",
+    "scroll/updates/weekly updates/img/Weekly Updates #24.png",
+    "scroll/updates/weekly updates/img/24-6.png",
+    "scroll/updates/weekly updates/img/24-5.png",
+    "scroll/updates/weekly updates/img/24-4.png",
+    "scroll/updates/weekly updates/img/24-3.png",
+    "scroll/updates/activities/ethbarcelona/img/cover.jpeg",
+    "scroll/updates/activities/ethbarcelona/img/8.jpeg",
+    "scroll/updates/activities/ethbarcelona/img/7.jpeg",
+    "scroll/updates/activities/ethbarcelona/img/7.jpeg.crdownload",
+    "scroll/updates/activities/ethbarcelona/img/6.jpeg",
+    "scroll/updates/activities/ethbarcelona/img/6.jpeg.crdownload",
+    "scroll/updates/activities/ethbarcelona/img/5.jpeg.crdownload",
+    "scroll/updates/activities/ethbarcelona/img/0.jpeg.crdownload",
+    "scroll/updates/weekly updates/Weekly Updates 20.md",
+    "scroll/updates/weekly updates/Weekly Updates 19.md",
     "scroll/updates/weekly updates/Weekly Updates 21.md",
     "scroll/updates/weekly updates/Weekly Updates 22.md",
-    "scroll/updates/weekly updates/Weekly Updates 20.md",
-    "scroll/updates/weekly updates/img/22-1.png",
-    "scroll/updates/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
-    "scroll/updates/weekly updates/img/22-6.png",
-    "README.md",
-    "scroll/updates/weekly updates/img/22-5.png",
-    "scroll/updates/weekly updates/img/22-3.png",
-    "scroll/updates/weekly updates/img/22-4.png",
-    "scroll/updates/weekly updates/img/22-2.png",
-    "scroll/updates/weekly updates/Weekly Updates 11.md",
-    "scroll/updates/weekly updates/Weekly Updates 12.md",
-    "scroll/updates/weekly updates/Weekly Updates 13.md",
-    "scroll/updates/weekly updates/Weekly Updates 14.md",
-    "scroll/updates/weekly updates/Weekly Updates 15.md",
-    "scroll/updates/weekly updates/Weekly Updates 16.md",
-    "scroll/updates/weekly updates/Weekly Updates 17.md",
-    "scroll/updates/weekly updates/Weekly Updates 18.md",
-    "scroll/updates/weekly updates/Weekly Updates 19.md",
-    "scroll/updates/weekly updates/Weekly Updates 10.md",
-    "scroll/updates/weekly updates/Weekly Updates 13 1.md",
-    "scroll/updates/weekly updates/Weekly Updates 2.md",
+    "未命名",
+    "scroll/updates/activities/ethprague/ETHPrague演讲：zkRollup中的排序器和证明者分离.md",
     "scroll/updates/weekly updates/Weekly Updates 1.md",
-    "scroll/updates/weekly updates/img/Weekly Updates #22.png",
-    "scroll/updates/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
-    "scroll/updates/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
-    "scroll/updates/scroll talk/img/talk3-zkml.png",
-    "scroll/updates/scroll talk/img/Scroll Talk#1(Ye).svg",
-    "scroll/updates/scroll talk/img",
-    "scroll/updates/scroll talk/img/Scroll Talk#1(Ye).jpg",
-    "scroll/updates/weekly updates/Weekly Updates 9.md",
+    "scroll/updates/weekly updates/Weekly Updates 8.md",
+    "scroll/updates/weekly updates/Weekly Updates 7.md",
+    "scroll/updates/weekly updates/Weekly Updates 6.md",
+    "scroll/updates/weekly updates/Weekly Updates 5.md",
+    "scroll/updates/weekly updates/Weekly Updates 4.md",
+    "scroll/updates/weekly updates/Weekly Updates 3.md",
+    "scroll/updates/weekly updates/Weekly Updates 2.md",
+    "scroll/updates/activities/ethbarcelona/img",
+    "scroll/updates/weekly updates/未命名 1.md",
+    "scroll/updates/activities/ethbarcelona",
     "scroll/updates/activities/EDCON2023.md",
-    "scroll/ecosystem/Overview.md",
-    "scroll/testnet/在Scroll上部署智能合约的 5 种方法.md",
-    "scroll/testnet/在 Scroll zkEVM 上部署智能合约.md",
-    "scroll/updates/activities/img",
-    "scroll/updates/pre-img",
-    "scroll/img",
+    "scroll/updates/activities/zero_knowledge_podcast",
+    "scroll/updates/activities/zero_knowledge_podcast/Zero Knowledge Podcast：开放构建Scroll.md",
+    "scroll/ecosystem/alpha testnet",
     "scroll/updates/scroll talk/img",
-    "scroll/updates/activities/ethprague/img",
-    "scroll/updates/activities/ethprague",
     "未命名.canvas",
-    "ethereum/img/threetransition4.png.crdownload",
-    "scroll/zk Symposium/img",
-    "scroll/zk Symposium",
     "未命名 1.canvas"
   ]
 }

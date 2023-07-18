@@ -1,0 +1,45 @@
+- **Biweekly Podcast**
+- **Channel:** WeChat Video, Articles Embeded (WeChat, Mora)
+- **Record:** Meeting(Google, Zoom, Tencent), Twitter Space, WeChat Live 
+- **Scope:**
+	- Interview: Scroll Co-Founder, Team Lead, Core Members 
+	- Panel: Ecosystem Tracks(Infrastructure, DeFi, NFT, Social, Community, Game..)
+	- AMA: New Projects, Giant Projects, PR Request
+	- Developer Community Call: Depends on the Internal Discussion
+- **Schedule**
+	- Scroll Talk #1: Scroll与ZK同行
+		- Date: 2023.7.15
+		- Guest: Ye Zhang
+		- Forms: Meeting
+	- Scroll Talk 2：共建Scroll 生态
+		- Date: 2023.7.31
+		- Guest: Sandy Peng
+		- Forms: Meeting
+	- Scroll Talk 3：zkEVM 开发之路
+		- Date: 2023.8.15
+		- Guest: Haichen Shen
+		- Forms: Meeting
+	- Scroll Talk 4: Scroll 基础设施生态建设
+		- Date: 2023.8.31
+		- Guest: Adam(Unifra), Xiahe(Open Block), Sake(Gotham3) Alvis(Hamster)
+		- Forms: Twitter Space
+	- Scroll Talk 5: Scroll 去中心化金融生态建设
+		- Date: 2023.9.15
+		- Guest: Zebra(Owlto Finance), Taki(Splatter), Marcus(Zada Finance)
+		- Forms: Twitter Space
+	- Scroll Talk: Mainnet 上线活动
+		- Depends on the Internal Discussion
+	- Scroll Talk 6: Scroll 社交生态建设
+		- Date: 2023.9.30
+		- Guest: xxx(Atem), xxx(Readon), Neal(UYUX), 
+		- Forms: Twitter Space
+	- Scroll Talk 7: Scroll 游戏生态建设
+		- Date: 2023.10.15
+		- Guest: xxx(OmniKingdoms), xxx(Ether War), xxx(DeGame) 
+		- Forms: Twitter Space
+	-  Scroll Talk 8: Scroll 社区生态建设
+		- Date: 2023.10.31
+		- Guest: xxx(Dorahacks), xxx(Carrot), xxx(Questbook) 
+		- Forms: Twitter Space
+
+
