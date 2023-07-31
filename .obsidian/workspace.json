@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb14130b38970056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/ecosystem/infra/Pragma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d40ddba63bb457f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 26.md",
+                "file": "scroll/ecosystem/infra/基础设施项目盘点.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 26.md",
+                "file": "scroll/ecosystem/infra/基础设施项目盘点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 26.md"
+                "file": "scroll/ecosystem/infra/基础设施项目盘点.md"
               }
             }
           }
@@ -195,19 +171,19 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6d40ddba63bb457f",
+  "active": "94c2147124ae24f9",
   "lastOpenFiles": [
+    "scroll/ecosystem/infra/Pragma.md",
+    "scroll/updates/weekly updates/Weekly Updates 26.md",
     "scroll/updates/weekly updates/img/Weekly Updates #26.png",
     "scroll/updates/weekly updates/img/26-3.png",
     "scroll/updates/weekly updates/img/26-2.png",
     "scroll/updates/weekly updates/Weekly Updates 25.md",
-    "scroll/updates/weekly updates/Weekly Updates 26.md",
     "scroll/updates/weekly updates/Weekly Updates 21.md",
     "scroll/updates/monthly updates/月度更新.md",
     "scroll/updates/monthly updates",
     "scroll/updates/weekly updates/img/26-4.png",
     "scroll/ecosystem/infra/基础设施项目盘点.md",
-    "scroll/ecosystem/infra/Pragma.md",
     "scroll/updates/weekly updates/img/26-1.png",
     "scroll/ecosystem/infra/img/graph_logo.png",
     "scroll/ecosystem/infra/img/pragma_logo.png",
@@ -222,7 +198,6 @@
     "scroll/ecosystem/infra/img/unifra7.png",
     "scroll/ecosystem/infra/img/unifra6.png",
     "scroll/ecosystem/infra/img/unifra5.png",
-    "scroll/ecosystem/infra/img/unifra4.png",
     "scroll/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
     "scroll/scroll talk/Draft.md",
     "documentations/api-reference/scroll/debug_traceblockbynumber.md",
