@@ -159,7 +159,8 @@
 - [Ankr](https://www.ankr.com/)(Alpha Testnet)
 	- HTTPS Endpoint: https://rpc.ankr.com/scroll_testnet
 - [Pocket Network](https://www.pokt.network/)(Alpha Testnet)
-- [Bware Labs](https://bwarelabs.com/)
+- [Bware Labs](https://bwarelabs.com/)(Alpha Testnet)
+	- Blast API
 - [Unifra](https://unifra.io/)
 - [BlockPI](https://blockpi.io/)(Alpha Testnet)
 - [NodeReal](https://nodereal.io/)
@@ -169,12 +170,14 @@
 - [Chainbase](https://chainbase.com/)
 
 ### 预言机
-- [Witnet](https://witnet.io/)
-- [Price Oracle](https://dev.oracles.rip/)
-- [RedStone](https://redstone.finance/)
+- [Witnet](https://witnet.io/) (Alpha Testnet)
+- [**Price Oracle**](https://dev.oracles.rip/)
+	- [Contract Scroll Alpha Testnet Explorer](https://blockscout.scroll.io/address/0x2e441aDC345dAeB11Ff9c2caE7eFD461E5525850)
+- [RedStone](https://redstone.finance/)(Alpha Testnet)
 - [Pyth Network](https://pyth.network/)
-- [Pragma](https://www.pragmaoracle.com/)
+- [Pragma](https://www.pragmaoracle.com/)(Alpha Testnet)
 - [Scry](https://scry.finance/)
+- [Entangle](https://test.entangle.fi/learn)
 
 ### 索引
 - [The Graph](https://thegraph.com/en/)
@@ -249,7 +252,8 @@
 - [Tally](https://www.tally.xyz/)(Alpha Testnet)
 	- [Tally - Explore DAOs](https://www.tally.xyz/explore)
 
-### 其他
+
+## 协议
 - [Omni Network](https://omni.network/)
 - [Connext Network](https://www.connext.network/)
 - [LayerZero](https://layerzero.network/)
