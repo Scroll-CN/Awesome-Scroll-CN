@@ -185,6 +185,8 @@
 - [Transpose](https://www.transpose.io/)(Alpha Testnet)
 - [Subsquid](https://www.subsquid.io/)
 - [Chainsight](https://chainsight.network/)
+- [DB3](https://db3.network/)(Alpha Testnet)
+	- [DB3 Data manager](https://testnet.db3.network/home)
 
 ### 浏览器
 - [Dora](https://www.ondora.xyz/)(Alpha Testnet)
@@ -200,7 +202,6 @@
 - [Open Block](https://openblock.com/)
 - [Holdstation](https://holdstation.com/)
 - [Soul Wallet](https://www.soulwallet.io/)
-- [OKX Wallet](https://www.okx.com/web3)
 - [BitKeep](https://bitkeep.com/en/index)
 - [Versa](https://versawallet.io/)
 - [Blocto](https://blocto.io/)
@@ -213,6 +214,10 @@
 - [Sender](https://sender.org/)
 
 ### 身份
+- [Scroll Name Service](https://app.scrollns.com/)(Alpha Testnet)
+	- [ScrollNS - An Omnichain Name Service built on Scroll](https://app.scrollns.com/)
+- [ScrolID](https://scrolid.com/#/)(Alpha Testnet)
+	- [ScrolID](https://scrolid.com/#/)
 - [CARV](https://carv.io/home)
 - [zCloak](https://zcloak.network/)
 - [zkPass](https://www.zkpass.org/home)
@@ -247,6 +252,7 @@
 - [TaskOn](https://taskon.xyz/)
 	- [Compaign](https://taskon.xyz/campaign/detail/5634)
 	- [Guide](https://medium.com/@taskonxyz/taskon-integrated-with-scroll-to-assist-user-growth-for-web3-projects-e894ae3efbe2)
+- [Zeron Protocol](https://zeron.work/)
 
 ### 治理
 - [Tally](https://www.tally.xyz/)(Alpha Testnet)
@@ -275,10 +281,10 @@
 - [Pheasant Network](https://pheasant.network/)(Alpha Testnet)
 	- [Pheasant Network](https://pheasant.network/)
 
-
 ### 交易所
 - [Uniswap V3](https://www.notion.so/Uniswap-V3-fb701ad163744598868a2a40e858488c)
-- [SyncSwap](https://syncswap.xyz/)
+- [SyncSwap](https://syncswap.xyz/)(Alpha Testnet)
+	-   [SyncSwap](https://syncswap.xyz/intro)
 - [Zada Finance](https://www.zadafinance.com/)(Alpha Testnet)
 	- [Zada Finance](https://www.zadafinance.com/swap)
 - [DODO](https://dodoex.io/en)(Alpha Testnet)
@@ -303,6 +309,12 @@
 - [Bitbyte Finance](https://bitbyte.finance/)
 - [ROCKLY](https://twitter.com/rocklyexchange)
 - [Tradable](https://www.tradable.trade/)
+- [RollDex](https://rolldex.trade/)
+- [VOOI](https://vooi.io/)(Alpha Testnet)
+	- [vooi | ultra capital-efficient stableswap for L2s](https://testnet.vooi.io/)
+- [Meson](https://meson.fi/zh/home)
+- [Velocore](https://velocore.xyz/)
+- [SpaceFi](https://app.spacefi.io/#/home)(Beta Testnet)
 
 
 ### 聚合器
@@ -345,6 +357,10 @@
 	- [Dashboard NFT Launchpad](https://nfts2me.com/app/)
 - [Creco](https://creco.xyz/)
 - [AlienSwap](https://alienswap.xyz/)
+- [INNOVAZ](https://innovaz.io/)
+- [Omnisea](https://omnisea.org/)
+- [zkMarkets](https://www.goerli.zkmarkets.com/scroll-testnet)(Alpha Testnet)
+	- [zkMarkets: Buy & Sell NFT Assets on Scroll testnet Layer 2 Protocol](https://www.goerli.zkmarkets.com/scroll-testnet)
 
 ## 社交
 - [Atem](https://www.atem.io/)
@@ -352,6 +368,7 @@
 - [QuestN](https://questn.com/s)
 - [Pythia](https://www.pythia.company/)
 - [MudAi](https://www.mudai.city/)
+- [Password Protection](https://chatnpc.ai/)
 
 ## 游戏
 - [Galaxy Blitz](https://www.galaxyblitz.world/)
