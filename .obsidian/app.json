@@ -1,16 +1,1 @@
-{
-  "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
-  "newFileLocation": "current",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "./",
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "strictLineBreaks": false,
-  "rightToLeft": false
-}
+{}

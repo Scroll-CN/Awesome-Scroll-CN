@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="Scroll" src="https://scroll.io/static/media/logo_with_text.7c6cafcac81093d6f83b.png" width="200" >
-  <h1>Awesome Scroll 中文</h1>
+  <img alt="Scroll" src="https://pbs.twimg.com/profile_images/1712747051761750016/IH_LeCmi_400x400.jpg" width="200" >
+  <h1>Awesome Scroll CN</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -69,7 +69,11 @@
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
 
+<<<<<<< Updated upstream
 # 📖Scroll 博客
+=======
+# Scroll 博客
+>>>>>>> Stashed changes
 1. [zkEVM介绍](scroll/blogs/1.zkEVM介绍.md)
 2. [Scroll的愿景与价值观](scroll/blogs/2.愿景与价值观.md)
 3. [发布Pre-Alpha测试网](scroll/blogs/3.Pre-Alpha测试网.md)
@@ -82,8 +86,12 @@
 10. [Goerli的Alpha测试网发布](scroll/blogs/10.Goerli的Alpha测试网发布.md)
 
 
+<<<<<<< Updated upstream
 
 # ⚪Scroll 每周更新
+=======
+# Scroll 每周更新
+>>>>>>> Stashed changes
 1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
 2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
 3. [每周更新 #3(2023.02.13~2023.02.19)](scroll/updates/weekly%20updates/Weekly%20Updates%203.md)
@@ -141,16 +149,24 @@
 ## ZK Hack
 - [ZK Hack Lisbon 黑客松获奖名单](scroll/updates/activities/zkHACK/ZK%20Hack%20Lisbon%20黑客松获奖名单.md)
 
+<<<<<<< Updated upstream
 ## HongKong Web3 Festival
 - [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
 
+=======
+## HongKong Web3 Festival 
+- [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
+>>>>>>> Stashed changes
 
 ## Workshop
 - [使用Halo2-ce构建和测试电路](scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md)
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
+<<<<<<< Updated upstream
 
 ## Others
 - [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/zero_knowledge_podcast/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
+=======
+>>>>>>> Stashed changes
 
 # 🕸生态项目
 
@@ -430,7 +446,17 @@
 
 
 
+<<<<<<< Updated upstream
 # 0‍⃣零知识证明
+=======
+- [以太坊KZG可信设置仪式](ethereum/以太坊KZG可信设置仪式.md)
+- [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
+- [Justin Drake: L1 排序的 Based Rollups](ethereum/L1%20排序的%20Based%20Rollups.md)
+- [Cami: 账户抽象(Account Abstraction)](ethereum/账户抽象(Account%20Abstraction).md)
+
+
+# 零知识证明
+>>>>>>> Stashed changes
 
 ## 行业概览
 - [探索零知识跨链桥](zkp/landscape/zk_validator/Exploring%20ZK%20Bridges.md)
