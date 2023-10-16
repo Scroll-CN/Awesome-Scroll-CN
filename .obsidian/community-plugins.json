@@ -1,18 +1,1 @@
-[
-  "table-editor-obsidian",
-  "dataview",
-  "obsidian-icon-folder",
-  "obsidian-regex-replace",
-  "auto-card-link",
-  "obsidian-auto-link-title",
-  "obisidian-note-linker",
-  "wikilinks-to-mdlinks-obsidian",
-  "obsidian-transcription",
-<<<<<<< Updated upstream
-  "consistent-attachments-and-links",
-  "emoji-shortcodes",
-  "obsidian-emoji-toolbar"
-=======
-  "consistent-attachments-and-links"
->>>>>>> Stashed changes
-]
+[]
