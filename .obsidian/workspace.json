@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "563927a0a846a0cf",
+        "id": "33c7b9ee15cb4b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "8907013c7e8ba027",
+            "id": "5c0cdbaa4886ded0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "e14169a67d17c363",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md"
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md"
               }
             }
           },
@@ -167,25 +168,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8907013c7e8ba027",
+  "active": "5c0cdbaa4886ded0",
   "lastOpenFiles": [
+    "scroll/updates/weekly updates/Weekly Updates 35.md",
+    "scroll/updates/weekly updates/img/35-4.png",
+    "scroll/updates/weekly updates/img/35-3.png",
+    "scroll/updates/weekly updates/img/35-2.png",
+    "scroll/updates/weekly updates/img/35-4.jpeg",
+    "scroll/updates/weekly updates/img/35-3.jpeg",
+    "scroll/updates/weekly updates/img/35-2.jpeg",
+    "scroll/updates/weekly updates/img/35-1.png",
+    "scroll/updates/weekly updates/Weekly Updates 34.md",
+    "scroll/updates/activities/ethhongkong/ETH Hong Kong 黑客松.md",
+    "scroll/updates/weekly updates/img/Weekly Updates #35.png",
+    "scroll/updates/activities/ethhongkong/img/cover3.jpeg",
+    "scroll/updates/activities/ethhongkong/img/cover2.png",
+    "scroll/updates/activities/ethhongkong/img",
+    "scroll/updates/activities/ethhongkong",
+    "scroll/testnet/other_docs/在Scroll上部署智能合约的 5 种方法.md",
+    "scroll/testnet/other_docs",
+    "scroll/testnet/other_docs/在 Scroll zkEVM 上部署智能合约.md",
+    "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
+    "scroll/updates/img",
     "scroll/blogs/iczc/Scroll 证明器 Bug Bounty.md",
     "scroll/updates/2022年度回顾.md",
     "scroll/updates/weekly updates/Weekly Updates 32.md",
-    "scroll/updates/weekly updates/Weekly Updates 34.md",
-    "scroll/updates/weekly updates/img/34-12.png",
     "scroll/updates/activities/ethglobal/ETHGlobal New York 黑客松.md",
-    "scroll/updates/activities/ethglobal/img/ethglobal_ny.png",
     "scroll/updates/activities/permissionless/Permissionless 回顾.md",
     "scroll/updates/weekly updates/Weekly Updates 33.md",
-    "scroll/updates/weekly updates/img/34-11.png",
-    "scroll/updates/weekly updates/img/34-10.png",
-    "scroll/updates/weekly updates/img/34-9.png",
-    "scroll/updates/weekly updates/img/34-8.png",
-    "scroll/updates/weekly updates/img/34-7.png",
-    "scroll/updates/weekly updates/img/34-6.png",
-    "scroll/updates/weekly updates/img/34-5.png",
-    "scroll/updates/weekly updates/img/34-2.png",
     "scroll/updates/weekly updates/img/34-7",
     "scroll/updates/activities/ethglobal/img/ethglobal_ny_soho.png.crdownload",
     "scroll/updates/activities/ethglobal/ETHGlobal Lisbon 黑客松.md",
@@ -202,18 +212,9 @@
     "scroll/testnet/alpha_testnet_guide/developer_guide/integrations.md",
     "scroll/testnet/alpha_testnet_guide/developer_guide/contract_deployment.md",
     "scroll/testnet/alpha_testnet_guide/developer_guide/building_on_scroll.md",
-    "scroll/updates/weekly updates/Weekly Updates 1.md",
-    "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md",
     "scroll/updates/weekly updates/img/32-6.jpeg.crdownload",
     "scroll/blogs/iczc/img",
     "scroll/blogs/iczc",
-    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态 草稿.md",
-    "README.md",
-    "scroll/blogs/helena/Scroll 外观改造.md",
-    "scroll/blogs/helena/img",
-    "scroll/blogs/helena",
-    "scroll/updates/weekly updates/img/30-10.png.crdownload",
-    "scroll/blogs/img/13-0.png.crdownload",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
