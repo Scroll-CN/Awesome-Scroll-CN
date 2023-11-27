@@ -2,7 +2,7 @@
 # Alpha测试网
 ## 测试网现状
 截至 2023 年 5 月 7 日  24 : 00，Alpha测试网共有约 4,542,379 个钱包地址，新增了 123,950 个钱包地址，处理了约 23,990,572 笔用户交易，生成了 1,943,327 个区块，平均区块时间约为 3.44 秒
-![](img/14-1.png)
+![](scroll/updates/weekly%20updates/img/14-1.png)
 ## 基础设施
 在基础设施方面，我们改进了批处理和区块大小管理，以在 L2 和 L1 之间实现更可靠的消息中继。我们还对即将推出的生态系统项目数据库进行了一些改进！
 我们将继续致力于支持上海硬分叉后的更新，跨链桥和排序器改进以及 EIP-4844 支持。有关这些更多信息随后即将披露！
@@ -13,7 +13,7 @@
 ## AAVE
 DeFi 的主要支柱之一AAVE，现在已经在 Scroll 的 Alpha 测试网上上线了！
 通过此次合作，Aave 在 Scroll 上的部署将为一系列新用例打开大门，这些用例在最近的 ZK 技术创新下成为可能。 开放协作是我们使命的核心，也是不断推动以太坊创新的核心动力。
-![](img/14-2.png)
+![](scroll/updates/weekly%20updates/img/14-2.png)
 在 Scroll 上使用[@AaveAave](https://twitter.com/AaveAave)，请跳转到 [https://app.aave.com](https://t.co/gaYQ6Y2xD4) 并按照以下步骤操作：
 1. 首先，您需要启用测试网模式。 导航到右上角，在设置选项卡下，选择“testnet 模式”，如下所示。
 ![](img/14-2-1.png)
@@ -28,7 +28,7 @@ Unifra 开发了社区的第一个区块浏览器。
 - 浏览器地址：scrollexplorer.unifra.io
 - Github仓库：https://github.com/unifra20/scroll-explorer
 - 开发者文档：http://docs.unifra.io/reference/scroll-explorer
-![](img/14-3.png)
+![](scroll/updates/weekly%20updates/img/14-3.png)
 
 ## Hana
 Hana 通过集成 SDK 为 Scroll 上的应用程序带来隐私功能。zkEVM 的可扩展性和zkUTXO 的隐私结合，将使新的实用程序成为可能。
