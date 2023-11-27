@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "5bbc95fb9d13ac90",
+        "id": "28c6b8eb6fc40bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "8f63f7a00d97ca1b",
+            "id": "81a99e06873e7deb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9380abdfad600c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6692a09299a77338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scroll/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.5
   },
   "right": {
     "id": "035b50c092a63afc",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md"
               }
             }
           }
@@ -156,6 +177,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f63f7a00d97ca1b",
-  "lastOpenFiles": []
+  "active": "9380abdfad600c3a",
+  "lastOpenFiles": [
+    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态 草稿.md",
+    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
+    "scroll/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
+    "scroll/updates/weekly updates/Weekly Updates 39.md",
+    "scroll/updates/activities/devconnect/Scroll x Devconnect Istanbul 回顾.md",
+    "scroll/updates/weekly updates/Weekly Updates 40.md",
+    "scroll/updates/activities/devconnect/img/recap_0.jpeg",
+    "scroll/updates/weekly updates/Weekly Updates 38.md",
+    "scroll/updates/weekly updates/img/Weekly Updates #40.png",
+    "scroll/updates/weekly updates/img/40-12.png",
+    "scroll/updates/weekly updates/img/40-11.png",
+    "scroll/updates/weekly updates/img/40-10.png",
+    "scroll/updates/weekly updates/img/40-9.png",
+    "scroll/updates/weekly updates/img/40-8.png",
+    "scroll/updates/weekly updates/img/40-6.png",
+    "scroll/updates/weekly updates/img/40-5.png",
+    "scroll/updates/weekly updates/img/40-0.png",
+    "scroll/updates/activities/devconnect/Scroll x Devconnect Istanbul 活动一览.md",
+    "scroll/updates/activities/devconnect/img/recap_4.jpeg.crdownload",
+    "scroll/updates/activities/devconnect/img/recap_3.jpeg.crdownload",
+    "scroll/updates/activities/devconnect/ETHGlobal Istanbul 黑客松回顾.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal Lisbon 黑客松.md",
+    "scroll/updates/activities/devconnect/img",
+    "scroll/updates/activities/ethglobal/ETHGlobal New York 黑客松.md",
+    "scroll/updates/weekly updates/Weekly Updates 1.md",
+    "scroll/updates/activities/devconnect/18",
+    "scroll/updates/activities/devconnect/16.avif",
+    "scroll/updates/activities/devconnect/15.avif",
+    "scroll/updates/activities/devconnect/15.avif.crdownload",
+    "scroll/updates/activities/devconnect/14",
+    "scroll/updates/activities/devconnect/13",
+    "scroll/updates/activities/devconnect/12.avif",
+    "scroll/updates/activities/scrollmeetup/Scroll Community Meetups.md",
+    "scroll/updates/weekly updates/Weekly Updates 37.md",
+    "scroll/blogs/15. Scroll 的安全考量.md",
+    "scroll/updates/weekly updates/Weekly Updates 36.md",
+    "scroll/updates/activities/ethglobal/ETHGlobal 线上黑客松回顾.md",
+    "scroll/blogs/17.  2023年10月社区回顾.md",
+    "scroll/updates/activities/Scroll x Hong Kong Web3 Festival 2023 活动预览.md",
+    "scroll/blogs/16. Scroll Origins NFT 发布.md",
+    "scroll/ecosystem/infra/Pyth.md",
+    "scroll/updates/weekly updates/Weekly Updates 29.md",
+    "scroll/updates/weekly updates/Weekly Updates 22.md",
+    "scroll/ecosystem/infra/Dora.md",
+    "scroll/ecosystem/infra/Ankr.md",
+    "scroll/ecosystem/infra/Blast API.md"
+  ]
 }

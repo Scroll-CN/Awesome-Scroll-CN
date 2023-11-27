@@ -1,3 +1,8 @@
+主网相关链接
+https://pyth.network/blog/pyth-price-feeds-on-scroll
+https://docs.pyth.network/documentation
+
+
 Pyth提供各种资产类别的实时定价数据，包括加密货币，股票，外汇和商品。此库允许您在基于 EVM 的网络上使用这些实时价格。
 合约地址：`0xA2aa501b19aff244D90cc15a4Cf739D2725B5729`
 https://sepolia-blockscout.scroll.io/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729
