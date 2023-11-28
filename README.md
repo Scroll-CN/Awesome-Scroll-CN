@@ -73,6 +73,9 @@
 # 📖Scroll 博客
 =======
 # Scroll 博客
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 1. [zkEVM介绍](scroll/blogs/1.zkEVM介绍.md)
 2. [Scroll的愿景与价值观](scroll/blogs/2.愿景与价值观.md)
@@ -91,6 +94,9 @@
 # ⚪Scroll 每周更新
 =======
 # Scroll 每周更新
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 1. [每周更新 #1(2023.01.30~2023.02.05)](scroll/updates/weekly%20updates/Weekly%20Updates%201.md)
 2. [每周更新 #2(2023.02.06~2023.02.12)](scroll/updates/weekly%20updates/Weekly%20Updates%202.md)
@@ -150,9 +156,14 @@
 - [ZK Hack Lisbon 黑客松获奖名单](scroll/updates/activities/zkHACK/ZK%20Hack%20Lisbon%20黑客松获奖名单.md)
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## HongKong Web3 Festival
 - [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
 
+=======
+## HongKong Web3 Festival 
+- [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
+>>>>>>> Stashed changes
 =======
 ## HongKong Web3 Festival 
 - [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
@@ -162,9 +173,12 @@
 - [使用Halo2-ce构建和测试电路](scroll/updates/activities/workshop/使用Halo2-ce构建和测试电路.md)
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 ## Others
 - [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/zero_knowledge_podcast/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
@@ -447,8 +461,11 @@
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # 0‍⃣零知识证明
 =======
+=======
+>>>>>>> Stashed changes
 - [以太坊KZG可信设置仪式](ethereum/以太坊KZG可信设置仪式.md)
 - [Oghrul Maharramov: 多验证者应对跨链桥实现漏洞](ethereum/多验证者应对跨链桥实现漏洞.md)
 - [Justin Drake: L1 排序的 Based Rollups](ethereum/L1%20排序的%20Based%20Rollups.md)

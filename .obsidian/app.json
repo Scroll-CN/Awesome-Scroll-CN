@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
@@ -7,4 +8,10 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true
+=======
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
+>>>>>>> Stashed changes
 }
