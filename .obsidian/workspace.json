@@ -19,6 +19,7 @@
               }
             }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           },
           {
             "id": "6692a09299a77338",
@@ -31,6 +32,8 @@
                 "source": false
               }
             }
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
           }
@@ -101,8 +104,13 @@
               "type": "backlink",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
                 "collapseAll": false,
+=======
+                "file": "README.md",
+                "collapseAll": true,
+>>>>>>> Stashed changes
 =======
                 "file": "README.md",
                 "collapseAll": true,
@@ -177,6 +185,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "9380abdfad600c3a",
   "lastOpenFiles": [
     "scroll/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
@@ -227,6 +236,10 @@
 =======
   "active": "7772c04417828d38",
   "lastOpenFiles": [
+=======
+  "active": "7772c04417828d38",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
     "README.md",
     "scroll/updates/activities/ethbeijing/ETH Beijing 黑客松.md",

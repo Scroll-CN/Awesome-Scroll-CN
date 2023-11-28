@@ -74,6 +74,9 @@
 =======
 # Scroll 博客
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -95,6 +98,9 @@
 =======
 # Scroll 每周更新
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -157,9 +163,14 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## HongKong Web3 Festival
 - [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
 
+=======
+## HongKong Web3 Festival 
+- [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
+>>>>>>> Stashed changes
 =======
 ## HongKong Web3 Festival 
 - [Scroll x Hong Kong Web3 Festival 2023 活动预览](scroll/updates/activities/hongkong_web3_festival_2023/Scroll%20x%20Hong%20Kong%20Web3%20Festival%202023%20活动预览.md)
@@ -174,9 +185,12 @@
 - [zkEVM 设计，优化和应用](scroll/updates/activities/workshop/zkEVM%20设计，优化和应用.md)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 ## Others
 - [Zero Knowledge Podcast：开放构建Scroll](scroll/updates/activities/zero_knowledge_podcast/Zero%20Knowledge%20Podcast：开放构建Scroll.md)
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -462,8 +476,11 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # 0‍⃣零知识证明
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 - [以太坊KZG可信设置仪式](ethereum/以太坊KZG可信设置仪式.md)

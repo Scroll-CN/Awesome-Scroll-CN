@@ -1,5 +1,6 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
@@ -9,9 +10,14 @@
   },
   "alwaysUpdateLinks": true
 =======
+=======
+>>>>>>> Stashed changes
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
