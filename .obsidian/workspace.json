@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81a99e06873e7deb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9380abdfad600c3a",
             "type": "leaf",
             "state": {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +170,10 @@
   },
   "active": "9380abdfad600c3a",
   "lastOpenFiles": [
-    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态 草稿.md",
-    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
     "scroll/scroll talk/Scroll Talk 3：zkEVM 开发之路.md",
+    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
+    "scroll/updates/activities/devconnect/img/recap_5.jpeg",
+    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态 草稿.md",
     "scroll/updates/weekly updates/Weekly Updates 39.md",
     "scroll/updates/activities/devconnect/Scroll x Devconnect Istanbul 回顾.md",
     "scroll/updates/weekly updates/Weekly Updates 40.md",
@@ -195,7 +187,6 @@
     "scroll/updates/weekly updates/img/40-8.png",
     "scroll/updates/weekly updates/img/40-6.png",
     "scroll/updates/weekly updates/img/40-5.png",
-    "scroll/updates/weekly updates/img/40-0.png",
     "scroll/updates/activities/devconnect/Scroll x Devconnect Istanbul 活动一览.md",
     "scroll/updates/activities/devconnect/img/recap_4.jpeg.crdownload",
     "scroll/updates/activities/devconnect/img/recap_3.jpeg.crdownload",
@@ -223,7 +214,6 @@
     "scroll/updates/weekly updates/Weekly Updates 29.md",
     "scroll/updates/weekly updates/Weekly Updates 22.md",
     "scroll/ecosystem/infra/Dora.md",
-    "scroll/ecosystem/infra/Ankr.md",
-    "scroll/ecosystem/infra/Blast API.md"
+    "scroll/ecosystem/infra/Ankr.md"
   ]
 }
