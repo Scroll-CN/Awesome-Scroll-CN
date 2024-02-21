@@ -3,7 +3,7 @@
 - **活动链接**：https://lu.ma/7pqsjwxd
 - **地点**：Club DAO, 21F, Gold Union Commercial Building, 70-72 Connaught Road West, Sheung Wan, Hong Kong
 - **时间**：4 月 12 日 19:00 - Late
-![](../weekly%20updates/img/9-7.png)
+![](9-7.png)
 
 与此同时，Scroll 还将同时参与其他主办方举办的各类活动，如下是 Scroll 在香港 Web3 嘉年华的完整活动预览
 

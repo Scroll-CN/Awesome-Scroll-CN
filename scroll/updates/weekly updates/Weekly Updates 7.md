@@ -14,22 +14,22 @@
 ## ETHDenver
 ## 黑客松获奖名单
 - Scroll本周公布了在ETHDenver黑客松上，三个Bounty赛道共14个获奖项目
-![cover](img/7-1.png)
+![cover](scroll/updates/weekly%20updates/img/7-1.png)
 
 
 
 ## ETHGlobal
 ### zkRollup 和 zkEVM 介绍
 在ETHGlobal：Scaling Ethereum 2023黑客松活动中，Scroll的联合创始人 Haichen Shen做了介绍 ZK rollups 和 zkEVMs 的演讲
-![cover](img/7-2.png)
+![cover](scroll/updates/weekly%20updates/img/7-2.png)
 
 ### Scroll 扩容以太坊
 在ETHGlobal：Scaling Ethereum 2023黑客松活动中，Scroll的开发者关系 Daniel Helm 做了 Scroll 如何扩容以太坊的演讲
-![cover](img/7-3.png)
+![cover](7-3.png)
 
 
 ## 研究：L1 排序的 Based Rollups
-![cover](img/7-4.png)
+![cover](7-4.png)
 
 # 活动预告
 
@@ -41,11 +41,11 @@
 → 以及更多内容！ 
 时间：北京时间 3月21日 上午 9 : 00 
 地点：https://discord.com/invite/scroll
-![cover](img/7-5.png)
+![cover](7-5.png)
 
 
 ## 开发者教育
 想学习如何构建 ZK 电路但不知道从哪里开始？Scroll的电路工程师 Mason Liang 将在 3 月 21 日的免费在线研讨会中，介绍 halo2-ce ！
 时间：北京时间 3月21日 下午 17 : 00 
 注册链接： https://www.eventbrite.com/e/building-and-testing-circuits-with-halo2-ce-an-introductory-workshop-tickets-588985490457
-![cover](img/7-6.png)
+![cover](7-6.png)

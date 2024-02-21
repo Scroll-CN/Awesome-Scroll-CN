@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1e7a903600c29f0d",
+        "id": "f71c9e65b349debe",
         "type": "tabs",
         "children": [
           {
-            "id": "1faf967ea51e9f74",
+            "id": "27a33ab9e211752e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 44.md",
+                "file": "scroll/updates/rollcall/RollCall 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aac42a97d60778a5",
+            "id": "b0751a2d6ab6a60a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/2023 年度回顾.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 50.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2f23dd2877f84fe0",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 44.md",
+                "file": "scroll/updates/rollcall/RollCall 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 44.md",
+                "file": "scroll/updates/rollcall/RollCall 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 44.md"
+                "file": "scroll/updates/rollcall/RollCall 3.md"
               }
             }
           }
@@ -172,37 +171,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1faf967ea51e9f74",
+  "active": "27a33ab9e211752e",
   "lastOpenFiles": [
-    "scroll/updates/2023 年度回顾.md",
-    "scroll/updates/2022年度回顾.md",
-    "scroll/updates/weekly updates/img/Weekly Updates.png",
-    "scroll/updates/img/年度回顾2023-8.jpeg",
-    "scroll/updates/img/年度回顾2023-7.jpeg",
-    "scroll/updates/img/年度回顾2023-6.jpeg",
-    "scroll/updates/img/年度回顾2023-5.jpeg",
-    "scroll/updates/img/年度回顾2023-4.jpeg",
-    "scroll/updates/img/年度回顾2023-3.jpeg",
-    "scroll/updates/img/年度回顾2023-2.jpeg",
-    "scroll/updates/img/年度回顾2023-1.png",
+    "scroll/updates/weekly updates/Weekly Updates 50.md",
+    "scroll/updates/rollcall/RollCall 3.md",
+    "scroll/updates/rollcall/RollCall 2.3.md",
+    "scroll/updates/weekly updates/Weekly Updates 48.md",
+    "scroll/updates/weekly updates/Weekly Updates 49.md",
+    "scroll/updates/weekly updates/img/49-10.png",
+    "scroll/updates/weekly updates/img/48-10.png",
+    "scroll/updates/weekly updates/img/49-8.png",
+    "scroll/updates/weekly updates/img/49-7.png",
+    "scroll/updates/weekly updates/img/49-0.png",
+    "scroll/updates/weekly updates/img/Weekly Updates #49.png",
+    "scroll/updates/weekly updates/img/49-12.png",
+    "scroll/updates/weekly updates/img/49-3.png",
+    "scroll/updates/rollcall/cover.jpeg",
+    "scroll/updates/rollcall",
+    "scroll/updates/weekly updates/img/49-2.png",
+    "scroll/updates/weekly updates/Weekly Updates 47.md",
+    "scroll/blogs/dune/Scroll 上线 Dune ！.md",
+    "scroll/blogs/22. 主网首次升级：降低跨链成本.md",
+    "scroll/updates/weekly updates/Weekly Updates 1.md",
+    "scroll/blogs/dune/Dune-supports-Scroll-3.png.crdownload",
+    "scroll/blogs/dune",
+    "scroll/blogs/23. Aave On Scroll：第一个上线的 zkEVM.md",
+    "scroll/blogs/21. 扩容安全性：Scroll 的多证明器实现.md",
+    "scroll/updates/activities/Scroll 贴纸设计征集赛投票.md",
+    "scroll/updates/activities/img/stickers-13.png.crdownload",
+    "scroll/updates/activities/img/stickers-12.png.crdownload",
+    "scroll/updates/activities/img/stickers-10.jpeg.crdownload",
+    "scroll/updates/activities/img/stickers-9.gif.crdownload",
+    "scroll/updates/activities/img/stickers-5.png.crdownload",
+    "scroll/updates/activities/Quill and Scribes 开发者征文竞赛.md",
+    "scroll/updates/weekly updates/Weekly Updates 39.md",
+    "scroll/updates/weekly updates/Weekly Updates 41.md",
     "scroll/updates/weekly updates/Weekly Updates 44.md",
     "scroll/updates/weekly updates/Weekly Updates 43.md",
-    "scroll/updates/weekly updates/img/44-8.png",
+    "scroll/updates/weekly updates/Weekly Updates 45.md",
+    "scroll/updates/weekly updates/Weekly Updates 46.md",
     "scroll/blogs/20.  Scroll Origins NFT 设计理念.md",
-    "scroll/blogs/19. 2023 年 11 月社区回顾.md",
-    "scroll/updates/office hour/Office Hour 回顾 1.md",
-    "scroll/updates/activities/ethglobal/ETHIndia 回顾.md",
-    "scroll/blogs/17.  2023年10月社区回顾.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal Tokyo 黑客松.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal New York 黑客松.md",
-    "scroll/updates/activities/ethglobal/ETHGlobal：Scaling Ethereum 2023 黑客松获奖名单.md",
-    "scroll/blogs/18. 后 EIP4844 时代的数据可用性.md",
+    "scroll/updates/2023 年度回顾.md",
     "scroll/updates/weekly updates/Weekly Updates 42.md",
-    "scroll/updates/weekly updates/Weekly Updates 41.md",
-    "scroll/updates/office hour",
-    "scroll/updates/weekly updates/Weekly Updates 40.md",
-    "scroll/updates/weekly updates/Weekly Updates 1.md",
-    "scroll/scroll talk/Scroll Talk 2：共建Scroll 生态.md",
-    "scroll/scroll talk/Scroll Talk 1：Scroll与ZK同行.md"
+    "scroll/updates/weekly updates/Weekly Updates 37.md",
+    "scroll/updates/weekly updates/Weekly Updates 5.md",
+    "scroll/updates/2022年度回顾.md",
+    "scroll/updates/office hour"
   ]
 }
