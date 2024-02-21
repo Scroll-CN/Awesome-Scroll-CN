@@ -14,7 +14,7 @@ Pitstop Protocol 为游戏行业提供了通用解决方案
 1. 区块链集成：通过利用智能合约接口和体育数据预言机，Pitstop 协议简化了实时交互式游戏元素的集成，创造了不断演化的环境，增强了玩家的参与度。
 2. 灵活性：适用于各种体育类型，提供了一种通用解决方案，扩大了区块链游戏的范围，并将新一波玩家引入 Web3。
 3. 用户参与度：通过战略性地使用动态且引人入胜的数字资产以及潜在的可选财务激励措施，Pitstop 协议提高了玩家的参与度，推动游戏超越了传统限制。
-![](img/Pitstop%20Protocol.png)
+![](Pitstop%20Protocol.png)
 [Pitstop Protocol - Eth Barcelona Hackathon - By Team Somnio - YouTube](https://www.youtube.com/watch?v=sHwmP61elM4)
 
 - Devfolio: [Pitstop Protocol | Devfolio](https://devfolio.co/projects/pitstop-protocol-fb2e)

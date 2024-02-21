@@ -7,7 +7,7 @@
 - 自1月9日Pre-Alpha测试网重置以来，用户数据和交易流量有了大幅跃升。
 - 截至2023年2月5日00:00，Pre-Alpha测试网共有约790,143钱包地址，处理了约8,615,061笔用户交易，生成了1,293,481个区块，平均区块时间约为3秒。
 - 同时我们在跨链桥的v2版本已经取得了一些进展，相信会带来更丝滑的用户体验。
-![Testnet](img/1-0.jpeg)
+![Testnet](1-0.jpeg)
 
 ## Uniswap v3实例
 - 在经过Uniswap DAO的Temperature Check阶段投票后，我们希望得到社区的反馈，并将Uniswap带给更多的用户。
@@ -18,7 +18,7 @@
 	- NFT Position Manager: `0x569c5BcB406efC68Ea22C028058554488bfE50dd`
 	- Router: `0xA207aF0eB6E87403A691f3112A4d49FC1CCd647A`
 	- 更多合约地址详见：[https://guide.scroll.io/developers/pre-alpha-testnet-contracts](https://guide.scroll.io/developers/pre-alpha-testnet-contracts)
-![Uniswap](img/1-1.jpeg)
+![Uniswap](1-1.jpeg)
 
 ## Goerli测试网预告
 后续部署在Goerli测试网的系统已经准备完毕，更多的细节将在未来公布。
@@ -40,7 +40,7 @@
 
 ## 基础设施
 - 开发者方面，我们正在为开发者提供更多的基础设施支持，The Graph(@graphprotocol) 即将支持Scroll网络。
-![Graph](img/1-2.jpeg)
+![Graph](1-2.jpeg)
 
 ## 开发者文档
 - 我们的开发者文档已经进行了全面升级，你可以在其中([http://guide.scroll.io](http://guide.scroll.io))找到：
@@ -49,7 +49,7 @@
 	- 全新的开发者指南
 	- 合约部署教程
 	- 现有内容的整合
-![Doc](img/1-3.jpeg)
+![Doc](1-3.jpeg)
 
 # 以太坊社区
 ## 研究：账户抽象
@@ -59,7 +59,7 @@
 
 ## ETH Denver
 - Scroll是ETH Denver的赞助商，也将在现场亮相，如果你打算在2.24~3.5期间前往科罗拉多，欢迎来到我们的展位与我们交流。
-![Doc](img/1-4.jpeg)
+![Doc](1-4.jpeg)
 
 
 ## Gitcoin资助

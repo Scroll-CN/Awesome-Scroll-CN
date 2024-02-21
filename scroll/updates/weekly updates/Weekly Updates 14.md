@@ -16,11 +16,11 @@ DeFi 的主要支柱之一AAVE，现在已经在 Scroll 的 Alpha 测试网上�
 ![](scroll/updates/weekly%20updates/img/14-2.png)
 在 Scroll 上使用[@AaveAave](https://twitter.com/AaveAave)，请跳转到 [https://app.aave.com](https://t.co/gaYQ6Y2xD4) 并按照以下步骤操作：
 1. 首先，您需要启用测试网模式。 导航到右上角，在设置选项卡下，选择“testnet 模式”，如下所示。
-![](img/14-2-1.png)
+![](14-2-1.png)
 2. 单击“Ethereum”旁边的下拉菜单并选择“Scroll Alpha”。
-![](img/14-2-2.png)
+![](14-2-2.png)
 3. 最后，您需要申请一些测试网资金才能开始与之进行交互。 您可以使用位于页面顶部的“水龙头”菜单请求测试网资金。
-![](img/14-2-3.png)
+![](14-2-3.png)
 
 ## Unifra
 Unifra 开发了社区的第一个区块浏览器。
@@ -32,18 +32,18 @@ Unifra 开发了社区的第一个区块浏览器。
 
 ## Hana
 Hana 通过集成 SDK 为 Scroll 上的应用程序带来隐私功能。zkEVM 的可扩展性和zkUTXO 的隐私结合，将使新的实用程序成为可能。
-![](img/14-4.png)
+![](14-4.png)
 
 
 # 研究
 
 Scroll 研究员 Andy Arditi 在社区研究论坛上发表了关于“证明溢出”的文章。
 文章核心描述的是交易“太大”而无法放入 zkEVM 电路，使其无法证明。无法证明的批次无法在 L1 上完成，也将停止后续批次的完成。
-![](img/14-5.png)
+![](14-5.png)
 
 # 活动预告
 
 如果你在里斯本，欢迎报名参加由[@W3blabLisbon](https://twitter.com/W3blabLisbon)主办的黑客日活动！
 时间：5月12日 11:00 to 17:00 (GMT+1)
 报名链接：https://lu.ma/scroll_ETHLisbon_2023
-![](img/14-6.png)
+![](14-6.png)

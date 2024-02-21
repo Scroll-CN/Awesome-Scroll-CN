@@ -5,7 +5,7 @@
 
 Scroll Alpha 测试网已经突破了 100 万个区块！
 截至 2023 年 4 月 9 日  23 : 30，Alpha测试网共有约 2,817,475 个钱包地址，新增了 537,080 个钱包地址，处理了约 14,602,133 笔用户交易，生成了 1,162,476 个区块，平均区块时间约为 3 秒。
-![](img/10-1.png)
+![](scroll/updates/weekly%20updates/img/10-1.png)
 
 ##  跨链桥更新
 
@@ -24,8 +24,8 @@ Blast API 现已支持 Scroll 网络，公共API为：https://blastapi.io/public
 -   连接您的 Metamask 钱包或 Wallet Connect，然后按照以下步骤操作
 -   创建一个新项目以生成您的 API 端点或使用你已创建的项目之一
 -   在项目空间内，转到可用端点并激活 Scroll 。
-![](img/10-2.png)
-![](img/10-2.gif)
+![](10-2.png)
+![](10-2.gif)
 
 ## Intmax
 NTMAX 很高兴地宣布与 Scroll 的 zkEVM的合作。
@@ -33,11 +33,11 @@ NTMAX 很高兴地宣布与 Scroll 的 zkEVM的合作。
 INTMAX 的无状态 zkRollup 结合了高可扩展性和可定制化隐私，这是常规 Rollups 无法实现的。在没有内部 VM 的情况下，INTMAX 能够通过与 Scroll 的 zkEVM rollup 集成为 Scroll 生态系统提供上述优势。
 
 INTMAX 的一个关键特性是它是无状态的，这意味着验证器不保留任何数据。这样做的一些主要优点是它可以实现排序的去中心化，从而在基本共识级别并行化流程，并且用户可以自己保存数据。INTMAX 利用其无状态特性来解决许多仍然存在于 Layer 2 中的问题，例如数据可用性效率、去中心化排序器、互操作性和隐私性。
-![](img/10-3.png)
+![](10-3.png)
 
 ## Zada Finance
 Zada Finance 是一个跨Rollup的去中心化订单簿交易所。Zada Finance 旨在通过 Rollups 技术为用户提供更快、更便宜、更多样化的交易体验。我们将从 AMM 过渡到 Order Book，并专注于技术驱动的解决方案，以解决 Rollup 之间流动性的碎片化问题。
-![](img/10-4.png)
+![](10-4.png)
 
 # 团队
 
@@ -65,14 +65,14 @@ https://scroll.io/join-us
 
 ## ETHBeijing
 由 PKU Blockchain DAO 和 Web3 开源大学 WTF Academy 联合主办的黑客松活动，已于4月5日—8日在北京成功举办。本次黑客松获得了来自以太坊基金会ESP，Scroll，和Mask Network项目的支持，总奖池达30000美元。比赛共有来自全球各地的超400名选手报名，其中主要以大学生群体为主。团队们提交的作品为以太坊生态贡献了更多的应用和基础设施，作品涉及三个赛道：Open research ,Public Goods和 Layer 2 。经过评委对三个赛道项目的打分评比，最终评选出每个赛道的前5名，共15个优秀项目脱颖而
-![](img/10-5.png)
+![](10-5.png)
 
 ## ZK Hack Lisbon
 
 3 月 31 日至 4 月 2 日，在这个为期 3 天的活动中，我们将 ZK Hack 社区的成员聚集在一起，试验并构建一些很酷的基于 zk 的应用程序！
 
 Scroll 为部署在Scroll上的应用提供了总计 5000 美元的赏金，
-![](img/10-6.png)
+![](10-6.png)
 
 
 # 活动预告
@@ -82,12 +82,12 @@ Scroll 为部署在Scroll上的应用提供了总计 5000 美元的赏金，
 我们很高兴地宣布 Scroll 团队将参加 4 月 14 日至 16 日 ETH Global 的 ETHTokyo 黑客马拉松！我们为在 Scroll 上构建的黑客提供了 5,000 美元的赏金。在这里找到
 📜 **在 Scroll 上部署您的智能合约**- 总计 5,000 美元（奖池奖）
 这应该只是意味着改变你的 RPC！通过在 Goerli 上的 Scroll Alpha 测试网上部署项目的智能合约来试用 Scroll 的下一代 zk-rollup。借助 Scroll 的 zkEVM，用户将受益于更低的成本、更短的出块时间和更高的吞吐量——您无需修改​​ Solidity 代码。请务必验证您的合同，以便我们确认您的部署！
-![](img/10-7.png)
+![](10-7.png)
 
 ## zkNight Tokyo
 此外，Scroll 和 Intmax 将于 4 月 17 日，即 ETHGlobal 东京站结束后的第二天共同举办一场休闲活动。加入我们，就 zkRollup 的所有事情进行随意的对话！更多信息在这里
 https://lu.ma/7nojetf4
-![](img/10-8.png)
+![](10-8.png)
 
 ## Hong Kong Web3 Festival 2023
 

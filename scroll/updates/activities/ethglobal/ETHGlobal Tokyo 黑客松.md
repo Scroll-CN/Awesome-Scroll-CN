@@ -6,7 +6,7 @@
 
 
 # BorrowFi
-![](img/borrowfi.png)
+![](borrowfi.png)
 DeFi 生态中的许多借贷协议具有共同的特征（它们都有利率，并且涉及抵押和清算），但没有使用标准。我们提出了一个新的 EIP-6882 标准来解决这个问题，并创建了一个聚合器 dapp，可以从集成池中找到最佳费率。这使用户能够利用不同的协议而无需搜索最佳利率，将极大地改善 DeFi 借贷的体验。
 
 BorrowFi首先创建了一个新标准，可用于包装借贷协议以规范其合约方法。然后我们用它来检索现有的贷款池，如 Aave V3 和 Curve。最后，通过我们的聚合器合约，我们的 dapp 可以查询最佳利率并触发以这些利率借款的交易调用。
@@ -40,7 +40,7 @@ GaaS ( Gate-as-a-Service) 可以使用任意链上事件和交易来为任何应
 
 
 # SocialSecuritySnap
-![](img/SocialSnap.png)
+![](SocialSnap.png)
 该项目旨在通过开发插件来提高安全性、用户体验并提供额外服务，从而增强名为 MetaMask Snap 的以太坊区块链钱包。MetaMask 是一个浏览器扩展，允许用户轻松管理加密货币和数字资产，以及执行交易。该项目的主要目标如下：
 
 主要组件包括 MetaMask Snaps、Lens Protocol、GPT-4、Worldcoin 和 Superfluid。以下概述了每种技术是如何集成的以及它们在项目中的各自作用：
