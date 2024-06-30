@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f71c9e65b349debe",
+        "id": "61ad2692c4e0a5fe",
         "type": "tabs",
         "children": [
           {
-            "id": "27a33ab9e211752e",
+            "id": "5aaec9eb2b6f5dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scroll/updates/rollcall/RollCall 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0751a2d6ab6a60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scroll/updates/weekly updates/Weekly Updates 50.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 64.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "right": {
     "id": "2f23dd2877f84fe0",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scroll/updates/rollcall/RollCall 3.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scroll/updates/rollcall/RollCall 3.md",
+                "file": "scroll/updates/weekly updates/Weekly Updates 64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scroll/updates/rollcall/RollCall 3.md"
+                "file": "scroll/updates/weekly updates/Weekly Updates 64.md"
               }
             }
           }
@@ -158,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,51 +158,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27a33ab9e211752e",
+  "active": "5aaec9eb2b6f5dbe",
   "lastOpenFiles": [
-    "scroll/updates/weekly updates/Weekly Updates 50.md",
-    "scroll/updates/rollcall/RollCall 3.md",
-    "scroll/updates/rollcall/RollCall 2.3.md",
-    "scroll/updates/weekly updates/Weekly Updates 48.md",
-    "scroll/updates/weekly updates/Weekly Updates 49.md",
-    "scroll/updates/weekly updates/img/49-10.png",
-    "scroll/updates/weekly updates/img/48-10.png",
-    "scroll/updates/weekly updates/img/49-8.png",
-    "scroll/updates/weekly updates/img/49-7.png",
-    "scroll/updates/weekly updates/img/49-0.png",
-    "scroll/updates/weekly updates/img/Weekly Updates #49.png",
-    "scroll/updates/weekly updates/img/49-12.png",
-    "scroll/updates/weekly updates/img/49-3.png",
-    "scroll/updates/rollcall/cover.jpeg",
-    "scroll/updates/rollcall",
-    "scroll/updates/weekly updates/img/49-2.png",
-    "scroll/updates/weekly updates/Weekly Updates 47.md",
-    "scroll/blogs/dune/Scroll 上线 Dune ！.md",
-    "scroll/blogs/22. 主网首次升级：降低跨链成本.md",
-    "scroll/updates/weekly updates/Weekly Updates 1.md",
-    "scroll/blogs/dune/Dune-supports-Scroll-3.png.crdownload",
-    "scroll/blogs/dune",
-    "scroll/blogs/23. Aave On Scroll：第一个上线的 zkEVM.md",
-    "scroll/blogs/21. 扩容安全性：Scroll 的多证明器实现.md",
-    "scroll/updates/activities/Scroll 贴纸设计征集赛投票.md",
-    "scroll/updates/activities/img/stickers-13.png.crdownload",
-    "scroll/updates/activities/img/stickers-12.png.crdownload",
-    "scroll/updates/activities/img/stickers-10.jpeg.crdownload",
-    "scroll/updates/activities/img/stickers-9.gif.crdownload",
-    "scroll/updates/activities/img/stickers-5.png.crdownload",
-    "scroll/updates/activities/Quill and Scribes 开发者征文竞赛.md",
-    "scroll/updates/weekly updates/Weekly Updates 39.md",
-    "scroll/updates/weekly updates/Weekly Updates 41.md",
-    "scroll/updates/weekly updates/Weekly Updates 44.md",
-    "scroll/updates/weekly updates/Weekly Updates 43.md",
-    "scroll/updates/weekly updates/Weekly Updates 45.md",
-    "scroll/updates/weekly updates/Weekly Updates 46.md",
-    "scroll/blogs/20.  Scroll Origins NFT 设计理念.md",
-    "scroll/updates/2023 年度回顾.md",
-    "scroll/updates/weekly updates/Weekly Updates 42.md",
-    "scroll/updates/weekly updates/Weekly Updates 37.md",
-    "scroll/updates/weekly updates/Weekly Updates 5.md",
-    "scroll/updates/2022年度回顾.md",
-    "scroll/updates/office hour"
+    "scroll/blogs/24. Blobs 到来！Scroll Bernoulli 升级.md",
+    "scroll/updates/weekly updates/Weekly Updates 64.md",
+    "scroll/updates/weekly updates/img/Weekly Updates #65.png",
+    "scroll/blogs/Scroll Curie 升级：压缩 Gas 费用.md",
+    "scroll/updates/activities/V0RTEx 01 黑客松.md",
+    "scroll/blogs/img/29-0.png",
+    "scroll/updates/weekly updates/img/64-7.png",
+    "scroll/updates/weekly updates/img/64-6.png",
+    "scroll/updates/weekly updates/img/64-5.png",
+    "scroll/updates/weekly updates/img/64-4.png",
+    "scroll/updates/weekly updates/img/63-4 copy.png",
+    "scroll/updates/weekly updates/img/64-2.png",
+    "scroll/updates/weekly updates/img/63-2 copy.png",
+    "scroll/updates/weekly updates/img/Weekly Updates #64.png",
+    "scroll/updates/weekly updates/Weekly Updates 63.md",
+    "scroll/blogs/28. Session One - DeFi on Scroll.md",
+    "scroll/updates/weekly updates/img/64-7.jpeg.crdownload",
+    "scroll/updates/sessions/Scroll Sessions FAQ.md",
+    "scroll/updates/weekly updates/Weekly Updates 57.md",
+    "scroll/updates/weekly updates/Weekly Updates 58.md",
+    "scroll/updates/weekly updates/Weekly Updates 59.md",
+    "scroll/updates/weekly updates/Weekly Updates 60.md",
+    "scroll/updates/weekly updates/Weekly Updates 61.md",
+    "scroll/updates/weekly updates/Weekly Updates 62.md",
+    "scroll/updates/sessions/Untitled.md",
+    "scroll/updates/weekly updates/img/63-11.jpeg.crdownload",
+    "scroll/updates/weekly updates/img/63-9.jpeg.crdownload",
+    "scroll/ecosystem/infra/跨链桥.md",
+    "scroll/blogs/27. 智能合约钱包的终局：密钥库.md",
+    "scroll/blogs/img/27-7.png.crdownload",
+    "scroll/blogs/img/27-5.png.crdownload",
+    "scroll/blogs/img/27-4.png.crdownload",
+    "scroll/blogs/8.解析证明生成.md",
+    "scroll/blogs/5.架构概览.md",
+    "scroll/blogs/6.升级Pre-Alpha测试网.md",
+    "scroll/blogs/7.KZG实践：多项式承诺方案及以太坊扩容中的用例.md",
+    "scroll/blogs/9.Pre-Alpha测试网版本升级说明.md",
+    "scroll/blogs/11. Scroll 开源贡献.md",
+    "scroll/blogs/10.Goerli的Alpha测试网发布.md",
+    "scroll/blogs/16. Scroll Origins NFT 发布.md",
+    "scroll/blogs/17.  2023年10月社区回顾.md",
+    "scroll/updates/weekly updates/img/59-14.jpeg.crdownload",
+    "scroll/updates/sessions",
+    "scroll/updates/activities/img/V0RTEx 01-15.jpeg.crdownload",
+    "scroll/updates/weekly updates/img/55-11.jpeg.crdownload"
   ]
 }
